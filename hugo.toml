@@ -1,6 +1,6 @@
-baseURL = 'https://globe-software.github.io'
+baseURL = "https://globe-software.github.io"
 languageCode = "es-es"
-title = 'Botmeni'
+title = 'Documentación de Botmeni'
 
 [module]
     # uncomment line below for temporary local development of module
@@ -12,10 +12,18 @@ title = 'Botmeni'
     [[module.imports]]
         path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
         disable = false
-[markup.goldmark.renderer]
-    unsafe = true
-    
+    [[module.mounts]]
+        source = 'static'
+        target = 'assets'
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.renderHooks]
+      [markup.goldmark.renderHooks.image]
+        enableDefault = true
 [params.docs]
-    title = "BotMeni"
+    title = "Botmeni"
     themeColor = "yellow"
     sidebarIcons = true
+    titleIcon = true

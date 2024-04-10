@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Docs on Botmeni</title>
+    <title>Docs on Documentación de Botmeni</title>
     <link>http://localhost:1313/docs/</link>
-    <description>Recent content in Docs on Botmeni</description>
+    <description>Recent content in Docs on Documentación de Botmeni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <lastBuildDate>Mon, 08 Apr 2024 23:13:49 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ejemplo</title>
-      <link>http://localhost:1313/docs/ejemplo/</link>
+      <title>Introducción</title>
+      <link>http://localhost:1313/docs/introduccion/</link>
       <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
-      <guid>http://localhost:1313/docs/ejemplo/</guid>
-      <description>Titulo linkEsto es una prueba para ver como resaltar una palabra:&#xA;codigo o comandos Y asi se pega una imagen&#xA;check_circle Esta es una alerta de prueba &amp;hellip;</description>
+      <guid>http://localhost:1313/docs/introduccion/</guid>
+      <description>¿Qué es Botmeni? linkDescripción de Botmeni&#xA;¿Cómo funciona? link Punto 1: Descripción punto 1 Punto 2: Descripción punto 2 Punto 3: Descripción punto 3 </description>
     </item>
   </channel>
 </rss>

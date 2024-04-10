@@ -1,0 +1,9 @@
+{{ define "main" }} {{ $redirectPage := .GetPage "/docs" }} {{ if $redirectPage
+}} {{ $path := $redirectPage.RelPermalink }}
+<meta http-equiv="refresh" content="0; URL='{{ $path }}'" />
+<script type="text/javascript">
+  window.location.href = "{{ $path }}";
+</script>
+{{ else }}
+<p>Error: Page "/docs/introduccion.md" not found</p>
+{{ end }} {{ end }}
