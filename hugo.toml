@@ -24,6 +24,8 @@ title = 'Documentación de Botmeni'
         enableDefault = true
 [params.docs]
     title = "Botmeni"
-    themeColor = "yellow"
     sidebarIcons = true
     titleIcon = true
+
+[params.meta]
+    favicon = true
