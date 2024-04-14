@@ -10,17 +10,14 @@ draft: false
 toc: true
 ---
 
-# ¡Hola!
-
 Bienvenido a botmeni, la solución basada en inteligencia artificial (IA) que responderá en pocos segundos las consultas de tus clientes, como tú mismo lo harías.
 Esta guía te ayudará a aprovechar al máximo nuestro sistema de IA, obteniendo respuestas precisas y completas, que te permitan mantener una comunicación ágil, amena y personalizada con tus clientes.
 
 
 ### ¿Qué encontrarás en esta guía?
 
-- **Introducción a botmeni:** Descubre qué es botmeni, cómo funciona y por qué es la mejor solución para tu negocioDescripción punto 1
-- **Administrar tu cuenta:** Aprende a crear y personalizar tu cuenta, actualizar tu datos y gestionar los usuarios.
-Descripción punto 2
+- **Introducción a botmeni:** Descubre qué es botmeni, cómo funciona y por qué es la mejor solución para tu negocio
+- **Administrar tu cuenta:** Aprende a crear y personalizar tu cuenta, actualizar tu datos y gestionar los usuarios
 - **Suscripción y pagos:**  Te mostramos dónde ver el detalle completo de tus pagos y suscripción, cómo administrar las tarjetas asociadas, descargar tu factura y recibos. 
 - **Configuración de tu cuenta**: comprende cómo establecer la configuración del bot para que las respuestas se ajusten exactamente a lo que tu negocio requiere.
 - **Preguntas de Mercado Libre:** descubre las distintas secciones que tiene la plataforma que te permitirán encontrar fácilmente las preguntas pendientes y el registro histórico de consultas.
@@ -33,7 +30,7 @@ Descripción punto 2
 
 No dudes en contactarnos a través de nuestro correo electrónico hola@botmeni.com
 
-### ¡Estamos aquí para ayudarte!
+##¡Estamos aquí para ayudarte!
 
 <br></br>
 
