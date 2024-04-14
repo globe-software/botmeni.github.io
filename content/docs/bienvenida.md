@@ -1,7 +1,7 @@
 ---
 weight: 100
-title: "Introducción"
-description: "Introducción a Botmeni"
+title: "Bienvenido"
+description: "Bienvenido a botmeni, la solución basada en inteligencia artificial (IA) que responderá en pocos segundos las consultas de tus clientes, como si tú mismo lo hicieras"
 icon: "article"
 color: "primary"
 date: "2024-04-08T23:13:49-05:00"
