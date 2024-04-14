@@ -10,8 +10,10 @@ draft: false
 toc: true
 ---
 
+
 Bienvenido a botmeni, la solución basada en inteligencia artificial (IA) que responderá en pocos segundos las consultas de tus clientes, como tú mismo lo harías.
-Esta guía te ayudará a aprovechar al máximo nuestro sistema de IA, obteniendo respuestas precisas y completas, que te permitan mantener una comunicación ágil, amena y personalizada con tus clientes.
+
+Esta guía te ayudará a aprovechar al máximo nuestro sistema de IA, obteniendo respuestas precisas y completas, que te permitirá mantener una comunicación ágil, amena y personalizada con tus clientes.
 
 
 ### ¿Qué encontrarás en esta guía?
@@ -30,7 +32,7 @@ Esta guía te ayudará a aprovechar al máximo nuestro sistema de IA, obteniendo
 
 No dudes en contactarnos a través de nuestro correo electrónico hola@botmeni.com
 
-##¡Estamos aquí para ayudarte!
+## ¡Estamos aquí para ayudarte!
 
 <br></br>
 
