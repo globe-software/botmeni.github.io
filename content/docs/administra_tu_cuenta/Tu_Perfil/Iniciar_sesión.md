@@ -1,6 +1,6 @@
 ---
 weight: 220
-title: "Iniciar esión"
+title: "Iniciar sesión"
 description: "Iniciar sesión"
 icon: "category"
 color: "primary"
