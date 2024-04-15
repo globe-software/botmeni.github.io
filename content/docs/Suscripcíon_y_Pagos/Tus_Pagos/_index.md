@@ -1,5 +1,5 @@
 ---
-weight: 310
+weight: 305
 title: "Tus Pagos"
 description: "Tus Pagos"
 icon: "settings"

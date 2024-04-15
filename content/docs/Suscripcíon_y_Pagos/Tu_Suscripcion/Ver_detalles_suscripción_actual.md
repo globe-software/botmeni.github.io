@@ -1,7 +1,7 @@
 ---
-weight: 335
-title: "Pagar tu factura"
-description: "Pagar tu factura"
+weight: 410
+title: "Ver detalles de tu suscripción actual"
+description: "Ver detalles de tu suscripción actual"
 icon: "inventory_2"
 color: "primary"
 date: "2024-04-08T23:13:49-05:00"

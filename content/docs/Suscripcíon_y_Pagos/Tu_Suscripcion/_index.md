@@ -1,5 +1,5 @@
 ---
-weight: 380
+weight: 400
 title: "Tu Suscripción"
 description: "Tu Suscripción"
 icon: "settings"

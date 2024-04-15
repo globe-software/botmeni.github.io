@@ -1,5 +1,5 @@
 ---
-weight: 400
+weight: 230
 title: "Visualizar tu perfil"
 description: "Visuaizar tu perfil"
 icon: "category"

@@ -1,7 +1,7 @@
 ---
 weight: 220
-title: "Registrar una cuenta"
-description: "Registrar una cuenta"
+title: "Iniciar esión"
+description: "Iniciar sesión"
 icon: "category"
 color: "primary"
 date: "2024-04-08T23:13:49-05:00"

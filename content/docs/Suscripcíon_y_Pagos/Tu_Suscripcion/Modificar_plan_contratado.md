@@ -1,8 +1,8 @@
 ---
-weight: 235
-title: "Actualizar los datos"
-description: "Actualizar los datos"
-icon: "category"
+weight: 435
+title: "Modificar plan contratado"
+description: "Modificar plan contratado"
+icon: "inventory_2"
 color: "primary"
 date: "2024-04-08T23:13:49-05:00"
 lastmod: "2024-04-08T23:13:49-05:00"
