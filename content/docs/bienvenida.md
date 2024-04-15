@@ -11,7 +11,7 @@ toc: true
 ---
 <br>
 
-¿Hola! Descrubre Botmeni, la solución basada en inteligencia artificial (IA) que responderá en pocos segundos las consultas de tus clientes, como tú mismo lo harías.
+¡Hola! Descrubre Botmeni, la solución basada en inteligencia artificial (IA) que responderá en pocos segundos las consultas de tus clientes, como tú mismo lo harías.
 
 Esta guía te ayudará a aprovechar al máximo nuestro sistema de IA, obteniendo respuestas precisas y completas, que te permitirá mantener una comunicación ágil, amena y personalizada con tus clientes.
 
@@ -36,4 +36,4 @@ No dudes en contactarnos a través de nuestro correo electrónico hola@botmeni.c
 
 <br></br>
 
-![Logo Horizontal](/images/Logo-Botmeni-Horizontal.png)
+![Logo Horizontal](/images/Logo-Botmeni-Horizontal.png width="200" height="100")
