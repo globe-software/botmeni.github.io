@@ -16,7 +16,7 @@ toc: true
 Esta guía te ayudará a aprovechar al máximo nuestro sistema de IA, obteniendo respuestas precisas y completas, que te permitirá mantener una comunicación ágil, amena y personalizada con tus clientes.
 
 
-### ¿Qué encontrarás en esta guía? {#guia-id}
+### ¿Qué encontrarás en esta guía?{#guia-ids}
 
 - **Introducción a botmeni:** Descubre qué es botmeni, cómo funciona y por qué es la mejor solución para tu negocio
 - **Administrar tu cuenta:** Aprende a crear y personalizar tu cuenta, actualizar tu datos y gestionar los usuarios
