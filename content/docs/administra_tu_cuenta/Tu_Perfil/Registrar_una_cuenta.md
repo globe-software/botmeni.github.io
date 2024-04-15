@@ -10,5 +10,6 @@ draft: false
 toc: true
 ---
 
-descubre qué [encontrarás en esta guia] (#https://globe-software.github.io/botmeni.github.io/docs/bienvenida/)
+descubre qué [encontrarás en esta guia](#guia)
+
 
