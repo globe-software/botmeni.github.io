@@ -16,7 +16,7 @@ toc: true
 Esta guía te ayudará a aprovechar al máximo nuestro sistema de IA, obteniendo respuestas precisas y completas, que te permitirá mantener una comunicación ágil, amena y personalizada con tus clientes.
 
 
-### ¿Qué encontrarás en esta guía? {#guia}
+### Guia {#guias}
 
 - **Introducción a botmeni:** Descubre qué es botmeni, cómo funciona y por qué es la mejor solución para tu negocio
 - **Administrar tu cuenta:** Aprende a crear y personalizar tu cuenta, actualizar tu datos y gestionar los usuarios
@@ -28,7 +28,7 @@ Esta guía te ayudará a aprovechar al máximo nuestro sistema de IA, obteniendo
 - **Preguntas frecuentes:** Encuentra respuestas a las preguntas usuales que se realizan sobre botmeni. 
 - **Consejos Botmeni:** Conoce cómo aprovechar al máximo el potencial de Botmeni, logrando ofrecer la atención al cliente rápida y eficiente que deseas.
 
-### ¿Necesitas ayuda?
+### [¿Necesitas ayuda?](./administra_tu_cuenta/Tu_Perfil/Iniciar_sesión.md)
 
 No dudes en contactarnos a través de nuestro correo electrónico hola@botmeni.com
 

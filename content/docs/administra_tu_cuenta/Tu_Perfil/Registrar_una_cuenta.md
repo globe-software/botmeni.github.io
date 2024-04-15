@@ -10,6 +10,6 @@ draft: false
 toc: true
 ---
 
-descubre qué [encontrarás en esta guia](#guia)
+descubre qué [guia](../../bienvenida.md#guia-guias)
 
 
