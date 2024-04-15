@@ -1,5 +1,5 @@
 ---
-weight: 300
+weight: 600
 title: "Onboarding"
 description: "Onboarding"
 icon: "category"

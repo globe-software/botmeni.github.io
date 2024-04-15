@@ -1,5 +1,5 @@
 ---
-weight: 100
+weight: 400
 title: "Registrar una cuenta"
 description: "Registrar una cuenta"
 icon: "category"

@@ -1,5 +1,5 @@
 ---
-weight: 700
+weight: 1000
 title: "Eliminar la cuenta"
 description: "Eliminar la cuenta"
 icon: "category"

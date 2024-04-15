@@ -1,5 +1,5 @@
 ---
-weight: 500
+weight: 800
 title: "Recuperar contraseña"
 description: "Recuperar contraseña"
 icon: "category"
