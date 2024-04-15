@@ -2,7 +2,7 @@
 weight: 100
 title: "Bienvenido"
 description: "¿Qué encontrarás en esta guía?"
-icon: "article"
+icon: "waving_hand"
 color: "#FABE10"
 date: "2024-04-08T23:13:49-05:00"
 lastmod: "2024-04-08T23:13:49-05:00"
