@@ -1,5 +1,5 @@
 ---
-weight: 400
+weight: 1400
 title: "Actualizar los datos de un usuario"
 description: "Actualizar los datos de un usuario"
 icon: "category"

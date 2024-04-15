@@ -1,7 +1,7 @@
 ---
-weight: 200
-title: "Administra tu cuenta"
-description: ""
+weight: 300
+title: "Suscripciones y Pagos"
+description: "Suscripciones y Pagos"
 icon: "settings"
 date: "2024-04-08T14:38:13-05:00"
 lastmod: "2024-04-08T14:38:13-05:00"

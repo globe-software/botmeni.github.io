@@ -1,5 +1,5 @@
 ---
-weight: 500
+weight: 1600
 title: "Modificar contraseña de usuario no creador de cuenta"
 description: "Modificar contraseña de usuario no creador de cuenta"
 icon: "category"
