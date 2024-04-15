@@ -36,4 +36,4 @@ No dudes en contactarnos a través de nuestro correo electrónico hola@botmeni.c
 
 <br></br>
 
-![Logo Horizontal](/images/Logo-Botmeni-Horizontal.png width="200" height="100")
+![Logo Horizontal](/images/Logo-Botmeni-Horizontal.png)
