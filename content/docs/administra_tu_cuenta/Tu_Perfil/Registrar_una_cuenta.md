@@ -10,4 +10,4 @@ draft: false
 toc: true
 ---
 
-descubre qué [encontrarás en esta guia](#¿qué encontrarás en esta guía?)
+descubre qué [encontrarás en esta guia](#¿Qué encontrarás en esta guía?-ids)
