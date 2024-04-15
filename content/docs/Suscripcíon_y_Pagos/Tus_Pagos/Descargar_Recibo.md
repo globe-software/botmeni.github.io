@@ -1,8 +1,8 @@
 ---
-weight: 228
-title: "Onboarding"
-description: "Onboarding"
-icon: "category"
+weight: 330
+title: "Descargar recibo"
+description: "Descargar recibo"
+icon: "inventory_2"
 color: "primary"
 date: "2024-04-08T23:13:49-05:00"
 lastmod: "2024-04-08T23:13:49-05:00"

@@ -1,5 +1,5 @@
 ---
-weight: 1500
+weight: 275
 title: "Agregar un usuario nuevo"
 description: "Agregar un usuario nuevo"
 icon: "category"

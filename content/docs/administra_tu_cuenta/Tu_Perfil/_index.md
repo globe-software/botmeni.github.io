@@ -1,5 +1,5 @@
 ---
-weight: 300
+weight: 210
 title: "Tu Perfil"
 description: "Tu Pefil"
 icon: "settings"

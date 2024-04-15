@@ -1,5 +1,5 @@
 ---
-weight: 700
+weight: 230
 title: "Actualizar los datos"
 description: "Actualizar los datos"
 icon: "category"

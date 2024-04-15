@@ -1,5 +1,5 @@
 ---
-weight: 1200
+weight: 260
 title: "Roles de usuario"
 description: "Roles de usuario"
 icon: "category"

@@ -1,5 +1,5 @@
 ---
-weight: 1700
+weight: 280
 title: "Eliminar un usuario"
 description: "Eliminar un usuario"
 icon: "category"

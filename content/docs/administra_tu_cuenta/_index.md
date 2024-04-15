@@ -1,5 +1,5 @@
 ---
-weight: 1100
+weight: 200
 title: "Administra tu cuenta"
 description: "Administra tu cuenta"
 icon: "settings"

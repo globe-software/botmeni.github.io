@@ -1,5 +1,5 @@
 ---
-weight: 900
+weight: 240
 title: "Modificar contraseña"
 description: "Modificar contraseña"
 icon: "category"
