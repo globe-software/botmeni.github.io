@@ -28,11 +28,11 @@ Esta guía te ayudará a aprovechar al máximo nuestro sistema de IA, obteniendo
 - **Preguntas frecuentes:** Encuentra respuestas a las preguntas usuales que se realizan sobre botmeni. 
 - **Consejos Botmeni:** Conoce cómo aprovechar al máximo el potencial de Botmeni, logrando ofrecer la atención al cliente rápida y eficiente que deseas.
 
-### [¿Necesitas ayuda?](./administra_tu_cuenta/Tu_Perfil/Iniciar_sesión.md)
+### ¿Necesitas ayuda?
 
 No dudes en contactarnos a través de nuestro correo electrónico hola@botmeni.com
 
-### ¡Estamos aquí para ayudarte! {#ayudarte}
+### ¡Estamos aquí para ayudarte! 
 
 <br></br>
 
