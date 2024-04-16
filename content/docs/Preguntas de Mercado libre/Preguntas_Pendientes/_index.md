@@ -1,11 +1,10 @@
 ---
-weight: 1400
-title: "Prueba a botmeni"
-description: ""
+weight: 860
+title: "Preguntas pendientes en Mercado Libre"
 icon: "settings"
 date: "2024-04-08T14:38:13-05:00"
 lastmod: "2024-04-08T14:38:13-05:00"
-description: "Prueba a botmeni como si fueras tu cliente"
+description: "Preguntas pendientes en Mercado Libre"
 draft: false
 toc: true
 ---

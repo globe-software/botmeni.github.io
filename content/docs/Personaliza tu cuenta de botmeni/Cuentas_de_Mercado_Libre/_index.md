@@ -1,7 +1,7 @@
 ---
-weight: 700
-title: "Centros de Distribución"
-description: "Centros de Distribución"
+weight: 600
+title: "Cuentas de Mercado Libre vinculadas a tu cuenta de botemeni"
+description: "Cuentas de Mercado Libre vinculadas a tu cuenta de botemeni"
 icon: "settings"
 date: "2024-04-08T14:38:13-05:00"
 lastmod: "2024-04-08T14:38:13-05:00"
