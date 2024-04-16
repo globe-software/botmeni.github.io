@@ -1,11 +1,11 @@
 ---
-weight: 500
-title: "Personaliza tu cuenta de botmeni"
+weight: 1400
+title: "Prueba a botmeni como si fueras tu cliente"
 description: ""
 icon: "settings"
 date: "2024-04-08T14:38:13-05:00"
 lastmod: "2024-04-08T14:38:13-05:00"
-description: "Personaliza tu cuenta de botmeni"
+description: "Prueba a botmeni como si fueras tu cliente"
 draft: false
 toc: true
 ---
