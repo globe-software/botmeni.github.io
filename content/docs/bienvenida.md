@@ -32,7 +32,7 @@ Esta guía te ayudará a aprovechar al máximo nuestro sistema de IA, obteniendo
 
 No dudes en contactarnos a través de nuestro correo electrónico hola@botmeni.com
 
-### ¡Estamos aquí para ayudarte!
+### ¡Estamos aquí para ayudarte! {#ayudarte}
 
 <br></br>
 

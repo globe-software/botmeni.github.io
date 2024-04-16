@@ -10,6 +10,6 @@ draft: false
 toc: true
 ---
 
-descubre qué [guia](../../bienvenida.md#¿necesitas-ayuda)
+descubre qué [guia](../../bienvenida.md#¡estamos-aquí-para-ayudarte-ayudarte)
 
 
