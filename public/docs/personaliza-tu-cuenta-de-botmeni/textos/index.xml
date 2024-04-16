@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Textos on Documentación de Botmeni</title>
+    <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/textos/</link>
+    <description>Recent content in Textos on Documentación de Botmeni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 08 Apr 2024 23:13:49 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/textos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ventajas personalizar (ver si queda)</title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/textos/ventajas_textos/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/textos/ventajas_textos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personalizar el modo de comunicación del bot</title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/textos/establecer_textos/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/textos/establecer_textos/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

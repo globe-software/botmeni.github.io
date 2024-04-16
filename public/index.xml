@@ -9,31 +9,416 @@
     <lastBuildDate>Mon, 08 Apr 2024 23:13:49 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Introducción</title>
-      <link>http://localhost:1313/docs/introduccion/</link>
+      <title>Bienvenido</title>
+      <link>http://localhost:1313/docs/bienvenida/</link>
       <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
-      <guid>http://localhost:1313/docs/introduccion/</guid>
-      <description>¿Qué es Botmeni? linkDescripción de Botmeni&#xA;¿Cómo funciona? link Punto 1: Descripción punto 1 Punto 2: Descripción punto 2 Punto 3: Descripción punto 3 </description>
+      <guid>http://localhost:1313/docs/bienvenida/</guid>
+      <description>¡Hola! Descrubre Botmeni, la solución basada en inteligencia artificial (IA) que responderá en pocos segundos las consultas de tus clientes, como tú mismo lo harías.&#xA;Esta guía te ayudará a aprovechar al máximo nuestro sistema de IA, obteniendo respuestas precisas y completas, que te permitirá mantener una comunicación ágil, amena y personalizada con tus clientes.&#xA;¿Qué encontrarás en esta guía? link Introducción a botmeni: Descubre qué es botmeni, cómo funciona y por qué es la mejor solución para tu negocio Administrar tu cuenta: Aprende a crear y personalizar tu cuenta, actualizar tu datos y gestionar los usuarios Suscripción y pagos: Te mostramos dónde ver el detalle completo de tus pagos y suscripción, cómo administrar las tarjetas asociadas, descargar tu factura y recibos.</description>
     </item>
     <item>
-      <title>Tratamiento de Categorías</title>
-      <link>http://localhost:1313/docs/configuraciones/tratamiento_categorias/</link>
+      <title>Registrar una cuenta</title>
+      <link>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/registrar_una_cuenta/</link>
       <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
-      <guid>http://localhost:1313/docs/configuraciones/tratamiento_categorias/</guid>
+      <guid>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/registrar_una_cuenta/</guid>
+      <description>Para crear tu cuenta:&#xA;Completa el formulario de registro, al cual puedes acceder en el siguiente link: https://prod.botmeni.com/suscripciones/register&#xA;También puedes acceder al mismo presionando CONTRATAR en el plan de botmeni al que desees suscribirte desde https://prod.botmeni.com/suscripciones/applications/mercadolibre.&#xA;Acepta los términos y condiciones.&#xA;Presiona el botón CREAR CUENTA. Sabrás que lo hiciste de forma correcta ya que te aparecerá un cartel de confirmación, y recibirás un mail en la casilla de correo electrónico requiriendo tu confirmación.</description>
+    </item>
+    <item>
+      <title>Iniciar sesión</title>
+      <link>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/iniciar_sesi%C3%B3n/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/iniciar_sesi%C3%B3n/</guid>
+      <description>Una vez que has creado tu cuenta y confirmado tu correo electrónico, ya puedes ingresar a la plataforma en https://prod.botmeni.com/login Recuerda que debes utilizar el mail y contraseña que hayas definido al registrarte.</description>
+    </item>
+    <item>
+      <title>Contratar plan por primera vez</title>
+      <link>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/contratar_primer_plan/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/contratar_primer_plan/</guid>
+      <description>Una vez que has creado tu cuenta, puedes contratar tu plan:&#xA;1. Inicia Sesión. 2. Se abrirá la pantalla con la descripción de los planes disponibles: Selecciona la cantidad de preguntas que deseas contratar.&#xD;3. Presiona CONTRATAR en el plan al que deseas adherir.&#xD;4. Si cuentas con un cupón de descuento, detallado en el campo Cupón de descuento y presiona APLICAR.&#xD;5. Ingresa datos de la tarjeta que vincularás a la suscripción y presiona AGREGAR TARJETA.</description>
+    </item>
+    <item>
+      <title>Onboarding</title>
+      <link>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/onboarding/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/onboarding/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tratamiento de productos</title>
-      <link>http://localhost:1313/docs/configuraciones/tratamiento_productos/</link>
+      <title>Visualizar tu perfil</title>
+      <link>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/visualizar_tu_perfil/</link>
       <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
-      <guid>http://localhost:1313/docs/configuraciones/tratamiento_productos/</guid>
+      <guid>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/visualizar_tu_perfil/</guid>
       <description></description>
     </item>
     <item>
-      <title>Horarios Solo Analizar</title>
-      <link>http://localhost:1313/docs/configuraciones/horarios_solo_analizar/</link>
+      <title>Actualizar los datos</title>
+      <link>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/actualizar_los_datos/</link>
       <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
-      <guid>http://localhost:1313/docs/configuraciones/horarios_solo_analizar/</guid>
+      <guid>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/actualizar_los_datos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modificar contraseña</title>
+      <link>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/modificar_contrase%C3%B1a/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/modificar_contrase%C3%B1a/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recuperar contraseña</title>
+      <link>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/recuperar_contrase%C3%B1a/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/recuperar_contrase%C3%B1a/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eliminar la cuenta</title>
+      <link>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/eliminar_la_cuenta/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/eliminar_la_cuenta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Roles de usuario</title>
+      <link>http://localhost:1313/docs/administra_tu_cuenta/usuarios/roles_de_usuarios/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/administra_tu_cuenta/usuarios/roles_de_usuarios/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conocer los usuarios de mi cuenta</title>
+      <link>http://localhost:1313/docs/administra_tu_cuenta/usuarios/conocer_los_usuarios_de_mi_cuenta/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/administra_tu_cuenta/usuarios/conocer_los_usuarios_de_mi_cuenta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Actualizar los datos de un usuario</title>
+      <link>http://localhost:1313/docs/administra_tu_cuenta/usuarios/actualizar_los_datos_de_un_usuario/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/administra_tu_cuenta/usuarios/actualizar_los_datos_de_un_usuario/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Agregar un usuario nuevo</title>
+      <link>http://localhost:1313/docs/administra_tu_cuenta/usuarios/agregar_usuario_nuevo/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/administra_tu_cuenta/usuarios/agregar_usuario_nuevo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eliminar un usuario</title>
+      <link>http://localhost:1313/docs/administra_tu_cuenta/usuarios/eliminar_usuario/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/administra_tu_cuenta/usuarios/eliminar_usuario/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visualizar Suscripciones</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/visualizar_suscripciones/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/visualizar_suscripciones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ver detalle de pagos de tu suscripción activa</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/ver_detalles_suscripcion/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/ver_detalles_suscripcion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visualizar y descargar factura de tu suscripción activa</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/visualizar_y_descargar_factura_suscricion_activa/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/visualizar_y_descargar_factura_suscricion_activa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Descargar recibo</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/descargar_recibo/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/descargar_recibo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pagar tu factura</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/pagar_tu_factura/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/pagar_tu_factura/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Asociar una nueva tarjeta desde Suscripciones</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/asociar_nueva_tarjeta_suscripciones/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/asociar_nueva_tarjeta_suscripciones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modificar la tarjeta adherida a la suscripción</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/modificar_tarjeta_adherida_suscripciones/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/modificar_tarjeta_adherida_suscripciones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eliminar una tarjeta asociada a la cuenta</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/eliminar_tarjeta_asociada_a_cuenta/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/eliminar_tarjeta_asociada_a_cuenta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pago Rechazao. Reintentar</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/pago_rechazado_reintentar/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/pago_rechazado_reintentar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ver detalles de tu suscripción actual</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tu_suscripcion/ver_detalles_suscripci%C3%B3n_actual/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tu_suscripcion/ver_detalles_suscripci%C3%B3n_actual/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conocer las funciones y beneficios incluidos en el plan contratado</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tu_suscripcion/conocer_beneficios_planes/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tu_suscripcion/conocer_beneficios_planes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cotizar una modificación en la cantidad de preguntas contratadas</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tu_suscripcion/cotizar_cambio/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tu_suscripcion/cotizar_cambio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modificar la cantidad de preguntas contratadas para tu plan</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tu_suscripcion/modificar_contrato/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tu_suscripcion/modificar_contrato/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Renovar anticipadamente el plan</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tu_suscripcion/renovar_anticipadamente_plan/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tu_suscripcion/renovar_anticipadamente_plan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>¿Cuántas preguntas me quedan disponibles?</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tu_suscripcion/preguntas_disponibles_mes_actual/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tu_suscripcion/preguntas_disponibles_mes_actual/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cancelar la suscripción</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tu_suscripcion/cancelar_suscripci%C3%B3n/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tu_suscripcion/cancelar_suscripci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nombre de la empresa que se utilizará en las respuestas</title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/caracter%C3%ADsticas_generales_de_respuesta/nombre_empresa_en_respuestas/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/caracter%C3%ADsticas_generales_de_respuesta/nombre_empresa_en_respuestas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modo de distribución o envío de los productos</title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/caracter%C3%ADsticas_generales_de_respuesta/modo_envio_productos/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/caracter%C3%ADsticas_generales_de_respuesta/modo_envio_productos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Enviar mails cuando existan preguntas pendientes</title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/caracter%C3%ADsticas_generales_de_respuesta/enviar_mail_preguntas_pendientes/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/caracter%C3%ADsticas_generales_de_respuesta/enviar_mail_preguntas_pendientes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Excluir información de catálogo</title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/caracter%C3%ADsticas_generales_de_respuesta/excluir_informacion_catalogo/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/caracter%C3%ADsticas_generales_de_respuesta/excluir_informacion_catalogo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Excluir información de la ficha técnica</title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/caracter%C3%ADsticas_generales_de_respuesta/excluir_informacion_ficha_tecnica/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/caracter%C3%ADsticas_generales_de_respuesta/excluir_informacion_ficha_tecnica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personaliza el comportamiento de respuesta</title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/personaliza_modo_respuesta/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/personaliza_modo_respuesta/</guid>
+      <description>Una de las grandes ventajas que distingue a nuestro bot es que puedes personalizar el modo en que responde las preguntas en función de distintos parámetros, como por ejemplo la categoría del producto sobre el que se está consultando,el motivo de pregunta o los horarios en que la misma se realiza. La configuración del comportamiento de gestión de las respuestas en Automático, Sólo analizar y No analizar puede aplicarse tanto de modo general para toda tu tienda, como de modo personalizado para una determinada vertical de negocios, una categoría especial dentro de una vertical o incluso para un producto en particular.</description>
+    </item>
+    <item>
+      <title>¿Cuáles son los comportamientos de respuesta disponibles?</title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/comportamiento_respuesta/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/comportamiento_respuesta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ingresar a la sección Configuraciones</title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/seccion_configuraciones/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/seccion_configuraciones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Definir el comportamiento de respuesta por vertical de negocio</title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/comportamiento_vertical/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/comportamiento_vertical/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Definir el comportamiento general de la tienda</title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/comportamiento_general_de_tienda/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/comportamiento_general_de_tienda/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Definir el comportamiento de respuesta para una categoría en particular</title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/comportamiento_por_categoria/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/comportamiento_por_categoria/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Definir el comportamiento de respuesta para un producto específico</title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/comportamiento_producto/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/comportamiento_producto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cuentas de Mercado Libre vinculadas a botmeni</title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/cuentas_de_mercado_libre/cuentas_ml/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/cuentas_de_mercado_libre/cuentas_ml/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ventajas personalizar (ver si queda)</title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/textos/ventajas_textos/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/textos/ventajas_textos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personalizar el modo de comunicación del bot</title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/textos/establecer_textos/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/textos/establecer_textos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>¿Para qué se utilizan los datos detallados en un local?</title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/locales/utilidad_datos_local/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/locales/utilidad_datos_local/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Datos de tus locales</title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/locales/datos_local/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/locales/datos_local/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test: Probar cómo contesta botmeni las preguntas de tus clientes</title>
+      <link>http://localhost:1313/docs/prueba_botmeni/conoce_a_botmeni/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/prueba_botmeni/conoce_a_botmeni/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conocer el ID o la URL de un producto de mi tienda.</title>
+      <link>http://localhost:1313/docs/prueba_botmeni/id_url_del_producto/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/prueba_botmeni/id_url_del_producto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Información disponible de las preguntas de prueba</title>
+      <link>http://localhost:1313/docs/prueba_botmeni/informacion_pregunta_test/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/prueba_botmeni/informacion_pregunta_test/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modificar contraseña de usuario no creador de cuenta</title>
+      <link>http://localhost:1313/docs/administra_tu_cuenta/usuarios/modificar_contrase%C3%B1a_de_usuario_no_administrador_de_cuenta/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/administra_tu_cuenta/usuarios/modificar_contrase%C3%B1a_de_usuario_no_administrador_de_cuenta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>¿Necesitas ayuda?</title>
+      <link>http://localhost:1313/docs/ayuda/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/ayuda/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/horarios_solo_analizar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/horarios_solo_analizar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/preguntas_compatibilidad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/preguntas_compatibilidad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/preguntas_n%C3%BAmero_chasis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/preguntas_n%C3%BAmero_chasis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/preguntas_stock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/preguntas_stock/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/preguntas_venta_recient/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/preguntas_venta_recient/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/respuestas_con_link_otro_producto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/respuestas_con_link_otro_producto/</guid>
       <description></description>
     </item>
   </channel>

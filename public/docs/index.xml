@@ -9,11 +9,18 @@
     <lastBuildDate>Mon, 08 Apr 2024 23:13:49 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Introducción</title>
-      <link>http://localhost:1313/docs/introduccion/</link>
+      <title>Bienvenido</title>
+      <link>http://localhost:1313/docs/bienvenida/</link>
       <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
-      <guid>http://localhost:1313/docs/introduccion/</guid>
-      <description>¿Qué es Botmeni? linkDescripción de Botmeni&#xA;¿Cómo funciona? link Punto 1: Descripción punto 1 Punto 2: Descripción punto 2 Punto 3: Descripción punto 3 </description>
+      <guid>http://localhost:1313/docs/bienvenida/</guid>
+      <description>¡Hola! Descrubre Botmeni, la solución basada en inteligencia artificial (IA) que responderá en pocos segundos las consultas de tus clientes, como tú mismo lo harías.&#xA;Esta guía te ayudará a aprovechar al máximo nuestro sistema de IA, obteniendo respuestas precisas y completas, que te permitirá mantener una comunicación ágil, amena y personalizada con tus clientes.&#xA;¿Qué encontrarás en esta guía? link Introducción a botmeni: Descubre qué es botmeni, cómo funciona y por qué es la mejor solución para tu negocio Administrar tu cuenta: Aprende a crear y personalizar tu cuenta, actualizar tu datos y gestionar los usuarios Suscripción y pagos: Te mostramos dónde ver el detalle completo de tus pagos y suscripción, cómo administrar las tarjetas asociadas, descargar tu factura y recibos.</description>
+    </item>
+    <item>
+      <title>¿Necesitas ayuda?</title>
+      <link>http://localhost:1313/docs/ayuda/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/ayuda/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

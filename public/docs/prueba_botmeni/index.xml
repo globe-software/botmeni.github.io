@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prueba a botmeni on Documentación de Botmeni</title>
+    <link>http://localhost:1313/docs/prueba_botmeni/</link>
+    <description>Recent content in Prueba a botmeni on Documentación de Botmeni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 08 Apr 2024 23:13:49 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/prueba_botmeni/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test: Probar cómo contesta botmeni las preguntas de tus clientes</title>
+      <link>http://localhost:1313/docs/prueba_botmeni/conoce_a_botmeni/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/prueba_botmeni/conoce_a_botmeni/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conocer el ID o la URL de un producto de mi tienda.</title>
+      <link>http://localhost:1313/docs/prueba_botmeni/id_url_del_producto/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/prueba_botmeni/id_url_del_producto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Información disponible de las preguntas de prueba</title>
+      <link>http://localhost:1313/docs/prueba_botmeni/informacion_pregunta_test/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/prueba_botmeni/informacion_pregunta_test/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

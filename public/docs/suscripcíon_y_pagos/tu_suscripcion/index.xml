@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tu Suscripción on Documentación de Botmeni</title>
+    <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tu_suscripcion/</link>
+    <description>Recent content in Tu Suscripción on Documentación de Botmeni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 08 Apr 2024 23:13:49 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tu_suscripcion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ver detalles de tu suscripción actual</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tu_suscripcion/ver_detalles_suscripci%C3%B3n_actual/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tu_suscripcion/ver_detalles_suscripci%C3%B3n_actual/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conocer las funciones y beneficios incluidos en el plan contratado</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tu_suscripcion/conocer_beneficios_planes/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tu_suscripcion/conocer_beneficios_planes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cotizar una modificación en la cantidad de preguntas contratadas</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tu_suscripcion/cotizar_cambio/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tu_suscripcion/cotizar_cambio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modificar la cantidad de preguntas contratadas para tu plan</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tu_suscripcion/modificar_contrato/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tu_suscripcion/modificar_contrato/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Renovar anticipadamente el plan</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tu_suscripcion/renovar_anticipadamente_plan/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tu_suscripcion/renovar_anticipadamente_plan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>¿Cuántas preguntas me quedan disponibles?</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tu_suscripcion/preguntas_disponibles_mes_actual/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tu_suscripcion/preguntas_disponibles_mes_actual/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cancelar la suscripción</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tu_suscripcion/cancelar_suscripci%C3%B3n/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tu_suscripcion/cancelar_suscripci%C3%B3n/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

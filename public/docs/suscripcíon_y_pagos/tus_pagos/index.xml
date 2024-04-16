@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tus Pagos on Documentación de Botmeni</title>
+    <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/</link>
+    <description>Recent content in Tus Pagos on Documentación de Botmeni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 08 Apr 2024 23:13:49 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visualizar Suscripciones</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/visualizar_suscripciones/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/visualizar_suscripciones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ver detalle de pagos de tu suscripción activa</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/ver_detalles_suscripcion/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/ver_detalles_suscripcion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visualizar y descargar factura de tu suscripción activa</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/visualizar_y_descargar_factura_suscricion_activa/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/visualizar_y_descargar_factura_suscricion_activa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Descargar recibo</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/descargar_recibo/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/descargar_recibo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pagar tu factura</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/pagar_tu_factura/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/pagar_tu_factura/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Asociar una nueva tarjeta desde Suscripciones</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/asociar_nueva_tarjeta_suscripciones/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/asociar_nueva_tarjeta_suscripciones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modificar la tarjeta adherida a la suscripción</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/modificar_tarjeta_adherida_suscripciones/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/modificar_tarjeta_adherida_suscripciones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eliminar una tarjeta asociada a la cuenta</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/eliminar_tarjeta_asociada_a_cuenta/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/eliminar_tarjeta_asociada_a_cuenta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pago Rechazao. Reintentar</title>
+      <link>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/pago_rechazado_reintentar/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/suscripc%C3%ADon_y_pagos/tus_pagos/pago_rechazado_reintentar/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

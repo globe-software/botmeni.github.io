@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Características generales de respuesta on Documentación de Botmeni</title>
+    <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/caracter%C3%ADsticas_generales_de_respuesta/</link>
+    <description>Recent content in Características generales de respuesta on Documentación de Botmeni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 08 Apr 2024 23:13:49 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/caracter%C3%ADsticas_generales_de_respuesta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nombre de la empresa que se utilizará en las respuestas</title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/caracter%C3%ADsticas_generales_de_respuesta/nombre_empresa_en_respuestas/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/caracter%C3%ADsticas_generales_de_respuesta/nombre_empresa_en_respuestas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modo de distribución o envío de los productos</title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/caracter%C3%ADsticas_generales_de_respuesta/modo_envio_productos/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/caracter%C3%ADsticas_generales_de_respuesta/modo_envio_productos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Enviar mails cuando existan preguntas pendientes</title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/caracter%C3%ADsticas_generales_de_respuesta/enviar_mail_preguntas_pendientes/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/caracter%C3%ADsticas_generales_de_respuesta/enviar_mail_preguntas_pendientes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Excluir información de catálogo</title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/caracter%C3%ADsticas_generales_de_respuesta/excluir_informacion_catalogo/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/caracter%C3%ADsticas_generales_de_respuesta/excluir_informacion_catalogo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Excluir información de la ficha técnica</title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/caracter%C3%ADsticas_generales_de_respuesta/excluir_informacion_ficha_tecnica/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/caracter%C3%ADsticas_generales_de_respuesta/excluir_informacion_ficha_tecnica/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

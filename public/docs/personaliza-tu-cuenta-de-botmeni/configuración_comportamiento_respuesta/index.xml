@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Comportamiento personalizado de respuesta on Documentación de Botmeni</title>
+    <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/</link>
+    <description>Recent content in Comportamiento personalizado de respuesta on Documentación de Botmeni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 08 Apr 2024 23:13:49 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personaliza el comportamiento de respuesta</title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/personaliza_modo_respuesta/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/personaliza_modo_respuesta/</guid>
+      <description>Una de las grandes ventajas que distingue a nuestro bot es que puedes personalizar el modo en que responde las preguntas en función de distintos parámetros, como por ejemplo la categoría del producto sobre el que se está consultando,el motivo de pregunta o los horarios en que la misma se realiza. La configuración del comportamiento de gestión de las respuestas en Automático, Sólo analizar y No analizar puede aplicarse tanto de modo general para toda tu tienda, como de modo personalizado para una determinada vertical de negocios, una categoría especial dentro de una vertical o incluso para un producto en particular.</description>
+    </item>
+    <item>
+      <title>¿Cuáles son los comportamientos de respuesta disponibles?</title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/comportamiento_respuesta/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/comportamiento_respuesta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ingresar a la sección Configuraciones</title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/seccion_configuraciones/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/seccion_configuraciones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Definir el comportamiento de respuesta por vertical de negocio</title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/comportamiento_vertical/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/comportamiento_vertical/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Definir el comportamiento general de la tienda</title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/comportamiento_general_de_tienda/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/comportamiento_general_de_tienda/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Definir el comportamiento de respuesta para una categoría en particular</title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/comportamiento_por_categoria/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/comportamiento_por_categoria/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Definir el comportamiento de respuesta para un producto específico</title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/comportamiento_producto/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/comportamiento_producto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/horarios_solo_analizar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/horarios_solo_analizar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/preguntas_compatibilidad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/preguntas_compatibilidad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/preguntas_n%C3%BAmero_chasis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/preguntas_n%C3%BAmero_chasis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/preguntas_stock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/preguntas_stock/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/preguntas_venta_recient/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/preguntas_venta_recient/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/respuestas_con_link_otro_producto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/personaliza-tu-cuenta-de-botmeni/configuraci%C3%B3n_comportamiento_respuesta/respuestas_con_link_otro_producto/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

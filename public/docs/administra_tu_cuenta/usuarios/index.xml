@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Usuarios on Documentación de Botmeni</title>
+    <link>http://localhost:1313/docs/administra_tu_cuenta/usuarios/</link>
+    <description>Recent content in Usuarios on Documentación de Botmeni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 08 Apr 2024 23:13:49 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/administra_tu_cuenta/usuarios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Roles de usuario</title>
+      <link>http://localhost:1313/docs/administra_tu_cuenta/usuarios/roles_de_usuarios/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/administra_tu_cuenta/usuarios/roles_de_usuarios/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conocer los usuarios de mi cuenta</title>
+      <link>http://localhost:1313/docs/administra_tu_cuenta/usuarios/conocer_los_usuarios_de_mi_cuenta/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/administra_tu_cuenta/usuarios/conocer_los_usuarios_de_mi_cuenta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Actualizar los datos de un usuario</title>
+      <link>http://localhost:1313/docs/administra_tu_cuenta/usuarios/actualizar_los_datos_de_un_usuario/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/administra_tu_cuenta/usuarios/actualizar_los_datos_de_un_usuario/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Agregar un usuario nuevo</title>
+      <link>http://localhost:1313/docs/administra_tu_cuenta/usuarios/agregar_usuario_nuevo/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/administra_tu_cuenta/usuarios/agregar_usuario_nuevo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eliminar un usuario</title>
+      <link>http://localhost:1313/docs/administra_tu_cuenta/usuarios/eliminar_usuario/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/administra_tu_cuenta/usuarios/eliminar_usuario/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modificar contraseña de usuario no creador de cuenta</title>
+      <link>http://localhost:1313/docs/administra_tu_cuenta/usuarios/modificar_contrase%C3%B1a_de_usuario_no_administrador_de_cuenta/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/administra_tu_cuenta/usuarios/modificar_contrase%C3%B1a_de_usuario_no_administrador_de_cuenta/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

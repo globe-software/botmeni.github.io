@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tu Perfil on Documentación de Botmeni</title>
+    <link>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/</link>
+    <description>Recent content in Tu Perfil on Documentación de Botmeni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 08 Apr 2024 23:13:49 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Registrar una cuenta</title>
+      <link>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/registrar_una_cuenta/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/registrar_una_cuenta/</guid>
+      <description>Para crear tu cuenta:&#xA;Completa el formulario de registro, al cual puedes acceder en el siguiente link: https://prod.botmeni.com/suscripciones/register&#xA;También puedes acceder al mismo presionando CONTRATAR en el plan de botmeni al que desees suscribirte desde https://prod.botmeni.com/suscripciones/applications/mercadolibre.&#xA;Acepta los términos y condiciones.&#xA;Presiona el botón CREAR CUENTA. Sabrás que lo hiciste de forma correcta ya que te aparecerá un cartel de confirmación, y recibirás un mail en la casilla de correo electrónico requiriendo tu confirmación.</description>
+    </item>
+    <item>
+      <title>Iniciar sesión</title>
+      <link>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/iniciar_sesi%C3%B3n/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/iniciar_sesi%C3%B3n/</guid>
+      <description>Una vez que has creado tu cuenta y confirmado tu correo electrónico, ya puedes ingresar a la plataforma en https://prod.botmeni.com/login Recuerda que debes utilizar el mail y contraseña que hayas definido al registrarte.</description>
+    </item>
+    <item>
+      <title>Contratar plan por primera vez</title>
+      <link>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/contratar_primer_plan/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/contratar_primer_plan/</guid>
+      <description>Una vez que has creado tu cuenta, puedes contratar tu plan:&#xA;1. Inicia Sesión. 2. Se abrirá la pantalla con la descripción de los planes disponibles: Selecciona la cantidad de preguntas que deseas contratar.&#xD;3. Presiona CONTRATAR en el plan al que deseas adherir.&#xD;4. Si cuentas con un cupón de descuento, detallado en el campo Cupón de descuento y presiona APLICAR.&#xD;5. Ingresa datos de la tarjeta que vincularás a la suscripción y presiona AGREGAR TARJETA.</description>
+    </item>
+    <item>
+      <title>Onboarding</title>
+      <link>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/onboarding/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/onboarding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visualizar tu perfil</title>
+      <link>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/visualizar_tu_perfil/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/visualizar_tu_perfil/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Actualizar los datos</title>
+      <link>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/actualizar_los_datos/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/actualizar_los_datos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modificar contraseña</title>
+      <link>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/modificar_contrase%C3%B1a/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/modificar_contrase%C3%B1a/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recuperar contraseña</title>
+      <link>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/recuperar_contrase%C3%B1a/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/recuperar_contrase%C3%B1a/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eliminar la cuenta</title>
+      <link>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/eliminar_la_cuenta/</link>
+      <pubDate>Mon, 08 Apr 2024 23:13:49 -0500</pubDate>
+      <guid>http://localhost:1313/docs/administra_tu_cuenta/tu_perfil/eliminar_la_cuenta/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
