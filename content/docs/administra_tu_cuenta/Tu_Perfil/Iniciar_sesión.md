@@ -10,5 +10,5 @@ draft: false
 toc: true
 ---
 <br></br>
-Una vez que has creado tu cuenta y confirmado tu correo electrónico, ya puedes ingresar a la plataforma en <https://prod.botmeni.com/login> <br>
+Una vez que has creado tu cuenta y confirmado tu correo electrónico, ya puedes ingresar a la plataforma en <br> <https://prod.botmeni.com/login>
 Recuerda que debes utilizar el mail y contraseña que hayas definido al registrarte.

@@ -16,15 +16,14 @@ Para crear tu cuenta:
 
     {{< figure width="700px" height="500px" src="/images/formulario-registro.png" >}}
 <br></br>
-    También puedes acceder al mismo presionando CONTRATAR en el plan de botmeni al que desees suscribirte desde <https://prod.botmeni.com/suscripciones/applications/mercadolibre.>
 
 2. Acepta los términos y condiciones.
 3. Presiona el botón CREAR CUENTA.
 <br></br>
 
 Sabrás que lo hiciste de forma correcta ya que te aparecerá un cartel de confirmación, y recibirás un mail en la casilla de correo electrónico requiriendo tu confirmación.<br></br>
-¡Recuerda que registrarte es gratis!. <br></br>
-Te permite acceder a la prueba de la plataforma durante 15 días de forma gratuita y puedes cancelar la suscripción en el momento que lo desees.
+También puedes acceder al formulario de registro presionando CONTRATAR en el plan de botmeni al que desees suscribirte desde <https://prod.botmeni.com/suscripciones/applications/mercadolibre.> <br></br>
+¡Recuerda que registrarte es gratis!. Te permite acceder a la prueba de la plataforma durante 15 días de forma gratuita y puedes cancelar la suscripción en el momento que lo desees.
 
 
 
