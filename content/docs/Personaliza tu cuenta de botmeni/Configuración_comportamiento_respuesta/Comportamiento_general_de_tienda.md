@@ -9,3 +9,10 @@ lastmod: "2024-04-08T23:13:49-05:00"
 draft: false
 toc: true
 ---
+Para configurar el comportamiento de respuesta del bot de modo general para tu tienda:
+1. Inicia sesión (link)
+2. Haz clic en Configuraciones
+3. Presiona sobre el botón que especifica la clase de comportamiento general que deseas establecer: Automático, Solo Analizar o No hacer nada.
+imagen
+Recuerde que, en función del plan que tenga contratado, podrá realizar configuraciones más específicas si así lo desea. 
+
