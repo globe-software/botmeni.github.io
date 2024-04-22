@@ -10,9 +10,9 @@ draft: false
 toc: true
 ---
 
-### Establecer el comportamiento de respuesta para un producto en específico:
 
-En tratamiento de categoría y productos puedes elegir la clase de comportamiento que deseas establecer para un producto en particular. Ten en cuenta que el comportamiento de respuesta establecido para un producto tendrá prioridad por sobre el que hayas seleccionado para la categoría o vertical de negocios a la que pertenece el producto.
+En tratamiento de categoría y productos puedes elegir la clase de comportamiento que deseas establecer para un producto en particular. 
+Ten en cuenta que el comportamiento de respuesta establecido para un producto tendrá prioridad por sobre el que hayas seleccionado para la categoría o vertical de negocios a la que pertenece el producto.
 
 Para configurar el comportamiento para un producto específico:
 1. Incia sesión (link)

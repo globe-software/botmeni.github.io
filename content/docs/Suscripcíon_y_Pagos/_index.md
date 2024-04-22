@@ -1,11 +1,10 @@
 ---
 weight: 300
-title: "Suscripciones y Pagos"
-description: "Suscripciones y Pagos"
+title: "Pagos y Suscripciones"
 icon: "settings"
 date: "2024-04-08T14:38:13-05:00"
 lastmod: "2024-04-08T14:38:13-05:00"
-description: "Administra tu cuenta"
+description: "Pagos y Suscripciones"
 draft: false
 toc: true
 ---

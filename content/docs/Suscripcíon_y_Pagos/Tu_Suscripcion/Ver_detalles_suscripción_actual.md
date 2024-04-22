@@ -1,7 +1,7 @@
 ---
 weight: 410
-title: "Ver detalles de tu suscripción actual"
-description: "Ver detalles de tu suscripción actual"
+title: "Detalles de tu suscripción actual"
+description: "Detalles de tu suscripción actual"
 icon: "inventory_2"
 color: "primary"
 date: "2024-04-08T23:13:49-05:00"
@@ -9,7 +9,7 @@ lastmod: "2024-04-08T23:13:49-05:00"
 draft: false
 toc: true
 ---
-
+<br></br>
 Para visualizar el detalle de tu suscripción actual:
 
 1.Inicia sesión desde la página de login.

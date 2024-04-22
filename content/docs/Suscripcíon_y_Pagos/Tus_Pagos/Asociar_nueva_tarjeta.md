@@ -9,6 +9,7 @@ lastmod: "2024-04-08T23:13:49-05:00"
 draft: false
 toc: true
 ---
+<br></br>
 ### Asociar una nueva tarjeta a tu suscripción desde la sección Suscripciones:
 <br></br>
 Para asociar una nueva tarjeta a tu suscripción:
@@ -24,7 +25,6 @@ imagen
 
 ### Asociar una nueva tarjeta a tu suscripción desde la sección Mi Perfil:
 <br></br>
-
 Para asociar una nueva tarjeta a tu suscripción:
 1. Ingresa a tu perfil (link)
 2. Presiona el botón NUEVA TARJETA.

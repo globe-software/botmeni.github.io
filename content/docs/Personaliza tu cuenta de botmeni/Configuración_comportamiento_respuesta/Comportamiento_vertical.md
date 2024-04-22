@@ -10,13 +10,14 @@ draft: false
 toc: true
 ---
 
-Para establecer el comportamiento que deseas para una determinada vertical:
+Para establecer el comportamiento que deseas para una determinada vertical de negocio:
 
-1. inicia sesión
+1. Inicia sesión
 2. Ingresa a la sección Configuraciones
 3. Visualiza el listado de verticales.
 imagen
 4. Haz click en el combo a la derecha de la categoría a pesonalizar.
+imagen
 5. Selecciona la opción de comportamiento deseada.
 
 

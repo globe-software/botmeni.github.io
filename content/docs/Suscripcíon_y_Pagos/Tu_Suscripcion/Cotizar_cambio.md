@@ -1,6 +1,6 @@
 ---
 weight: 430
-title: "Cotizar una modificación en el plan o la cantidad de preguntas contratadas"
+title: "Cotizar una modificación en la suscripción activa"
 description: "Cotizar una modificación en el plan o la cantidad de preguntas contratadas"
 icon: "inventory_2"
 color: "primary"
@@ -22,7 +22,7 @@ Si deseas consultar por una cantidad superior de preguntas de las detalladas en 
 imagen
 <br></br>
 
-# Cotizar una modificación en la cantidad de preguntas contratadas
+# Cotizar una modificación en en plan contratado
 
 Para conocer el precio de los otros planes disponibles en la plataforma:
 1. Ingresa a Mi perfil (link)

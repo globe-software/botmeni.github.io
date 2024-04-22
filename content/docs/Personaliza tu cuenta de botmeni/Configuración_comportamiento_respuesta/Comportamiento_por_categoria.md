@@ -11,7 +11,6 @@ toc: true
 ---
 
 
-### Establecer comportamiento de respuesta para una categoría específica:
 
 El comportamiento de respuesta establecido para una categoría tiene prioridad por sobre el que esté seleccionado para la vertical de negocios a la que pertenece la categoría. 
 

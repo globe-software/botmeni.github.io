@@ -16,7 +16,7 @@ Existen tres opciones de comportamiento:
 - Pasar a manual generando respuestas: botmeni generará la respuesta pero quedará pendiente para que tu la revises y la envíes (si la configuración de producto, categoría o vertical que le corresponde está definida en modo Automático o Solo analizar)
 - Pasar a manual sin generar respuestas: botmeni no generará la respuesta al detectar que se trata de una pregunta de stock.
 
-ara configurar el comportamiento para preguntas asociadas al stock.
+Para configurar el comportamiento para preguntas asociadas al stock.
 1. Ingresa a la sección Configuraciones (link)
 2. Posiciónate en la sección Configuraciones Particulares
 3. Despliega el listado de comportamientos presionando el ícono triángulo invertido ubicado a la derecha de Preguntas por stock. 4. Selecciona el comportamiento deseado.
