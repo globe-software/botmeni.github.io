@@ -1,7 +1,7 @@
 ---
 weight: 570
-title: "Establecer el comportamiento de respuesta para un horario en particular"
-description: "Establecer el comportamiento de respuesta para un horario en particular"
+title: "Solo analizar para un horario en particular"
+description: "Solo analizar para un horario en particular"
 icon: "category"
 color: "primary"
 date: "2024-04-08T23:13:49-05:00"

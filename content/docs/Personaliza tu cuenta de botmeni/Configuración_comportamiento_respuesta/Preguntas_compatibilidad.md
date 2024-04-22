@@ -1,6 +1,6 @@
 weight: 580
-title: "Establecer el comportamiento de respuesta para preguntas relacionadas con compatibilidad"
-description: "Establecer el comportamiento de respuesta para preguntas relacionadas con compatibilidad"
+title: "Comportamiento de respuesta para preguntas relacionadas con compatibilidad"
+description: "Comportamiento de respuesta para preguntas relacionadas con compatibilidad"
 icon: "category"
 color: "primary"
 date: "2024-04-08T23:13:49-05:00"

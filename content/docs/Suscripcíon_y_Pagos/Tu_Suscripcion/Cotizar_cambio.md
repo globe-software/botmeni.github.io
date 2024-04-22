@@ -9,7 +9,7 @@ lastmod: "2024-04-08T23:13:49-05:00"
 draft: false
 toc: true
 ---
-# Cotizar una modificación en la cantidad de preguntas contratadas
+### Cotizar una modificación en la cantidad de preguntas contratadas
 
 Para conocer el precio de tu plan para una cantidad de preguntas distinta de la que tienes contratada:
 1. Ingresa a Mi perfil (link)
@@ -22,7 +22,7 @@ Si deseas consultar por una cantidad superior de preguntas de las detalladas en 
 imagen
 <br></br>
 
-# Cotizar una modificación en en plan contratado
+### Cotizar una modificación en en plan contratado
 
 Para conocer el precio de los otros planes disponibles en la plataforma:
 1. Ingresa a Mi perfil (link)

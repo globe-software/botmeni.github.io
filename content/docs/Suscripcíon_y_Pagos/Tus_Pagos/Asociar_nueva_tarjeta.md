@@ -1,7 +1,7 @@
 ---
 weight: 345
-title: "Asociar una nueva tarjeta desde Suscripciones"
-description: "Asociar una nueva tarjeta desde Suscripciones"
+title: "Asociar una nueva tarjeta"
+description: "Asociar una nueva tarjeta"
 icon: "inventory_2"
 color: "primary"
 date: "2024-04-08T23:13:49-05:00"
@@ -9,8 +9,8 @@ lastmod: "2024-04-08T23:13:49-05:00"
 draft: false
 toc: true
 ---
-<br></br>
-### Asociar una nueva tarjeta a tu suscripción desde la sección Suscripciones:
+<br></br
+### Asociar una nueva tarjeta desde la sección Suscripciones:
 <br></br>
 Para asociar una nueva tarjeta a tu suscripción:
 1. Ingresa a tu perfil (link)
@@ -23,7 +23,7 @@ Si lo deseas, luego del paso 3 y antes de presionar AGREGAR TARJETA, puedes guar
 imagen
 <br></br>
 
-### Asociar una nueva tarjeta a tu suscripción desde la sección Mi Perfil:
+### Asociar una nueva tarjeta desde la sección Mi Perfil:
 <br></br>
 Para asociar una nueva tarjeta a tu suscripción:
 1. Ingresa a tu perfil (link)
