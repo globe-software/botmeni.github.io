@@ -9,3 +9,12 @@ lastmod: "2024-04-08T23:13:49-05:00"
 draft: false
 toc: true
 ---
+
+Cuando necesites cancelar tu suscripción:
+
+1. Ingresa a Suscripciones (link)
+2. Selecciona el botón CANCELAR SUSCRIPCIÓN ubicado en la sección superior derecha de la pantalla.
+imagen
+3. Se desplegará un mensaje explicando lo que implica la cancelación. En el mismo también se detalla la devolución que se realizará si correspondiera en caso de existir recursos abonados que no consumiste. Presiona CONFIRMAR para que la cancelación se haga efectiva desde ese momento.
+
+Recibirás un mail confirmando la cancelación de la suscripción vigente, con un detalle del monto que se devuelve como reembolso en caso de existir recursos abonados no utilizados.

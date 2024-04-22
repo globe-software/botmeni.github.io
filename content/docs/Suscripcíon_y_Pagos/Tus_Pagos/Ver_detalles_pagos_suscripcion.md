@@ -25,7 +25,9 @@ imagen
 <br></br>
 ### Ver detalle de pagos de tus suscripciones no activas
 
-En la sección Pagos podrás visualizar el detalle completo de tus pagos asociados a tus suscriciones no activas, como por ejemplo: su estado, el monto, el periodo al que corresponde y la tarjeta asociada. Para obtener esa información:
+En la sección Pagos podrás visualizar el detalle completo de tus pagos asociados a tus suscriciones no activas, como por ejemplo: su estado, el monto, el periodo al que corresponde y la tarjeta asociada.
+
+Para obtener esa información:
 
 1. Visualiza la sección Suscripciones (link)
 2. Selecciona el botón Ver Detalles de la suscripción correspondiente. 
@@ -33,4 +35,3 @@ imagen
 3. Haz clic en Pagos. También puedes presionar el botón VER PAGOS.
 imagen
 4. Se desplegará un listado con todos los pagos relacionados a la suscripción activa. Si presionas el botón VER DETALLE a la derecha de cada registro, podrás obtener más información de cada uno de ellos.
-<br></br>
