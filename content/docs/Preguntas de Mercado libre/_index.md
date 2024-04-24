@@ -1,8 +1,7 @@
 ---
 weight: 850
 title: "Preguntas de Mercado Libre"
-description: ""
-icon: "settings"
+icon: "chat_bubble"
 date: "2024-04-08T14:38:13-05:00"
 lastmod: "2024-04-08T14:38:13-05:00"
 description: "Preguntas de Mercado Libre"

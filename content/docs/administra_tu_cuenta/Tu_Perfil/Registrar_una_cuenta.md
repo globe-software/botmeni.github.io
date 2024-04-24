@@ -13,8 +13,7 @@ toc: true
 Para crear tu cuenta:
 <br>
 1. Completa el formulario de registro, al cual puedes acceder en el siguiente link: <https://prod.botmeni.com/suscripciones/register>
-
-    {{< figure width="700px" height="500px" src="/images/formulario-registro.png" >}}
+ {{< figure width="700px" height="500px" src="/images/formulario-registro.png" >}}
 <br></br>
 
 2. Acepta los términos y condiciones.
