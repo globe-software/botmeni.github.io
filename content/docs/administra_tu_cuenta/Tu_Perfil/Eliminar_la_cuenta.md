@@ -11,11 +11,11 @@ toc: true
 ---
 <br></br>
 Para eliminar la cuenta:
-1. Ingresa a tu perfil (link). 
+1. [Ingresa a tu perfil](Visualizar_tu_perfil.md). 
 2. Presiona el botón ELIMINAR CUENTA, que se encuentra en la parte superior derecha.
-3. Presiona SI en el mensaje de confirmación.
+3. Lee detenidamente y presiona SI en el mensaje de confirmación si estás de acuerdo.
 <br></br>
 
 Una vez que confirmes la eliminación de tu cuenta, se eliminarán todos los usuarios vinculados a tu empresa. Podrás reactivarla si inicias sesión nuevamente (enviaremos un link a tu email para verificar que eres tú).<br></br>
-Recuerda que para eliminar la cuenta no debes tener suscripciones activas. En la sección CANCELAR SUSCRIPCIÓN (link) te mostramos cómo hacerlo.<br></br>
+Recuerda que para eliminar la cuenta no debes tener suscripciones activas. En la sección [Cancelar suscripción](../../Suscripcíon_y_Pagos/Tu_Suscripcion/Cancelar_suscripción.md) te mostramos cómo hacerlo.<br></br>
 ¡Esperamos que pronto vuelvas a formar parte de la plataforma!.
