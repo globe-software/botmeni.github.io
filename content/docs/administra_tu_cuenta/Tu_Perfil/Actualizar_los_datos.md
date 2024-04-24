@@ -1,6 +1,6 @@
 ---
 weight: 235
-title: "Actualizar los datos"
+title: "Actualizar los datos de la cuenta de botmeni"
 description: "Actualizar los datos"
 icon: "category"
 color: "primary"
@@ -10,10 +10,10 @@ draft: false
 toc: true
 ---
 <br></br>
-Para actualizar los datos de tu cuenta de usuario administrador:
-1. [Ingresar a tu perfil](Visualizar_tu_perfil.md). 
+Para actualizar los datos de la cuenta de botmeni:
+1. Ingresa a [Ver perfil](Visualizar_tu_perfil.md). 
 2. Presiona el botón EDITAR DATOS ubicado en la zona superior derecha de la pantalla.
-3. Se desplegará una pantalla en la que podrás modificar tu nombre y apellido, el nombre de la empresa, el número de documento y el teléfono.
+3. Se desplegará una pantalla en la que podrás modificar el nombre y apellido asociado a la cuenta de botmeni, el nombre de la empresa, el número de documento y el teléfono.
 <br></br>
 imagen
 <br></br>

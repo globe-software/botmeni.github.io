@@ -1,7 +1,7 @@
 ---
 weight: 265
-title: "Conocer los usuarios de mi cuenta"
-description: "Conocer los usuarios de mi cuenta"
+title: "Conocer los usuarios de la cuenta"
+description: "Conocer los usuarios de la cuenta"
 icon: "category"
 color: "primary"
 date: "2024-04-08T23:13:49-05:00"
@@ -9,3 +9,16 @@ lastmod: "2024-04-08T23:13:49-05:00"
 draft: false
 toc: true
 ---
+Para conocer los usuarios asociados a la cuenta:
+
+1. [Inicia sesión](Iniciar_sesión.md) como usuario principal.
+2. Presiona el ícono triángulo invertido ubicado al costado del nombre de usuario. Se desplegará el menú que se muestra en la imagen.
+imagen
+3. Selecciona Ver perfil.
+4. Presiona el botón VER DETALLES ubicado a la derecha de la suscripción con estado Válida.
+5. Presiona la opción Usuarios
+imagen
+
+Se desplegará un listado con todos los usuarios asociados a la cuenta y el rol que cada uno tiene asignado.
+
+<br></br>

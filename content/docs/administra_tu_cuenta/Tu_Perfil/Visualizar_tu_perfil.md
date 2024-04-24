@@ -1,7 +1,7 @@
 ---
 weight: 230
-title: "Visualizar tu perfil"
-description: "Visuaizar tu perfil"
+title: "Visualizar el perfil de la cuenta de botmeni"
+description: "Visualizar el perfil"
 icon: "category"
 color: "primary"
 date: "2024-04-08T23:13:49-05:00"
@@ -11,13 +11,13 @@ toc: true
 ---
 
 <br></br>
-Para visualizar los datos de tu cuenta:
+Para visualizar los datos asociados a la cuenta de botmeni:
 
-1. [Inicia sesión](Iniciar_sesión.md).
+1. [Inicia sesión](Iniciar_sesión.md) con los datos del usuario principal.
 2. Presiona el ícono triángulo invertido ubicado al costado de tu nombre. Se desplegará el menú que se muestra en la imagen.
 imagen
 3. Selecciona Ver perfil.
 <br></br>
 
-A continuación, se desplegará una pantalla con el detalle completo de tu perfil. Además, en la misma tendrás varias acciones disponibles que te permitirán, por ejemplo, [editar los datos](Actualizar_los_datos.md)), [cambiar la contraseña](Contraseña.md)), [gestionar las tarjetas](../../Suscripcíon_y_Pagos/Tus_Pagos/Modificar_tarjeta_adherida_suscripciones.md) y [eliminar la cuenta](Eliminar_la_cuenta.md).
+A continuación, se desplegará una pantalla con el detalle completo del la cuenta de botmeni. Además, en la misma tendrás varias acciones disponibles que te permitirán, por ejemplo, [editar los datos](Actualizar_los_datos.md)), [cambiar la contraseña](Contraseña.md)) y [gestionar las tarjetas](../../Suscripcíon_y_Pagos/Tus_Pagos/Modificar_tarjeta_adherida_suscripciones.md).
 
