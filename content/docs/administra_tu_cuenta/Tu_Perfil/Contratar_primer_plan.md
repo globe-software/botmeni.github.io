@@ -12,13 +12,13 @@ toc: true
 <br></br>
 Para contratar un plan por primera vez, luego de registrar tu cuenta:
 
-1. Inicia Sesión. 
+1. Inicia Sesión con el usuario principal de la cuenta. 
 2. Si aún no tienes un plan contratado, se abrirá una pantalla con la descripción de los planes disponibles.
-imagen
+![página contratacion](/static/images/general/registrarme_1.png)
 3. Selecciona la cantidad de preguntas que deseas contratar. Al hacerlo se detallará en cada plan el precio correspondiente.
 3. Presiona CONTRATAR en el plan al que deseas adherirte. 
-4. Se presentará la pantalla de contratación. 
-imagen
+4. Se presentará la pantalla de contratación. En la misma estará en la parte superior el detalle con los beneficioes y funciones del plan que has seleccionado.
+![página contratacion 2](/static/images/general/registrarme_3.png)
 5. Si cuentas con un cupón de descuento, detállalo en el campo Cupón de descuento y presiona APLICAR.
 6. Ingresa los datos de la tarjeta que vincularás a la suscripción y presiona AGREGAR TARJETA.
 7. Haz clic en CONFIRMAR para crear la suscripción. Se desplegará un mensaje de confirmación de Suscripción Completada.

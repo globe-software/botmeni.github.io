@@ -1,5 +1,5 @@
 ---
-weight: 1500
+weight: 1600
 title: "Preguntas Frecuentes"
 description: "Preguntas Frecuentes"
 icon: "help"
