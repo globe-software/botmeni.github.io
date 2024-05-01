@@ -36,4 +36,4 @@ No dudes en contactarnos a través de nuestro correo electrónico hola@botmeni.c
 
 <br></br>
 
-![Logo Horizontal](/static/images/logos/Banner-LinkedIn%20personal.jpg)
+![Logo Horizontal](/images/logos/Banner-LinkedIn%20personal.jpg)
