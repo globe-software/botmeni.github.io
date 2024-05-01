@@ -17,6 +17,6 @@ Para eliminar la cuenta:
 3. Lee detenidamente y presiona SI en el mensaje de confirmación si estás de acuerdo.
 <br></br>
 
-Una vez que confirmes la eliminación de la cuenta, se eliminarán todos los usuarios vinculados a tla empresa. Podrás reactivarla si inicias sesión nuevamente (enviaremos un link al email registrado para verificar que eres tú).<br></br>
+Una vez que confirmes la eliminación de la cuenta, se eliminarán todos los usuarios vinculados a la empresa. Podrás reactivarla si inicias sesión nuevamente (enviaremos un link al email registrado para verificar que eres tú).<br></br>
 Recuerda que para eliminar la cuenta no debes tener suscripciones activas. En la sección [Cancelar suscripción](../../Suscripcíon_y_Pagos/Tu_Suscripcion/Cancelar_suscripción.md) te mostramos cómo hacerlo.<br></br>
 ¡Esperamos que pronto vuelvas a formar parte de la plataforma!.
