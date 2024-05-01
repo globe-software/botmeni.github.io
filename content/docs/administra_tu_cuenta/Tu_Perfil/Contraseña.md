@@ -13,15 +13,14 @@ toc: true
 
 ### Recuperar la contraseña
 Si necesitas recuperar la constraseña:
-1. Ubicado en la página de inicio de sesión <https://prod.botmeni.com/login>, presiona Olvidé mi contraseña. 
+1. Desde la página de inicio de sesión <https://prod.botmeni.com/login>, presiona Olvidé mi contraseña. 
 {{< figure width="700px" height="500px" src="/images/general/olvide_mi_contraseña.png" >}}
-2. Completa tu correo electrónico
+2. Se desplegará una nueva pantalla. Completa tu correo electrónico y presiona ENVIAR
 {{< figure width="700px" height="500px" src="/images/general/recupera_tu_contraseña.png" >}}
-3. Presiona ENVIAR
-4. Recibirás un correo de Solicitud de cambio de contraseña. Ábrelo y presiona el botón RESETEAR CONTRASEÑA. 
+3. Recibirás un correo de Solicitud de cambio de contraseña. Ábrelo y presiona el botón RESETEAR CONTRASEÑA. 
 {{< figure width="700px" height="500px" src="/images/general/boton_resetear_contraseña.png" >}}
-5. Completa los datos requeridos y presiona CONFIRMAR.
-{{< figure width="700px" height="500px" src="/images/general/resetear_contraseña_datos.png" >}}
+4. Completa los datos requeridos y presiona CONFIRMAR.
+{{< figure width="560px" height="400px" src="/images/general/resetear_contraseña_datos.png" >}}
 <br></br>
 
 El link enviado en el correo tiene validez de 1 hora, pasada la cual deberás ingresar nuevamente a Olvidé mi contraseña para repetir el procedimiento, y así recibirás un nuevo correo.
@@ -32,13 +31,12 @@ El link enviado en el correo tiene validez de 1 hora, pasada la cual deberás in
 Para modificar la contraseña del usuario principal de la cuenta de botmeni desde la plataforma:
 1. [Inicia sesión](Iniciar_sesión.md) con los datos del usuario principal.
 2. Presiona el ícono de triángulo invertido ubicado al costado de tu nombre. Se desplegará el siguiente menú. 
-{{< figure width="700px" height="500px" src="/images/general/ver_perfil.png" >}}
+{{< figure width="700px" height="500px" src="/images/general/ver_pefil.png" >}}
 3. Presiona Ver perfil.
-4. Se visualizará una pantalla con el detalle de la cuenta de botemni. 
-5. Presiona el botón CAMBIAR CONTRASEÑA ubicado en la zona superior derecha.
+4. Se visualizará una pantalla con el detalle de la cuenta de botemni. Presiona el botón CAMBIAR CONTRASEÑA ubicado en la zona superior derecha.
 {{< figure width="700px" height="500px" src="/images/general/cambiar_contraseña.png" >}}
-6. Completa la contraseña actual, la nueva contraseña y la confirmación de la nueva contraseña.
-{{< figure width="700px" height="500px" src="/images/general/cambiar_contraseña_desde_perfil.png" >}}
+5. Completa la contraseña actual, la nueva contraseña y la confirmación de la nueva contraseña.
+{{< figure width="560px" height="400px" src="/images/general/cambiar_contraseña_desde_perfil.png" >}}
 7. Presiona CONFIRMAR. Tu contraseña quedará actualizada.
 <br></br>
 
