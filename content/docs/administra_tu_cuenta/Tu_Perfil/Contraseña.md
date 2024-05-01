@@ -13,13 +13,12 @@ toc: true
 
 ### Recuperar la contraseña
 Si necesitas recuperar la constraseña:
-1. Ingresa a la página de inicio de sesión <https://prod.botmeni.com/login>.
-2. Presiona Olvidé mi contraseña. 
-![volvide mi contraseña](/static/images/general/olvide%20mi%20contraseña.png) 
-3. Completa tu correo electrónico
-![recupera contraseña](/static/images/general/recupera%20tu%20contraseña.png) 
-4. Presiona ENVIAR
-5. Recibirás un correo con el link RESETEAR CONTRASEÑA. Presiónalo y completa los datos requeridos
+1. Ubicado en la página de inicio de sesión <https://prod.botmeni.com/login>, presiona Olvidé mi contraseña. 
+![olvide mi contraseña](/images/general/olvide%20mi%20contraseña.png) 
+2. Completa tu correo electrónico
+![recupera contraseña](/images/general/recupera%20tu%20contraseña.png) 
+3. Presiona ENVIAR
+4. Recibirás un correo con el link RESETEAR CONTRASEÑA. Presiónalo y completa los datos requeridos
 <br></br>
 
 El link enviado en el correo tiene validez de 1 hora, pasada la cual deberás ingresar nuevamente a Olvidé mi contraseña para repetir el procedimiento, y así recibirás un nuevo correo.
@@ -30,11 +29,11 @@ El link enviado en el correo tiene validez de 1 hora, pasada la cual deberás in
 Existe otra forma de modificar la contraseña del usuario principal de la cuenta de botmeni, además de la opción recién descripta. Para ello:
 1. [Inicia sesión](Iniciar_sesión.md) con los datos del usuario principal.
 2. Presiona el ícono de triángulo invertido ubicado al costado de tu nombre. Se desplegará el siguiente menú. 
-![ver perfil](/static/images/general/ver%20pefil.png) 
+![ver perfil](/images/general/ver%20pefil.png) 
 3. Presiona Ver perfil.
 4. Se visualizará una pantalla con el detalle de la cuenta de botemni. 
 5. Presiona el botón CAMBIAR CONTRASEÑA ubicado en la zona superior derecha.
-![cambiar contraseña](/static/images/general/cambiar%20contraseña.png) 
+![cambiar contraseña](/images/general/cambiar%20contraseña.png) 
 6. Completa la contraseña actual, la nueva contraseña y la confirmación de la nueva contraseña.
 7. Presiona CONFIRMAR. Tu contraseña quedará actualizada.
 <br></br>

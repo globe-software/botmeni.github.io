@@ -13,6 +13,7 @@ toc: true
 Para eliminar la cuenta:
 1. [Ingresa a Ver perfil](Visualizar_tu_perfil.md). 
 2. Presiona el botón ELIMINAR CUENTA, que se encuentra en la parte superior derecha.
+![ver perfil](/images/general/eliminar_cuenta.png) 
 3. Lee detenidamente y presiona SI en el mensaje de confirmación si estás de acuerdo.
 <br></br>
 
