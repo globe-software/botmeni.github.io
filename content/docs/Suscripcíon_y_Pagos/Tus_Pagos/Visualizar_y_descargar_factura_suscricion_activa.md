@@ -16,4 +16,4 @@ Para descargar tu factura:
 3. Presiona el botón FACTURA.
 {{< figure width="700px" height="500px" src="/images/general/factura.png" >}} 
 4. Se abrirá una nueva ventana. Haz clic en el botón Descargar factura
-{{< figure width="700px" height="500px" src="/images/general/factura2.png" >}} 
+{{< figure width="420px" height="300px" src="/images/general/factura2.png" >}} 

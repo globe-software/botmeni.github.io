@@ -17,5 +17,5 @@ Para descargar tu recibo
 3. Presiona el botón FACTURA. Se abrirá una nueva ventana.
 {{< figure width="700px" height="500px" src="/images/general/factura.png" >}} 
 4. Haz clic en el botón Descargar Recibo
-{{< figure width="700px" height="500px" src="/images/general/recibo.png" >}} 
+{{< figure width="420px" height="300px" src="/images/general/recibo.png" >}} 
 
