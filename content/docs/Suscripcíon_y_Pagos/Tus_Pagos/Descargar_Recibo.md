@@ -11,10 +11,11 @@ toc: true
 ---
 <br></br>
 Para descargar tu recibo 
-1. Ingresa a Suscripciones (link).
-2. Selecciona el botón Ver Detalles de tu suscripción en estado válida 
+1. Ingresa a la sección [Suscripciones](Visualizar_Suscripciones.md).
+2. Selecciona el botón Ver Detalles de tu suscripción en estado válida.
+{{< figure width="700px" height="500px" src="/images/general/suscripciones_ver_detalles.png" >}} 
 3. Presiona el botón FACTURA. Se abrirá una nueva ventana.
-imagen
+{{< figure width="700px" height="500px" src="/images/general/factura.png" >}} 
 4. Haz clic en el botón Descargar Recibo
-imagen
+{{< figure width="700px" height="500px" src="/images/general/recibo.png" >}} 
 

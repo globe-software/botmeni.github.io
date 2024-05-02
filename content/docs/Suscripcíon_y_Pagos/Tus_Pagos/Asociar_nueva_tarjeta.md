@@ -9,11 +9,11 @@ lastmod: "2024-04-08T23:13:49-05:00"
 draft: false
 toc: true
 ---
-<br></br
+
 ### Asociar una nueva tarjeta desde la sección Suscripciones:
-<br></br>
+
 Para asociar una nueva tarjeta a tu suscripción:
-1. Ingresa a tu perfil (link)
+1. Ingresa a tu [Ver perfil](Visualizar_tu_perfil.md). 
 2. Presiona el botón NUEVA TARJETA.
 imagen
 3. Completa los campos requeridos.
