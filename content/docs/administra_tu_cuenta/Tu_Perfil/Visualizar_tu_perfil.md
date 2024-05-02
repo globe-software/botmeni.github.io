@@ -15,7 +15,7 @@ Para visualizar los datos asociados a la cuenta de botmeni:
 
 1. [Inicia sesión](Iniciar_sesión.md) con los datos del usuario principal.
 2. Presiona el ícono triángulo invertido ubicado al costado de tu nombre. Se desplegará el menú que se muestra en la imagen.
-{{< figure width="700px" height="500px" src="/images/general/ver_pefil.png" >}}
+{{< figure width="140px" height="100px" src="/images/general/ver_pefil.png" >}}
 3. Selecciona Ver perfil.
 <br></br>
 
