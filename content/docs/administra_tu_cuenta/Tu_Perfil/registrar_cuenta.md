@@ -9,7 +9,7 @@ lastmod: "2024-04-08T23:13:49-05:00"
 draft: false
 toc: true
 ---
-<br>
+<br></br>
 Para crear una cuenta:
 1. Completa el formulario de resgistro, al cual puedes acceder en el siguiente link: <https://prod.botmeni.com/suscripciones/register>. Ten en cuenta que el Tipo y Número de documento a ingresar correposponden al documento de identificación fiscal de tu negocio (por ej, el RUT en Uruguay, el CNPJ en Brasil o el NIT en Colombia ).
 {{< figure width="700px" height="500px" src="/images/formulario-registro.png" >}}
