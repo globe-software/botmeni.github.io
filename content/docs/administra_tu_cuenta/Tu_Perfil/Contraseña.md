@@ -14,7 +14,7 @@ toc: true
 ### Recuperar la contraseña
 Si necesitas recuperar la constraseña:
 1. Desde la página de inicio de sesión <https://prod.botmeni.com/login>, presiona Olvidé mi contraseña. 
-{{< figure width="630px" height="450px" src="/images/general/olvide_mi_contraseña.png" >}}
+{{< figure width="630px" height="450px" src="/images/general/olvide_contraseña_2.png" >}}
 2. Se desplegará una nueva pantalla. Completa tu correo electrónico y presiona ENVIAR
 {{< figure width="630px" height="450px" src="/images/general/recupera_tu_contraseña.png" >}}
 3. Recibirás un correo de Solicitud de cambio de contraseña. Ábrelo y presiona el botón RESETEAR CONTRASEÑA. 
