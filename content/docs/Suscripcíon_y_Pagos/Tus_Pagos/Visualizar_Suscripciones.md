@@ -12,6 +12,6 @@ toc: true
 Para visualizar la sección Suscripciones de botmeni:
 
 1. Inicia sesión desde la página de login  <https://prod.botmeni.com/login>.
-2. Presiona el ícono triángulo invertido ubicado a la derecha de tu nombre. Se desplegará un menú de opciones.
+2. Presiona el ícono triángulo invertido ubicado a la derecha de tu nombre. Se desplegará un menú de opciones. Presiona Suscripciones
 {{< figure width="420px" height="300px" src="/images/general/suscripciones.png" >}} 
-3. Presiona Suscripciones
+
