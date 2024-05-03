@@ -35,4 +35,4 @@ No dudes en contactarnos a través de nuestro correo electrónico hola@botmeni.c
 ### ¡Estamos aquí para ayudarte! 
 
 <br></br>
-{{< figure width="630px" height="450px" src="/images/general/banner_linkedin_personal.jpg" >}}
+{{< figure width="700px" height="500px" src="/images/general/banner_linkedin_personal.jpg" >}}

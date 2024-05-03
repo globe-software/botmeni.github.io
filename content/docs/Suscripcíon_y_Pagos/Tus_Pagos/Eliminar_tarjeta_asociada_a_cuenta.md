@@ -12,7 +12,9 @@ toc: true
 <br></br>
 Cuando necesites eliminar una tarjeta asociada a la cuenta:
 
-1. Ingresa a Mi perfil (link)
+1. Ingresa a Mi perfil.
+{{< figure width="420px" height="300px" src="/images/general/ver_pefil.png" >}}
 2. Presiona el ícono de papelera ubicado a la derecha de la tarjeta que deseas eliminar.
-imagen
+{{< figure width="700px" height="500px" src="/images/general/eliminar_tarjeta.png" >}}
 3. Presiona SI en el mensaje de confirmación de eliminación.
+{{< figure width="700px" height="500px" src="/images/general/eliminar_tarjeta2.png" >}}
