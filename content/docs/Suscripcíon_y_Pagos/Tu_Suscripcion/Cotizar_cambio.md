@@ -23,7 +23,7 @@ Si deseas consultar por una cantidad superior de preguntas de las detalladas en 
 {{< figure width="700px" height="500px" src="/images/general/cotizar_preguntas2.png" >}}
 <br></br>
 
-### Cotizar una modificación en en plan contratado
+### Cotizar una modificación en el plan contratado
 
 Para conocer el precio de los otros planes disponibles en la plataforma:
 1. Presiona el ícono triángulo invertido ubicado al costado de tu nombre. Se desplegará el menú que se muestra en la imagen.Selecciona Ver perfil.

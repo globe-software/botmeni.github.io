@@ -21,7 +21,7 @@ Si deseas conocer las funcionalidades y beneficios incluidos en tu plan:
 {{< figure width="700px" height="500px" src="/images/general/plan_actual.png" >}}
 <br></br>
 
-También puedes revisar las características de tu plan ingresando a [Mi perfil](Visualizar_tu_perfil.md), y luego seleccionando el botón VER DETALLES a la derecha de la suscripción con estado Activa.
+También puedes revisar las características de tu plan ingresando a [Mi perfil](../../administra_tu_cuenta/Tu_Perfil/Visualizar_tu_perfil.md), y luego seleccionando el botón VER DETALLES a la derecha de la suscripción con estado Activa.
 <br></br>
 
 ### Características de los planes disponibles en botmeni

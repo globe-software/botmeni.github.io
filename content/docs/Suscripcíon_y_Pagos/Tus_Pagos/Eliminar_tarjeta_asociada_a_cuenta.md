@@ -18,3 +18,4 @@ Cuando necesites eliminar una tarjeta asociada a la cuenta:
 {{< figure width="700px" height="500px" src="/images/general/eliminar_tarjeta.png" >}}
 3. Presiona SI en el mensaje de confirmación de eliminación.
 {{< figure width="700px" height="500px" src="/images/general/eliminar_tarjeta2.png" >}}
+4. La tarjeta eliminada ya no estará disponible para seleccionar dentro del listado de tarjetas asociadas a la cuenta.

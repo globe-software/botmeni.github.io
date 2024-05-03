@@ -15,17 +15,17 @@ Si deseas modificar el plan que tienes contratado:
 {{< figure width="280px" height="200px" src="/images/general/ver_pefil.png" >}}
 2. Selecciona el módulo Aplicaciones.
 {{< figure width="280px" height="200px" src="/images/general/aplicaciones.png" >}}
-3. Selecciona la nueva cantidad de preguntas que deseas contratar. 
+3. Selecciona la cantidad de preguntas que deseas contratar. 
 {{< figure width="700px" height="500px" src="/images/general/cotizar_preguntas.png" >}}
 4. El plan contratado está resaltado con la leyenda: Plan actual.Presiona CONTRATAR en el nuevo plan al que quieres suscribirte.
 {{< figure width="700px" height="500px" src="/images/general/contratar_plan.png" >}}
-5. Se desplegará una nueva pantalla. En la misma se detallan las modificaciones de funcionalidades y beneficios asociados al cambio de plan.
+5. Se desplegará una nueva pantalla. En la misma se detallan en primer lugar las características del plan a contratar y a continuación, si corresponde, las modificaciones de funcionalidades y beneficios asociados al cambio de plan.
 6. Si tienes un cupón de descuento, ingresa el código y presiona ASOCIAR.
 {{< figure width="630px" height="450px" src="/images/general/cupon_botmeni.png" >}}
-7. Si el sistema lo requiere selecciona las cuentas de Mercado Libre que deseas desvincular (esto será necesario sólo en casos en que el nuevo plan tenga permitido vincular un número menor de cuentas).
+7. Si el sistema lo requiere selecciona las cuentas de Mercado Libre que deseas desvincular (esto será necesario sólo en casos en que el nuevo plan tenga permitido vincular un número menor de cuentas de Mercado Libre a las que tienes actualmente vinculadas).
 7. Selecciona la tarjeta que vincularás a la suscripción (puede ser la misma que tienes registrada para la suscripción actual o puedes modificarla).
-
+{{< figure width="630px" height="450px" src="/images/general/selecciona_tarjeta.png" >}}
 8. Presiona CONFIRMAR.
+{{< figure width="630px" height="450px" src="/images/general/selecciona_tarjeta2.png" >}}
 
-Dado que modificas el tipo de plan, 
-Quisiéramos aclararte que al modificar la cantidad de preguntas, estás dando de baja la suscripción actual y generando una nueva suscripción, por lo que recibirás dos mails. El primero confirma la cancelación de la suscripción que estaba vigente, con un detalle del monto que se devuelve como reembolso en caso de tener recursos abonados no utilizados. Y segundo contiene los datos de tu nueva suscripción. 
+Dado que modificas el tipo de plan, estás dando de baja la suscripción actual y generando una nueva suscripción, por lo que recibirás dos mails. El primero confirma la cancelación de la suscripción que estaba vigente, con un detalle del monto que se devuelve como reembolso en caso de tener recursos abonados no utilizados. Y el segundo contiene los datos de tu nueva suscripción.

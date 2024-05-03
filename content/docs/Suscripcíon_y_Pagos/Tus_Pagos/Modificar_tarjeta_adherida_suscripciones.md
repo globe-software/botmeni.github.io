@@ -11,7 +11,7 @@ toc: true
 ---
 <br></br>
 Para modificar la tarjeta adherida a la suscripción:
-1. Ingresa a Suscripciones.
+1. Ingresa a Suscripciones presionando el ícono triángulo invertido a la derecha de tu nombre y seleccionanado Suscripciones.
 {{< figure width="420px" height="300px" src="/images/general/suscripciones.png" >}} 
 2. Selecciona el botón Ver Detalles de tu suscripción con estado válida 
 {{< figure width="700px" height="500px" src="/images/general/suscripciones_ver_detalles.png" >}} 
