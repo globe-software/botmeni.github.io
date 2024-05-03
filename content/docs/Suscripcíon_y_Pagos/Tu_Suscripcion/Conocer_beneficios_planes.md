@@ -14,9 +14,9 @@ toc: true
 
 Si deseas conocer las funcionalidades y beneficios incluidos en tu plan:
 1. Presiona el ícono triángulo invertido ubicado al costado de tu nombre. Se desplegará el menú que se muestra en la imagen.Selecciona Ver perfil.
-{{< figure width="420px" height="300px" src="/images/general/ver_pefil.png" >}}
+{{< figure width="280px" height="200px" src="/images/general/ver_pefil.png" >}}
 2. Selecciona el módulo Aplicaciones.
-{{< figure width="420px" height="300px" src="/images/general/aplicaciones.png" >}}
+{{< figure width="280px" height="200px" src="/images/general/aplicaciones.png" >}}
 3. El plan contratado estará resaltado con la Leyenda: Plan actual.
 {{< figure width="700px" height="500px" src="/images/general/plan_actual.png" >}}
 <br></br>
@@ -28,9 +28,9 @@ También puedes revisar las características de tu plan ingresando a [Mi perfil]
 
 Si deseas conocer las funcionalidades y beneficios incluidos en los planes disponibles en botmeni:
 1. Presiona el ícono triángulo invertido ubicado al costado de tu nombre. Se desplegará el menú que se muestra en la imagen.Selecciona Ver perfil.
-{{< figure width="420px" height="300px" src="/images/general/ver_pefil.png" >}}
+{{< figure width="280px" height="200px" src="/images/general/ver_pefil.png" >}}
 2. Selecciona el módulo Aplicaciones.
-{{< figure width="420px" height="300px" src="/images/general/aplicaciones.png" >}}
+{{< figure width="280px" height="200px" src="/images/general/aplicaciones.png" >}}
 3. Se presentará todos los planes disponibles con los beneficios y funcionalidades disponibles en cada uno.
 {{< figure width="700px" height="500px" src="/images/general/planes.png" >}}
 
