@@ -1,5 +1,5 @@
 ---
-weight: 360
+weight: 460
 title: "Pago Rechazado. Reintentar"
 description: "Pago Rechazado. Reintentar"
 icon: "inventory_2"

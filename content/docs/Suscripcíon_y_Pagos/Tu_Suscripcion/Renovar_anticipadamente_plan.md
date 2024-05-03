@@ -1,5 +1,5 @@
 ---
-weight: 450
+weight: 350
 title: "Renovar anticipadamente el plan"
 description: "Renovar anticipadamente el plan"
 icon: "inventory_2"

@@ -1,5 +1,5 @@
 ---
-weight: 315
+weight: 410
 title: "Detalle de los pagos de tus suscripciones"
 description: "Detalle de los pagos de tus suscripciones"
 icon: "inventory_2"
@@ -16,12 +16,14 @@ En la sección Pagos podrás visualizar el detalle completo de los pagos asociad
 
 Para obtener esa información:
 
-1. Visualiza la sección [Suscripciones](Visualizar_Suscripciones.md)
-2. Selecciona el botón Ver Detalles de tu suscripción con estado válida 
+1. Inicia sesión desde la página de login  <https://prod.botmeni.com/login>.
+2. Presiona el ícono triángulo invertido ubicado a la derecha de tu nombre. Se desplegará un menú de opciones.Presiona Suscripciones
+{{< figure width="420px" height="300px" src="/images/general/suscripciones.png" >}} 
+3. Selecciona el botón Ver Detalles de tu suscripción con estado válida 
 {{< figure width="700px" height="500px" src="/images/general/suscripciones_ver_detalles.png" >}} 
-3. Haz clic en Pagos. También puedes presionar el botón VER PAGOS.
+4. Haz clic en Pagos. También puedes presionar el botón VER PAGOS.
 {{< figure width="700px" height="500px" src="/images/general/suscripciones_3.png" >}} 
-4. Se desplegará un listado con todos los pagos relacionados a la suscripción activa. Si presionas el botón VER DETALLE a la derecha de cada registro, podrás obtener más información de cada uno de ellos.
+5. Se desplegará un listado con todos los pagos relacionados a la suscripción activa. Si presionas el botón VER DETALLE a la derecha de cada registro, podrás obtener más información de cada uno de ellos.
 {{< figure width="700px" height="500px" src="/images/general/suscripciones_4.png" >}} 
 <br></br>
 
@@ -31,7 +33,8 @@ En la sección Pagos podrás visualizar el detalle completo de tus pagos asociad
 
 Para obtener esa información:
 
-1. Visualiza la sección [Suscripciones](Visualizar_Suscripciones.md)
+1. Presiona el ícono triángulo invertido ubicado a la derecha de tu nombre. Se desplegará un menú de opciones.Presiona Suscripciones
+{{< figure width="420px" height="300px" src="/images/general/suscripciones.png" >}} 
 2. Selecciona el botón Ver Detalles de la suscripción correspondiente. 
 {{< figure width="700px" height="500px" src="/images/general/suscripciones_5.png" >}} 
 3. Haz clic en Pagos. También puedes presionar el botón VER PAGOS.

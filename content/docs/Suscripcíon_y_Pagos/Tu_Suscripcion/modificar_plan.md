@@ -1,5 +1,5 @@
 ---
-weight: 445
+weight: 345
 title: "Modificar el plan contratado"
 description: "Modificar el plan contratado"
 icon: "inventory_2"

@@ -1,5 +1,5 @@
 ---
-weight: 430
+weight: 330
 title: "Cotizar una modificación en la suscripción activa"
 description: "Cotizar una modificación en el plan o la cantidad de preguntas contratadas"
 icon: "inventory_2"
@@ -12,7 +12,8 @@ toc: true
 ### Cotizar una modificación en la cantidad de preguntas contratadas
 
 Para conocer el precio de tu plan para una cantidad de preguntas distinta de la que tienes contratada:
-1. Ingresa a Mi perfil (link)
+1. Ingresa a Mi perfil.
+
 2. Selecciona el módulo Aplicaciones.
 imagen
 3. El plan contratado está resaltado con la leyenda: Plan actual. Podrás conocer el precio asociado a distintas cantidades de preguntas seleccionando las opciones disponibles en el recuadro Cantidad de preguntas.

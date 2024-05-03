@@ -1,5 +1,5 @@
 ---
-weight: 355
+weight: 455
 title: "Eliminar una tarjeta asociada a la cuenta"
 description: "Eliminar una tarjeta asociada a la cuenta"
 icon: "inventory_2"

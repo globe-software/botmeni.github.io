@@ -1,5 +1,5 @@
 ---
-weight: 455
+weight: 355
 title: "¿Cuántas preguntas me quedan disponibles?"
 description: "¿Cuántas preguntas me quedan disponibles?"
 icon: "inventory_2"

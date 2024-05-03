@@ -1,5 +1,5 @@
 ---
-weight: 350
+weight: 450
 title: "Modificar la tarjeta adherida a la suscripción"
 description: "Modificar la tarjeta adherida a la suscripción"
 icon: "inventory_2"

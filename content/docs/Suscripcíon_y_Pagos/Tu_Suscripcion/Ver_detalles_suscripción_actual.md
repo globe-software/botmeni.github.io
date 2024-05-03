@@ -1,5 +1,5 @@
 ---
-weight: 410
+weight: 310
 title: "Detalles de tu suscripción actual"
 description: "Detalles de tu suscripción actual"
 icon: "inventory_2"

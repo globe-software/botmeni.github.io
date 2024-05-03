@@ -1,5 +1,5 @@
 ---
-weight: 440
+weight: 340
 title: "Modificar la cantidad de preguntas contratadas"
 description: "Modificar la cantidad de preguntas contratadas"
 icon: "inventory_2"

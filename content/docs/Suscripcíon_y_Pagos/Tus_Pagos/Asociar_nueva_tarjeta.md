@@ -1,5 +1,5 @@
 ---
-weight: 345
+weight: 445
 title: "Asociar una nueva tarjeta"
 description: "Asociar una nueva tarjeta"
 icon: "inventory_2"
