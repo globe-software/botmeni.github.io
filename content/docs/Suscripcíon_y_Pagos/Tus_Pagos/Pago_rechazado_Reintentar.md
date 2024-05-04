@@ -18,5 +18,5 @@ En caso de figurar que el pago fue Rechazado:
 {{< figure width="700px" height="500px" src="/images/general/pago_rechazado2.png" >}}
 4. Se abrirá una nueva pantalla donde puedes ingresar la misma tarjeta para volver a intentar el pago, o detallar los datos de otra tarjeta. Una vez que has ingresado los datos requeridos, presiona el botón PAGAR. 
 {{< figure width="420px" height="300px" src="/images/general/pago_rechazado3.png" >}}
-5. Recibirás un mensaje que te confirmará que el pago fue exitoso o te avisará que quedó en estado rechazado.
+5. Visualizarás un mensaje, que te confirmará que el pago fue exitoso o te avisará que quedó en estado rechazado nuevamente.
 

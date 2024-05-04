@@ -1,6 +1,6 @@
 ---
 weight: 235
-title: "Actualizar los datos de la cuenta de botmeni"
+title: "Actualizar los datos de la cuenta de Botmeni"
 description: "Actualizar los datos"
 icon: "category"
 color: "primary"
@@ -10,7 +10,7 @@ draft: false
 toc: true
 ---
 <br></br>
-Para actualizar los datos de la cuenta de botmeni:
+Para actualizar los datos de la cuenta de Botmeni:
 1. Inicia Sesión con los datos del usuario principal <https://prod.botmeni.com/login>. 
 2. Ingresa a [Ver perfil](Visualizar_tu_perfil.md). 
 {{< figure width="420px" height="300px" src="/images/general/ver_pefil.png" >}}
