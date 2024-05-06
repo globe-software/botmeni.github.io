@@ -17,7 +17,7 @@ En la sección Pagos podrás visualizar el detalle completo de los pagos asociad
 Para obtener esa información:
 
 1. Inicia sesión desde la página de login  <https://prod.botmeni.com/login>.
-2. Presiona el ícono triángulo invertido ubicado a la derecha de tu nombre. Se desplegará un menú de opciones.Presiona Suscripciones
+2. Presiona el ícono triángulo invertido ubicado a la derecha de tu nombre. Se desplegará un menú de opciones. Presiona Suscripciones
 {{< figure width="420px" height="300px" src="/images/general/suscripciones.png" >}} 
 3. Selecciona el botón Ver Detalles de tu suscripción con estado válida 
 {{< figure width="700px" height="500px" src="/images/general/suscripciones_ver_detalles.png" >}} 
@@ -33,7 +33,7 @@ En la sección Pagos podrás visualizar el detalle completo de tus pagos asociad
 
 Para obtener esa información:
 
-1. Presiona el ícono triángulo invertido ubicado a la derecha de tu nombre. Se desplegará un menú de opciones.Presiona Suscripciones
+1. Presiona el ícono triángulo invertido ubicado a la derecha de tu nombre. Se desplegará un menú de opciones. Presiona Suscripciones
 {{< figure width="420px" height="300px" src="/images/general/suscripciones.png" >}} 
 2. Selecciona el botón Ver Detalles de la suscripción correspondiente. 
 {{< figure width="700px" height="500px" src="/images/general/suscripciones_5.png" >}} 

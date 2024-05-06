@@ -9,7 +9,7 @@ lastmod: "2024-04-08T23:13:49-05:00"
 draft: false
 toc: true
 ---
-Existen tres clases de roles que pueden asociarse a los usuarios vinculados a la cuenta de botmeni:
+Existen tres clases de roles que pueden asociarse a los usuarios vinculados a la cuenta de Botmeni:
 - Solo Responder: brinda acceso a las secciones Pendientes e Histórico. Así, un usuario que tiene asignado dicho rol visualiza el historial de preguntas de las publicaciones de las cuentas de Mercado Libre vinculadas a la cuenta de botmeni. Además, puede responder las preguntas que se encuentren en estado Pendiente.
 - Gestionar tickets: brinda acceso a la sección Tickets, permitiendo tanto la creación como el seguimiento de los mismos.
 - Administrador: brinda acceso a todas las secciones de la plataforma, excepto a aquellas vinculadas a la gestión de la cuenta principal de botmeni (pagos, suscripciones, etc).

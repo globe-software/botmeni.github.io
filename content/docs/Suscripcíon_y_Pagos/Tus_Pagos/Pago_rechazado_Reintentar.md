@@ -9,7 +9,7 @@ lastmod: "2024-04-08T23:13:49-05:00"
 draft: false
 toc: true
 ---
-En caso de figurar que el pago fue Rechazado:
+En caso de figurar que el pago fue Rechazado, para volver a intentar el pago:
 1. Ingresa a Mi perfil presionando el ícono triángulo invertido a la derecha de tu nombre y seleccionanado Ver perfil.
 {{< figure width="420px" height="300px" src="/images/general/ver_pefil.png" >}}
 2. Selecciona el botón Ver Detalles de tu suscripción. 

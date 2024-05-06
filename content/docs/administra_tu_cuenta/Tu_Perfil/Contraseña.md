@@ -30,10 +30,9 @@ El link enviado en el correo tiene validez de 1 hora, pasada la cual deberás in
 <br></br>
 Para modificar la contraseña del usuario principal de la cuenta de botmeni desde la plataforma:
 1. [Inicia sesión](Iniciar_sesión.md) con los datos del usuario principal.
-2. Presiona el ícono de triángulo invertido ubicado al costado de tu nombre. Se desplegará el siguiente menú. 
+2. Presiona el ícono triángulo invertido ubicado a la derecha de tu nombre. Se desplegará el menú que se muestra en la imagen. Selecciona Ver perfil
 {{< figure width="420px" height="300px" src="/images/general/ver_pefil.png" >}}
-3. Presiona Ver perfil.
-4. Se visualizará una pantalla con el detalle de la cuenta de botemni. Presiona el botón CAMBIAR CONTRASEÑA ubicado en la zona superior derecha.
+3. Se visualizará una pantalla con el detalle de la cuenta de Botmeni. Presiona el botón CAMBIAR CONTRASEÑA ubicado en la zona superior derecha.
 {{< figure width="700px" height="500px" src="/images/general/cambiar_contraseña.png" >}}
 5. Completa la contraseña actual, la nueva contraseña y la confirmación de la nueva contraseña.
 {{< figure width="280px" height="200px" src="/images/general/cambiar_contraseña_desde_perfil.png" >}}

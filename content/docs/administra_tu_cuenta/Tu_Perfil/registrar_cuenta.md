@@ -19,7 +19,7 @@ Para crear una cuenta:
 {{< figure width="560px" height="400px" src="/images/general/registro3.png" >}}
 4. Recibirás un mail a la casilla de correo electrónico requiriendo tu confirmación. Presiona sobre el botón Confirmar Email para completar la activación de tu cuenta.
 {{< figure width="560px" height="400px" src="/images/general/registro5.png" >}}
-5. Si no recibiste el mail de confirmación de nuevo, presiona el botón para solicitarlo nuevamente.
+5. Si no recibiste el mail de confirmación, presiona el botón para solicitarlo nuevamente.
 {{< figure width="560px" height="400px" src="/images/general/registro4.png" >}}
 <br></br>
 También puedes acceder al formulario de registro presionando CONTRATAR en el plan de Botmeni al que desees suscribirte desde <https://prod.botmeni.com/suscripciones/applications/mercadolibre.> <br></br>

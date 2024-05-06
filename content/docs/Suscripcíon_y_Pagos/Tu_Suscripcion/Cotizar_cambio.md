@@ -12,7 +12,7 @@ toc: true
 ### Cotizar una modificación en la cantidad de preguntas contratadas
 
 Para conocer el precio de tu plan para una cantidad de preguntas distinta de la que tienes contratada:
-1. Presiona el ícono triángulo invertido ubicado al costado de tu nombre. Se desplegará el menú que se muestra en la imagen.Selecciona Ver perfil.
+1. Presiona el ícono triángulo invertido ubicado a la derecha de tu nombre. Se desplegará el menú que se muestra en la imagen. Selecciona Ver perfil.
 {{< figure width="280px" height="200px" src="/images/general/ver_pefil.png" >}}
 2. Selecciona el módulo Aplicaciones.
 {{< figure width="280px" height="200px" src="/images/general/aplicaciones.png" >}}
@@ -26,7 +26,7 @@ Si deseas consultar por una cantidad superior de preguntas de las detalladas en 
 ### Cotizar una modificación en el plan contratado
 
 Para conocer el precio de los otros planes disponibles en la plataforma:
-1. Presiona el ícono triángulo invertido ubicado al costado de tu nombre. Se desplegará el menú que se muestra en la imagen.Selecciona Ver perfil.
+1. Presiona el ícono triángulo invertido ubicado a la derecha de tu nombre. Se desplegará el menú que se muestra en la imagen. Selecciona Ver perfil.
 {{< figure width="280px" height="200px" src="/images/general/ver_pefil.png" >}}
 2. Selecciona el módulo Aplicaciones.
 {{< figure width="280px" height="200px" src="/images/general/aplicaciones.png" >}}

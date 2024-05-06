@@ -11,7 +11,7 @@ toc: true
 ---
 Si deseas modificar el plan que tienes contratado:
 
-1. Presiona el ícono triángulo invertido ubicado al costado de tu nombre. Se desplegará el menú que se muestra en la imagen.Selecciona Ver perfil.
+1. Presiona el ícono triángulo invertido ubicado a la derecha de tu nombre. Se desplegará el menú que se muestra en la imagen.Selecciona Ver perfil.
 {{< figure width="280px" height="200px" src="/images/general/ver_pefil.png" >}}
 2. Selecciona el módulo Aplicaciones.
 {{< figure width="280px" height="200px" src="/images/general/aplicaciones.png" >}}
@@ -24,8 +24,8 @@ Si deseas modificar el plan que tienes contratado:
 {{< figure width="630px" height="450px" src="/images/general/cupon_botmeni.png" >}}
 7. Si el sistema lo requiere selecciona las cuentas de Mercado Libre que deseas desvincular (esto será necesario sólo en casos en que el nuevo plan tenga permitido vincular un número menor de cuentas de Mercado Libre a las que tienes actualmente vinculadas).
 7. Selecciona la tarjeta que vincularás a la suscripción (puede ser la misma que tienes registrada para la suscripción actual o puedes modificarla).
-{{< figure width="630px" height="450px" src="/images/general/selecciona_tarjeta.png" >}}
+{{< figure width="630px" height="450px" src="/images/general/seleciona_tarjeta.png" >}}
 8. Presiona CONFIRMAR.
-{{< figure width="630px" height="450px" src="/images/general/selecciona_tarjeta2.png" >}}
+{{< figure width="630px" height="450px" src="/images/general/seleciona_tarjeta2.png" >}}
 
-Dado que modificas el tipo de plan, estás dando de baja la suscripción actual y generando una nueva suscripción, por lo que recibirás dos mails. El primero confirma la cancelación de la suscripción que estaba vigente, con un detalle del monto que se devuelve como reembolso en caso de tener recursos abonados no utilizados. Y el segundo contiene los datos de tu nueva suscripción.
+Dado que modificas el tipo de plan, estás dando de baja la suscripción actual y generando una nueva suscripción, por lo que recibirás dos mails. El primero confirma la cancelación de la suscripción que estaba vigente, con un detalle del monto que se devuelve como reembolso si correspondiera en caso de tener recursos abonados no utilizados. Y el segundo contiene los datos de tu nueva suscripción.

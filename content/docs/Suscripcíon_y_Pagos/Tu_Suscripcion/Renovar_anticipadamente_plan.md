@@ -12,8 +12,8 @@ toc: true
 
 En ocaciones nuestros usuarios deciden renovar anticipadamente el plan, por ejemplo, porque se ha llegado al máximo de preguntas contratadas para el periodo actual. 
 Para renovar el plan:
-1. Inicia sesión
-2. Presiona el ícono triángulo invertido ubicado al costado de tu nombre. Se desplegará el menú que se muestra en la imagen.Selecciona Ver perfil.
+1. Inicia sesión en <https://prod.botmeni.com/login>, con los datos del usuario principal.
+2. Presiona el ícono triángulo invertido ubicado a la derecha de tu nombre. Se desplegará el menú que se muestra en la imagen. Selecciona Ver perfil.
 {{< figure width="420px" height="300px" src="/images/general/ver_pefil.png" >}}
 3. Selecciona el módulo Aplicaciones.
 {{< figure width="280px" height="200px" src="/images/general/aplicaciones.png" >}}

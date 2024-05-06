@@ -11,10 +11,12 @@ toc: true
 ---
 <br></br>
 Para eliminar la cuenta:
-1. [Ingresa a Ver perfil](Visualizar_tu_perfil.md). 
-2. Presiona el botón ELIMINAR CUENTA, que se encuentra en la parte superior derecha.
+1. [Inicia sesión](Iniciar_sesión.md) con los datos del usuario principal.
+2. Presiona el ícono triángulo invertido ubicado a la derecha de tu nombre. Se desplegará el menú que se muestra en la imagen. Selecciona Ver perfil
+{{< figure width="420px" height="300px" src="/images/general/ver_pefil.png" >}}
+3. Presiona el botón ELIMINAR CUENTA, que se encuentra en la parte superior derecha.
 {{< figure width="700px" height="500px" src="/images/general/eliminar_cuenta.png" >}}
-3. Lee detenidamente y presiona SI en el mensaje de confirmación si estás de acuerdo.
+4. Lee detenidamente y presiona SI en el mensaje de confirmación si estás de acuerdo.
 <br></br>
 
 Una vez que confirmes la eliminación de la cuenta, se eliminarán todos los usuarios vinculados a la empresa. Podrás reactivarla si inicias sesión nuevamente (enviaremos un link al email registrado para verificar que eres tú).<br></br>

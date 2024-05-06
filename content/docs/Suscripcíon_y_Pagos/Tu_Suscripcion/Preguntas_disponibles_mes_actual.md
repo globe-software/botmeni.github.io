@@ -10,11 +10,11 @@ draft: false
 toc: true
 ---
 
-Si deseas conocer cuántes preguntas quedan disponibles de tu plan mensual:
+Si deseas conocer cuántas preguntas quedan disponibles para procesar de tu plan mensual:
 
 1. Inicia sesión desde <https://prod.botmeni.com/login>.
 2. En la esquina superior derecha visualizarás la cantidad de preguntas que ya fueron procesadas y el total que tienes contratado para el periodo mensual vigente.
-{{< figure width="630px" height="450px" src="/images/general/preguntas_procesadas.png" >}}
+{{< figure width="700px" height="500px" src="/images/general/preguntas_procesadas.png" >}}
 
 
 
