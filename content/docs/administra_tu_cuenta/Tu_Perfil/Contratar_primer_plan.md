@@ -16,7 +16,7 @@ Para contratar un plan por primera vez, luego de registrar tu cuenta:
 2. Si aún no tienes un plan contratado, se abrirá una pantalla con la descripción de los planes disponibles.
 {{< figure width="700px" height="500px" src="/images/general/registrarme_1.png" >}}
 3. Selecciona la cantidad de preguntas que deseas contratar. Al hacerlo se detallará en cada plan el precio correspondiente.
-{{< figure width="700px" height="500px" src="/images/general/cotizar_preguntas.png" >}
+{{< figure width="700px" height="500px" src="/images/general/cotizar_preguntas.png" >}}
 3. Presiona CONTRATAR en el plan al que deseas adherirte. 
 {{< figure width="700px" height="500px" src="/images/general/registrarme_contratar.png" >}}
 4. Se presentará la pantalla de contratación. En la misma estarán detallados en la parte superior los beneficios y funciones del plan que has seleccionado.

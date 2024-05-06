@@ -1,6 +1,6 @@
 ---
 weight: 520
-title: "Enviar mails cuando existan preguntas pendientes"
+title: "Características generalaes"
 description: "Enviar mails cuando existan preguntas pendientes"
 icon: "category"
 color: "primary"
