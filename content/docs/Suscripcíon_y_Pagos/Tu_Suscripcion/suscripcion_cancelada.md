@@ -6,11 +6,11 @@ icon: "inventory_2"
 color: "primary"
 date: "2024-04-08T23:13:49-05:00"
 lastmod: "2024-04-08T23:13:49-05:00"
-draft: true
+draft: false
 toc: true
 ---
 En caso de que tu suscripción se encuentra cancelada, y deseas volver a adherirte al plan que tenías contratado:
-1. Inicie sesión en <https://prod.botmeni.com/login>
+1. Inicia sesión en <https://prod.botmeni.com/login>
 2. Presiona el ícono triángulo invertido ubicado a la derecha de tu nombre. Se desplegará el menú que se muestra en la imagen. Selecciona Ver perfil.
 {{< figure width="280px" height="200px" src="/images/general/ver_pefil.png" >}}
 3. En el nuevo menú desplegado, selecciona el módulo Aplicaciones.
