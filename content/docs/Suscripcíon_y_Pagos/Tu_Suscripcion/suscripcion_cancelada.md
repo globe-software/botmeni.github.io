@@ -16,7 +16,7 @@ En caso de que tu suscripción se encuentra cancelada, y deseas volver a adherir
 3. En el nuevo menú desplegado, selecciona el módulo Aplicaciones.
 {{< figure width="280px" height="200px" src="/images/general/aplicaciones.png" >}}
 4. Selecciona la cantidad de preguntas que deseas contratar. 
-{{< figure width="700px" height="500px" src="/images/general/cotizar_preguntas.png" >}}
+{{< figure width="700px" height="500px" src="/images/general/contratar_plan3.png" >}}
 5. Presiona CONTRATAR en el plan al que quieres suscribirte.
 {{< figure width="700px" height="500px" src="/images/general/registrarme_contratar.png" >}}
 5. Se desplegará la pantalla de contratación. En la misma se detallan en primer lugar las características del plan a contratar.
