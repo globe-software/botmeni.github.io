@@ -18,7 +18,7 @@ En caso de que tu suscripción se encuentra cancelada, y deseas volver a adherir
 4. Selecciona la cantidad de preguntas que deseas contratar. 
 {{< figure width="700px" height="500px" src="/images/general/cotizar_preguntas.png" >}}
 5. Presiona CONTRATAR en el plan al que quieres suscribirte.
-{{< figure width="700px" height="500px" src="/images/general/contratar_plan.png" >}}
+{{< figure width="700px" height="500px" src="/images/general/contratar_plan2.png" >}}
 5. Se desplegará la pantalla de contratación. En la misma se detallan en primer lugar las características del plan a contratar.
 6. Si tienes un cupón de descuento, ingresa el código y presiona ASOCIAR.
 {{< figure width="630px" height="450px" src="/images/general/cupon_botmeni.png" >}}
