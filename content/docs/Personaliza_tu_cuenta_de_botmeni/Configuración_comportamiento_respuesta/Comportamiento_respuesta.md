@@ -1,5 +1,5 @@
 ---
-weight: 550
+weight: 520
 title: "¿Cuáles son los comportamientos de respuesta disponibles?"
 description: "¿Cuáles son los comportamientos de respuesta disponibles?"
 icon: "category"

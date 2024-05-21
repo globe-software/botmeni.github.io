@@ -1,5 +1,5 @@
 ---
-weight: 570
+weight: 540
 title: "Comportamiento de respuesta para un producto específico"
 description: "Comportamiento de respuesta para un producto específico"
 icon: "category"

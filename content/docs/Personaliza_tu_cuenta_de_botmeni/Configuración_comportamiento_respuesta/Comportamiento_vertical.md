@@ -1,5 +1,5 @@
 ---
-weight: 560
+weight: 530
 title: "Definir el comportamiento de respuesta por vertical de negocio"
 description: "Definir elcomportamiento de respuesta por vertical de negocio"
 icon: "category"

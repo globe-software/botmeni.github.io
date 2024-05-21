@@ -1,5 +1,5 @@
 ---
-weight: 565
+weight: 535
 title: "Comportamiento de respuesta para una categoría en particular"
 description: "Comportamiento de respuesta para una categoría en particular"
 icon: "category"

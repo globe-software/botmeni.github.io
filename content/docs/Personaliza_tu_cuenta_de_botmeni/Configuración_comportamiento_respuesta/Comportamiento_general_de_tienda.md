@@ -1,5 +1,5 @@
 ---
-weight: 555
+weight: 525
 title: "Comportamiento general de la tienda"
 description: "Comportamiento general de la tienda"
 icon: "category"
