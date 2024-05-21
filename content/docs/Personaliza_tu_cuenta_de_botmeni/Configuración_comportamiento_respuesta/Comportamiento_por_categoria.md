@@ -15,7 +15,7 @@ El comportamiento de respuesta establecido para una categoría tiene prioridad p
 Para establecer el comportamiento de respuesta para una categoría específica:
 1. Inicia sesión con un usuario con tipo de rol ADMINISTRADOR, en nuestra página de login <https://prod.botmeni.com/login>.
 2. Haz clic en CONFIGURACIÓN.
-{{< figure width="420px" height="300px" src="/images/general/configuracion.png" >}}
+{{< figure width="140px" height="100px" src="/images/general/configuracion.png" >}}
 3. Posiciónate en la sección Configuración del tratamiento para las preguntas de Categorías y Productos
 {{< figure width="980px" height="700px" src="/images/general/categorias.png" >}}
 4. Presiona el botón + de la sección Tratamiento de categorías.
