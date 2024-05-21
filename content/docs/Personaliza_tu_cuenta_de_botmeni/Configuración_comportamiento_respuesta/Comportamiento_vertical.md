@@ -15,11 +15,11 @@ Para establecer el comportamiento que deseas para una determinada vertical de ne
 2. Haz clic en CONFIGURACIÓN.
 {{< figure width="420px" height="300px" src="/images/general/configuracion.png" >}}
 3. Visualiza el listado de verticales.
-{{< figure width="700px" height="500px" src="/images/general/verticales.png" >}}
+{{< figure width="980px" height="700px" src="/images/general/verticales.png" >}}
 4. Haz click en el combo a la dizquierda de la categoría a personalizar.
-{{< figure width="700px" height="500px" src="/images/general/verticales2.png" >}}
+{{< figure width="980px" height="700px" src="/images/general/verticales2.png" >}}
 5. Selecciona la opción de comportamiento deseada.
-{{< figure width="700px" height="500px" src="/images/general/verticales3.png" >}}
+{{< figure width="980px" height="700px" src="/images/general/verticales3.png" >}}
 
 
 

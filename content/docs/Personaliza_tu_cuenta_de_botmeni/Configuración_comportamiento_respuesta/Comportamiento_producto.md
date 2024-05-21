@@ -19,7 +19,7 @@ Para configurar el comportamiento para un producto específico:
 2. Haz clic en CONFIGURACIÓN.
 {{< figure width="420px" height="300px" src="/images/general/configuracion.png" >}}
 3. Posiciónate en la sección Configuración del tratamiento para las preguntas de Categorías y Productos
-{{< figure width="700px" height="500px" src="/images/general/categorias.png" >}}
+{{< figure width="980px" height="700px" src="/images/general/categorias.png" >}}
 4. Presiona el ícono + de la sección Tratamiento de productos.
 imagen
 5.Selecciona el comportamiento deseado.
