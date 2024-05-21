@@ -29,4 +29,4 @@ Para renovar el plan:
 8. Presiona CONFIRMAR.
 {{< figure width="630px" height="450px" src="/images/general/selecciona_tarjeta2.png" >}}
 
-Recibirás dos mails, dado que estás dando de baja la suscripción actual y generando una nueva suscripción. El primero confirma la cancelación de la suscripción que estaba vigente. El segundo contiene los datos de tu nueva suscripción. 
+Recibirás dos mails, dado que estás dando de baja la suscripción actual y generando una nueva suscripción. El primero confirma la cancelación de la suscripción que estaba vigente. El segundo contiene los datos de tu nueva suscripción.    
