@@ -19,7 +19,7 @@ Si deseas modificar el plan que tienes contratado:
 {{< figure width="700px" height="500px" src="/images/general/cotizar_preguntas.png" >}}
 4. El plan contratado está resaltado con la leyenda: Plan actual.Presiona CONTRATAR en el nuevo plan al que quieres suscribirte.
 {{< figure width="700px" height="500px" src="/images/general/contratar_plan.png" >}}
-5. Se desplegará una nueva pantalla. En la misma se detallan en primer lugar las características del plan a contratar. A continuación, si corresponde, se listarán las modificaciones que se aplicarán en las funcionalidades disponibles, debido al cambio de plan. Por ejemplo, si actualmente estuviera contratado el plan Empresarial y estás cambiando al plan Profesional, en la pantalla te advertirán de los cambios que se aplicarán en las funcionalidades de tu cuenta, como se muestra en la imagen a continuación.
+5. Se desplegará una nueva pantalla. En la misma se detallan en primer lugar las características del plan a contratar. A continuación, si corresponde, se listarán las modificaciones que se aplicarán en las funcionalidades disponibles, debido al cambio de plan. Por ejemplo, si actualmente estuviera contratado el plan Empresarial y se está cambiando al plan Profesional, en la pantalla se advertirán los cambios que se aplicarán en las funcionalidades de tu cuenta, como se muestra en la imagen a continuación.
 {{< figure width="630px" height="450px" src="/images/general/disminucion_plan.png" >}}
 6. Si tienes un cupón de descuento, ingresa el código y presiona ASOCIAR.
 {{< figure width="630px" height="450px" src="/images/general/cupon_botmeni.png" >}}

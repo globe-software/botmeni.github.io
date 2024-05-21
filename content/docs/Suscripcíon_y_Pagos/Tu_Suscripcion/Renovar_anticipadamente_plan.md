@@ -22,7 +22,7 @@ Para renovar el plan:
 4. El plan contratado está resaltado con la leyenda: Plan actual. Presiona CONTRATAR.
 {{< figure width="700px" height="500px" src="/images/general/contratar_plan.png" >}}
 5. Se deslpegará la pantalla de contratación, con las características del plan a contratar descriptas en la parte superior.
-6. Si tienes un cupón de descuento, ingresa el código y presiona ASOCIAR.
+6. Si tienes un cupón de descuento, ingresa el código y presiona APLICAR.
 {{< figure width="630px" height="450px" src="/images/general/cupon_botmeni.png" >}}
 7. Selecciona la tarjeta que vincularás a la suscripción (puede ser la misma que tienes registrada para la suscripción actual o puedes modificarla).
 {{< figure width="630px" height="450px" src="/images/general/selecciona_tarjeta.png" >}}
