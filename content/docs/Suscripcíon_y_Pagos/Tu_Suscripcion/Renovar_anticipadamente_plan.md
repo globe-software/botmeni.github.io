@@ -25,8 +25,8 @@ Para renovar el plan:
 6. Si tienes un cupón de descuento, ingresa el código y presiona APLICAR.
 {{< figure width="630px" height="450px" src="/images/general/cupon_botmeni.png" >}}
 7. Selecciona la tarjeta que vincularás a la suscripción (puede ser la misma que tienes registrada para la suscripción actual o puedes modificarla).
-{{< figure width="630px" height="450px" src="/images/general/selecciona_tarjeta.png" >}}
+{{< figure width="630px" height="450px" src="/images/general/seleciona_tarjeta.png" >}}
 8. Presiona CONFIRMAR.
-{{< figure width="630px" height="450px" src="/images/general/selecciona_tarjeta2.png" >}}
+{{< figure width="630px" height="450px" src="/images/general/seleciona_tarjeta2.png" >}}
 
 Recibirás dos mails, dado que estás dando de baja la suscripción actual y generando una nueva suscripción. El primero confirma la cancelación de la suscripción que estaba vigente. El segundo contiene los datos de tu nueva suscripción.    
