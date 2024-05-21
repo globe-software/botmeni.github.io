@@ -15,5 +15,5 @@ Para establecer el comportamiento de respuesta del bot de modo general para tu t
 2. Haz clic en CONFIGURACIÓN.
 {{< figure width="280px" height="200px" src="/images/general/configuracion.png" >}}
 3. Presiona sobre el botón que especifica la clase de comportamiento general que deseas establecer: Responder Automático, Solo Analizar o No hacer nada.
-{{< figure width="700px" height="500px" src="/images/general/categoriageneral.png" >}}
+{{< figure width="980px" height="700px" src="/images/general/categoriageneral.png" >}}
 
