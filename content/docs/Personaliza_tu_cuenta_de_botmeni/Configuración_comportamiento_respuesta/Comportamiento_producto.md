@@ -11,13 +11,15 @@ toc: true
 ---
 
 
-En tratamiento de categoría y productos puedes elegir la clase de comportamiento que deseas establecer para un producto en particular. 
+Dentro de la sección Configuración del tratamiento para las preguntas por categoría y productos, puedes elegir la clase de comportamiento que deseas establecer para un producto en particular. 
 Ten en cuenta que el comportamiento de respuesta establecido para un producto tendrá prioridad por sobre el que hayas seleccionado para la categoría o vertical de negocios a la que pertenece el producto.
 
 Para configurar el comportamiento para un producto específico:
-1. Incia sesión (link)
-2. Presiona Configuraciones.
-3. Posicionate en la sección Configuración del tratamiento para las preguntas de Categorías y Productos
+1. Inicia sesión con un usuario con tipo de rol ADMINISTRADOR, en nuestra página de login <https://prod.botmeni.com/login>.
+2. Haz clic en CONFIGURACIÓN.
+{{< figure width="420px" height="300px" src="/images/general/configuracion.png" >}}
+3. Posiciónate en la sección Configuración del tratamiento para las preguntas de Categorías y Productos
+{{< figure width="700px" height="500px" src="/images/general/categorias.png" >}}
 4. Presiona el ícono + de la sección Tratamiento de productos.
 imagen
 5.Selecciona el comportamiento deseado.

@@ -10,8 +10,10 @@ draft: false
 toc: true
 ---
 Botmeni puede configurarse para gestionar las respuestas en tres modos diferentes:
-
-Automático: Al llegar la pregunta se responderá automáticamente, siempre que la plataforma evalúe que la calidad de la respuesta generada es buena. <br></br>
-Sólo análisis: Al llegar la pregunta se analizará y se creará una respuesta, pero ésta no será enviada a mercado libre. Quedará pendiente para que la revises manualmente y tú la envíes. <br></br>
-No analizar: las preguntas que lleguen no serán procesadas por Botmeni, por lo cual no se realizará ningún análisis ni se enviará un respuesta al cliente.	<br></br>
+{{< figure width="700px" height="500px" src="/images/general/responder_autmatico.png" >}}
+Responder Automático: La pregunta se responderá automáticamente, siempre que la plataforma evalúe que la calidad de la respuesta generada es adecuada. <br></br>
+{{< figure width="700px" height="500px" src="/images/general/soloanalizar.png" >}}
+Sólo análisis: La pregunta se analizará y se generará una respuesta, pero ésta no será enviada a Mercado Libre. Quedará pendiente para que la revises manualmente y tú la envíes. <br></br>
+{{< figure width="700px" height="500px" src="/images/general/nohacernada.png" >}}
+No hacer nada: las preguntas que lleguen no serán procesadas por Botmeni, por lo cual no se realizará ningún análisis ni se enviará un respuesta al cliente.	<br></br>
 

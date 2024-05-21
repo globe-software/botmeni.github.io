@@ -1,5 +1,5 @@
 ---
-weight: 570
+weight: 545
 title: "Solo analizar para un horario en particular"
 description: "Solo analizar para un horario en particular"
 icon: "category"

@@ -9,16 +9,17 @@ lastmod: "2024-04-08T23:13:49-05:00"
 draft: false
 toc: true
 ---
-
+<br></br>
 Para establecer el comportamiento que deseas para una determinada vertical de negocio:
-
-1. Inicia sesión
-2. Ingresa a la sección Configuraciones
+1. Inicia sesión con un usuario con tipo de rol ADMINISTRADOR, en nuestra página de login <https://prod.botmeni.com/login>.
+2. Haz clic en CONFIGURACIÓN.
+{{< figure width="420px" height="300px" src="/images/general/configuracion.png" >}}
 3. Visualiza el listado de verticales.
-imagen
-4. Haz click en el combo a la derecha de la categoría a pesonalizar.
-imagen
+{{< figure width="700px" height="500px" src="/images/general/verticales.png" >}}
+4. Haz click en el combo a la dizquierda de la categoría a personalizar.
+{{< figure width="700px" height="500px" src="/images/general/verticales2.png" >}}
 5. Selecciona la opción de comportamiento deseada.
+{{< figure width="700px" height="500px" src="/images/general/verticales3.png" >}}
 
 
 

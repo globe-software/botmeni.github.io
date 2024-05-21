@@ -13,9 +13,7 @@ toc: true
 Una de las grandes ventajas que distingue a nuestro bot es que puedes personalizar el modo en que responde las preguntas en función de distintos parámetros, tanto aquellos relacionados a características de la pregunta en sí, como otros asociados por ej al día y la hora en que la misma se realiza.<br></br>
 La configuración del comportamiento de gestión de las respuestas en Automático, Sólo analizar y No analizar puede aplicarse en modo general para toda tu tienda, o personalizándolo para una determinada vertical de negocios, una categoría especial dentro de una vertical o incluso para un producto en particular. 
 <br></br>
-Aún más, puedes configurar el comportamiento del bot en función de características específicas de una pregunta, como por ejemplo aquellas que sean sobre stock, contengan número de chasis o consulten sobre la compatibilidad del producto en venta con algún otro ítem que menciona tu cliente.
-<br></br>
-También existe la posibilidad de definir días y horas en que el comportamiento del bot sea de Sólo analizar.
+Aún más, puedes configurar el comportamiento del bot en función de características específicas de una pregunta, como por ejemplo aquellas que sean sobre stock, contengan número de chasis o consulten sobre la compatibilidad del producto en venta con otro ítem que menciona tu cliente.
 <br></br>
 En las siguientes secciones encontrarás el detalle de cada una de las personalizaciones disponibles, y los sencillos pasos para implementarlas.
 
