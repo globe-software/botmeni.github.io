@@ -30,6 +30,8 @@ Para establecer el comportamiento de respuesta para una categoría específica:
 {{< figure width="980px" height="700px" src="/images/general/categorias5.png" >}}
 8. Si no deseas guardar la configuración presiona X, y quedará eliminada.
 {{< figure width="980px" height="700px" src="/images/general/categorias6.png" >}}
+<br></br>
+En la sección [Funcionalidades y beneficios incluidos según el plan](../../Suscripcíon_y_Pagos/Tu_Suscripcion/Conocer_beneficios_planes.md) se puede visualizar cuáles tienen incluida la funcionalidad recién detallada.
 
 ### Para modificar el comportamiento establecido para una categoría específica:
 
