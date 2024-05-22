@@ -25,11 +25,11 @@ Para configurar el comportamiento para un producto específico:
 5.Selecciona el comportamiento deseado.
 {{< figure width="980px" height="700px" src="/images/general/producto2.png" >}}
 6. Ingresa el ID o URL del producto para el que deseas personalizar el comportamiento de respuesta del bot.
-{{< figure width="980px" height="700px" src="/images/general/producto3.png" >}}
-7.Presiona el ícono Guardar ubicado a la derecha. La configuración ya quedó guardada. 
-{{< figure width="980px" height="700px" src="/images/general/producto4.png" >}}
+{{< figure width="980px" height="700px" src="/images/general/PRODUCTO3.png" >}}
+7. Presiona el ícono Guardar ubicado a la derecha. La configuración ya quedó guardada. 
+{{< figure width="980px" height="700px" src="/images/general/PRODUCTO4.png" >}}
 8. Si no deseas guardar la configuración presiona X, y quedará eliminada.
-{{< figure width="980px" height="700px" src="/images/general/producto5.png" >}}
+{{< figure width="980px" height="700px" src="/images/general/PRODUCTO5.png" >}}
 
 <br></br>
 En la sección [Funcionalidades y beneficios incluidos según el plan](../../Suscripcíon_y_Pagos/Tu_Suscripcion/Conocer_beneficios_planes.md) se puede visualizar cuáles tienen incluida la funcionalidad recién detallada.
@@ -38,7 +38,7 @@ En la sección [Funcionalidades y beneficios incluidos según el plan](../../Sus
 
 Luego de posicionarte en la sección Configuración del tratamiento para las preguntas de Categorías y Productos:
 1. Presiona el ícono de lapiz (editar).
-{{< figure width="980px" height="700px" src="/images/general/producto6.png" >}}
+{{< figure width="980px" height="700px" src="/images/general/PRODUCTO6.png" >}}
 2. Si deseas modificar el comportamiento actualmente establecido, presiona en el combo de comportamiento y selecciona el nuevo comportamiento.
 {{< figure width="980px" height="700px" src="/images/general/PRODUCTO7.png" >}}
 6. Si deseas modificar el producto, ingresa el ID o URL del nuevo producto.
