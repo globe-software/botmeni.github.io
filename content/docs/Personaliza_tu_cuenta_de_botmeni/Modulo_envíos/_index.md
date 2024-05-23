@@ -1,5 +1,5 @@
 ---
-weight: 700
+weight: 900
 title: "Centros de Distribución"
 description: "Centros de Distribución"
 icon: "settings"
