@@ -1,6 +1,6 @@
 ---
 weight: 315
-title: "Funcionalidades y beneficios incluidos según el plan"
+title: "Funcionalidades y beneficios incluidos en cada plan"
 description: "Funcionalidades y beneficios incluidos según el plan"
 icon: "inventory_2"
 color: "primary"

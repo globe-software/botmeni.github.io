@@ -1,3 +1,4 @@
+---
 weight: 590
 title: "Comportamiento de respuesta para respuestas con link a otros items"
 description: "Comportamiento de respuesta para respuestas con link a otros items"
