@@ -33,11 +33,11 @@ Dentro de la sección CONFIGURACIÓN puedes establecer que deseas recibir un mai
 {{< figure width="840px" height="600px" src="/images/general/configuracion_configuraciongral_pendientes.png" >}}
 
 ### Excluir información de catálogo
-Si no deseas que Botmeni al procesar las respuestas tenga en cuenta la información detallada en las publicaciones de catálogo asociadas a los productos de tu cuenta, debes seleccionar la casilla Excluir información de catálogo:
+Dentro de las configuraciones disponibles para establecer, puedes indicar si Botmeni al procesar las respuestas tiene o no tiene en cuenta la información detallada en las publicaciones de catálogo asociadas a los productos de tu cuenta. Si seleccionas la casilla Excluir información de catálogo Botmeni que se muestra a continuación, no se tomará en cuenta la información de las publicaciones de catálogo.
 {{< figure width="840px" height="600px" src="/images/general/configuracion_configuraciongral_excluir.png" >}}
 
 ### Excluir ficha técnica
-Si no deseas que Botmeni tenga en cuenta cuando elabora las respuestas la información detallada en la ficha técnica de tus publicaciones debes seleccionar la casilla Excluir información de catálogo:
+Puedes establecer si Botmeni al elaborar las respuestas tiene o no tiene en cuenta la información detallada en la ficha técnica de tus publicaciones. Si seleccionas la casilla Excluir ficha técnica que se muestra a continuación, no se tomará en cuenta dicha información.
 {{< figure width="840px" height="600px" src="/images/general/configuracion_configuraciongral_excluir.png" >}}
 
 
