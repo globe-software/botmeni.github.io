@@ -33,9 +33,9 @@ Para establecer el comportamiento de respuesta para una categoría específica:
 <br></br>
 En la sección [Funcionalidades y beneficios incluidos según el plan](../../Suscripcíon_y_Pagos/Tu_Suscripcion/Conocer_beneficios_planes.md) se puede visualizar cuáles tienen incluida la funcionalidad recién detallada.
 
-### Para modificar el comportamiento establecido para una categoría específica:
+### Modificar el comportamiento establecido para una categoría específica:
 
-Luego de posicionarte en la sección Configuración del tratamiento para las preguntas de Categorías y Productos:
+Si necesitas modificar el comportamiento establecido para una categoría, luego de posicionarte en la sección Configuración del tratamiento para las preguntas de Categorías y Productos:
 1. Presiona el ícono de lapiz (editar).
 {{< figure width="980px" height="700px" src="/images/general/categorias7.png" >}}
 2. Si deseas modificar el comportamiento actualmente establecido, presiona en el combo de comportamiento y selecciona el nuevo comportamiento.
@@ -46,11 +46,11 @@ Luego de posicionarte en la sección Configuración del tratamiento para las pre
 {{< figure width="980px" height="700px" src="/images/general/categorias10.png" >}}
 La nueva configuración quedó establecida.
 
-### Para elminar el comportamiento establecido para una categoría específica:
+### Elminar el comportamiento establecido para una categoría específica:
 
-Luego de posicionarte en la sección Configuración del tratamiento para las preguntas de Categorías y Productos:
+Si necesitas eliminar el comportamiento establecido para una categoría, luego de posicionarte en la sección Configuración del tratamiento para las preguntas de Categorías y Productos:
 
-Presiona el ícono papelera (eliminar).
+Presiona el ícono papelera (eliminar) ubicado a la derecha de la configuración que deseas eliminar:
 {{< figure width="980px" height="700px" src="/images/general/categorias11.png" >}}
 
 La configuración quedó eliminada.

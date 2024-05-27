@@ -36,7 +36,7 @@ En la sección [Funcionalidades y beneficios incluidos según el plan](../../Sus
 
 ### Modificar el comportamiento de respuesta establecido para un producto en específico:
 
-Luego de posicionarte en la sección Configuración del tratamiento para las preguntas de Categorías y Productos:
+Si necesitas modificar el comportamiento establecido para un producto, luego de posicionarte en la sección Configuración del tratamiento para las preguntas de Categorías y Productos:
 1. Presiona el ícono de lapiz (editar).
 {{< figure width="980px" height="700px" src="/images/general/PRODUCTO6.png" >}}
 2. Si deseas modificar el comportamiento actualmente establecido, presiona en el combo de comportamiento y selecciona el nuevo comportamiento.
@@ -49,9 +49,9 @@ La nueva configuración quedó establecida.
 
 ### Eliminar el comportamiento de respuesta establecido para un producto en específico:
 
-Luego de posicionarte en la sección Configuración del tratamiento para las preguntas de Categorías y Productos:
+Si necesitas eliminar el comportamiento establecido para un producto, luego de posicionarte en la sección Configuración del tratamiento para las preguntas de Categorías y Productos:
 
-Presiona el ícono papelera (eliminar).
-{{< figure width="980px" height="700px" src="/images/general/categorias11.png" >}}
+Presiona el ícono papelera (eliminar) ubicado a la derecha de la configuración que deseas eliminar.
+{{< figure width="980px" height="700px" src="/images/general/PRODUCTO11.png" >}}
 
 La configuración quedó eliminada.

@@ -20,7 +20,7 @@ Dentro de la sección CONFIGURACIÓN de la cuenta, se pueden establecer caracter
 ### Envíos: por Mercado envío o mediante otros medios de distribución
 
 Dentro de la sección CONFIGURACIÓN puedes detallar si la empresa realiza todos los envíos a través de Mercado Envío, o utiliza otras formas de distribución (de forma complementaria con Mercado envío o sin utilizar Mercado envío).<br></br>
-Para detallar el modo de distribución, una vez que has realizado los pasos recién descriptos y estás visualizando la sección CONFIGURACIÓN:
+Para detallar el modo de distribución, una vez que has realizado los pasos recién descriptos y estás visualizando la sección CONFIGURACIÓN:<br></br>
 En la pregunta referida a Modos de distribución, si todos los envíos de la empresa se realizan a través de Mercado Envíos selecciona SI. Caso contrario selecciona No.
 {{< figure width="840px" height="600px" src="/images/general/configuracion_configuracionenvio.png" >}}
 

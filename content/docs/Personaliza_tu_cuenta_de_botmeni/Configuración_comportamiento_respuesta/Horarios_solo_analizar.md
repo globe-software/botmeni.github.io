@@ -35,7 +35,7 @@ Para personalizar los horarios Solo Analizar:
 11. Puedes seguir configurando un nuevo grupo de horarios hasta tener todos los días de la semana definidos. Para agregar un nuevo grupo presiona el botón NUEVO GRUPO.
 {{< figure width="700px" height="500px" src="/images/general/horario8.png" >}}
 <br></br>
-En la sección [Funcionalidades y beneficios incluidos según el plan](../../Suscripcíon_y_Pagos/Tu_Suscripcion/Conocer_beneficios_planes.md) se puede visualizar cuáles tienen incluida la funcionalidad recién detallada.
+En la sección [Funcionalidades y beneficios incluidos según el plan](../../Suscripcíon_y_Pagos/Tu_Suscripcion/Conocer_beneficios_planes.md) se puede visualizar cuáles planes tienen incluida la funcionalidad recién detallada.
 
 ### Establecer Días no laborables
 
@@ -56,8 +56,8 @@ Para establecer lod días no laborables:
 
 ### Establecer respuesta automática fija para horarios por fuera de los horarios Solo Analizar
 
-Dentro de nuestra plataforma es posible establecer una Respuesta automática fija, que será enviada como respuesta ante determinadas situaciones dependiendo de cómo esté establecida la configuración de compormtamiento de respuesta de tu tienda.
-Debes tener configurado al menos un horario en la sección Horario Solo Analizar.<br></br>
+Dentro de nuestra plataforma es posible establecer una Respuesta automática fija, que será enviada como respuesta ante determinadas situaciones dependiendo de cómo esté establecida la configuración de comportamiento de respuesta de tu tienda.
+Para utilizar la Respuesta Automática fija debes tener configurado al menos un horario en la sección Horario Solo Analizar.<br></br>
 Se enviará la respuesta automática fija si la misma está activada y la pregunta ingresa por fuera de los horarios establecidos en Horario Solo analizar y la configuración de la categoría o producto está definida en Automática pero la respuesta no se envía (por ejejmplo debido a que se evaluó que la calidad de la respuesta generada era baja). También se enviará dicha respuesta fija en situaciones como la recién descripta pero que la respuesta procesada no se envía porque así está establecido en la configuración particular (por stock, compatibilidad,número de chasis, venta recient o respuesta con link a otros ítems).<br></br>
 Para establcer la respuesta automática fija:
 1. Posiciónate en la sección Horario Solo Analizar
