@@ -46,9 +46,7 @@ Si al completar los pasos te figura un mensaje de error referido a que la cuenta
 
 ### Sobre su negocio
 
-1. Ingresa el nombre de la empresa en el campo NOMBRE DE SU EMPRESA.
-{{< figure width="700px" height="500px" src="/images/general/onboarding_3_7_1.png" >}}
-2. En la pregunta siguiente, si todos los envíos de la empresa se realizan a través de Mercado Envíos, selecciona SI. Caso contrario selecciona No.
+En el paso Sobre su negocio, solo debes completar una pregunta, relaciona al modo de distribución utilizado para tus productos. Si todos los envíos de la empresa se realizan a través de Mercado Envíos, selecciona SI. Caso contrario selecciona No.
 {{< figure width="700px" height="500px" src="/images/general/onboardingenvio.png" >}}
 3. Presiona SIGUIENTE.
 {{< figure width="700px" height="500px" src="/images/general/onboardingenvio2.png" >}}

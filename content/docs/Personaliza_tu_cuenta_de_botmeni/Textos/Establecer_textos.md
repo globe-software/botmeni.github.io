@@ -13,7 +13,7 @@ Una característica distintiva de nuestra plataforma es que te permite establece
 
 ### Personalizar la sección Textos
 
-Para poder establecer el estilo de comunicación con tus clientes:
+Para establecer el estilo de comunicación con tus clientes:
 1. Inicia sesión con un usuario con tipo de rol ADMINISTRADOR, en nuestra página de login <https://prod.botmeni.com/login>.
 2. Haz clic en Textos.
 {{< figure width="140px" height="100px" src="/images/general/texto1.png" >}}
@@ -26,8 +26,7 @@ Para poder establecer el estilo de comunicación con tus clientes:
 {{< figure width="700px" height="500px" src="/images/general/texto5.png" >}}
 7. Para agregar nuevos textos, presiona el botón + ubicado al final del listado.
 {{< figure width="700px" height="500px" src="/images/general/texto6.png" >}}
-<br></br>
-Si agregas @usuario dentro de los textos propuestos, al momento de generar la respuesta el bot lo reemplazará por el nickname de tu cliente.
+8. Si agregas @usuario dentro de los textos propuestos, al momento de generar la respuesta el bot lo reemplazará por el nickname de tu cliente.
 {{< figure width="700px" height="500px" src="/images/general/texto7.png" >}}
 
 

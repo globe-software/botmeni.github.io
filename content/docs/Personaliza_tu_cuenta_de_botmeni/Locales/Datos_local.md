@@ -9,8 +9,8 @@ lastmod: "2024-04-08T23:13:49-05:00"
 draft: false
 toc: true
 ---
-Cuanto más completa y detallada sea la información que registres sobre tu tienda, más precisa será la respuesta que se generará.<br></br>
-En la sección Locales puedes ingresar para cada uno de tus locales información relevante. La misma se tendrá en cuenta al momento de analizar y responder las consultas de tus clientes relacionadas con zonas, horarios, etc.
+Cuanto más completa y detallada sea la información que registres sobre tu tienda, más precisa será la respuesta que se generará.
+En la sección Locales puedes ingresar información relevante para cada uno de tus locales. La misma se tendrá en cuenta al momento de analizar y responder las consultas de tus clientes relacionadas con zonas, horarios, etc.<br></br>
 Para especificar los datos de un Local:
 1. Inicia sesión con un usuario con tipo de rol ADMINISTRADOR, en nuestra página de login <https://prod.botmeni.com/login>.
 2. Selecciona el módulo Locales en el menú.
