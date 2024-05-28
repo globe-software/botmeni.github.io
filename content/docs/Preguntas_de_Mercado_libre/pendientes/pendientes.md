@@ -1,17 +1,17 @@
 ---
-weight: 1010
+weight: 1060
 title: "Preguntas Pendientes en Mercado Libre"
 description: "Preguntas Pendientes en Mercado Libre"
-icon: "settings"
-color: "#FABE10"
-date: "2024-04-08T14:38:13-05:00"
-lastmod: "2024-04-08T14:38:13-05:00"
-draft: true
+icon: "category"
+color: "primary"
+date: "2024-04-08T23:13:49-05:00"
+lastmod: "2024-04-08T23:13:49-05:00"
+draft: false
 toc: true
 ---
 En el módulo Pendientes se listan aquellas preguntas que tus clientes realizaron en Mercado Libre y aún no han sido contestadas, separadas por cada cuenta de Mercado libre que está vinculada a la cuenta de Botmeni.<br></br>
 Las mismas están ordenadas desde la más antigua a la más reciente, para que puedas reconocer y contestar primero las que llevan mayor tiempo aguardando una respuesta, siguiendo así las prácticas aconsejadas por Mercado Libre.<br></br>
-La plataforma está diseñada para que no sólo las encuentres fácilmente y ordenadas, sino que puedas contestarlas directamente desde ese módulo asegurándote así de que ninguna pregunta pendiente queda fuera de tu atención.<br></br>
+La plataforma está diseñada para que no sólo las encuentres fácilmente y ordenadas, sino que puedas contestarlas directamente desde ese módulo asegurándote así de que ninguna pregunta pendiente queda sin tu atención.<br></br>
 
 ### Visualizar las preguntas pendientes.
 Para visualizar las preguntas pendientes de respuesta:
@@ -22,7 +22,12 @@ Para visualizar las preguntas pendientes de respuesta:
 {{< figure width="700px" height="500px" src="/images/general/pendientes.png" >}}
 
 ### Información disponible para cada pregunta pendiente
-A continuación se describirá la información que puedes visualizar para cada pregunta pendiente. Tomaremos como ejemplo la pregunta de la imagen que se muestra a continuación.
+A continuación se describirá la información que puedes visualizar para cada pregunta pendiente. Tomaremos como ejemplo la pregunta de la imagen que se muestra a continuación, la cual como puede verse a partir de su subestado, quedó pendiente debido a que en el momento de ingresar la pregunta estaba configurado el modo de respuesta Solo Analizar para la vertical de negocios a la que pertenece el artículo.
 {{< figure width="700px" height="500px" src="/images/general/historico7.png" >}}
 1. En la sección superior se detallan:
-
+{{< figure width="700px" height="500px" src="/images/general/historico8.png" >}}
+    1. Título de la publicación. Presionando sobre la misma se abrirá en una nueva ventada la publicación en Mercado Libre.
+    2. Usuario y Ubicación: informa el nickname del usuario que realiza la pregunta y su ubicación.
+    3. Id: ID y URL de la publicación asociada a la pregunta. En caso de que corresponda también se mostrará el SKU y/o el GTIN asociado a la publicación.
+    4. Estado: Hace referencia al estado de la pregunta. Los estados posibles son: Procesada, No procesada, Recibida, Eliminada y Error.
+    5. Subestado: Cada pregunta tiene un subestado. En el subestado se detalla, por ejemplo, si la repsuesta se envió en modo Automático o fue generada la respuesta y luego enviada en modo manual. Además, brinda información relacionada a cuál fue la configuración establecida para su tienda que derivó en que la respuesta se enviara en modo Manual (por ejemplo, Manual por horario, Manual por stock, etc)
