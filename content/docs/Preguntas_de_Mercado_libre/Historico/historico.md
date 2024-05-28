@@ -40,7 +40,7 @@ A continuación se describirá la información que puedes visualizar para cada p
 {{< figure width="700px" height="500px" src="/images/general/historico8.png" >}}
     1. Título de la publicación. Presionando sobre la misma se abrirá en una nueva ventada la publicación en Mercado Libre.
     2. Usuario y Ubicación: informa el nickname del usuario que realiza la pregunta y su ubicación.
-    3. Id: ID y URL de la publicación asociada a la pregunta.
+    3. Id: ID y URL de la publicación asociada a la pregunta. En caso de que corresponda también se mostrará el SKU y/o el GTIN asociado a la publicación.
     4. Estado: Hace referencia al estado de la pregunta. Los estados posibles son: Procesada, No procesada, Recibida, Eliminada y Error.
     5. Subestado: Cada pregunta tiene un subestado. En el subestado se detalla, por ejemplo, si la repsuesta se envió en modo Automático o fue generada la respuesta y luego enviada en modo manual. Además, brinda información relacionada a cuál fue la configuración establecida para su tienda que derivó en que la respuesta se enviara en modo Manual (por ejemplo, Manual por horario, Manual por stock, etc)
 2. En la sección central se visualiza la pregunta ingresada, con su fecha y hora, y la respuesta generada por nuestro modelo (con la fecha y hora en que fue generada).
