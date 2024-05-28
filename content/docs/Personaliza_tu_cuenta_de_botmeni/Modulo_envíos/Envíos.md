@@ -9,7 +9,7 @@ lastmod: "2024-04-08T23:13:49-05:00"
 draft: false
 toc: true
 ---
-En el módulo Envíos es posible establecer para cada uno de sus centros de distribución o transportadoras utilizadas por su empresa, los costos y tiempos de entrega para una ciudad y/o región específica. Dicha información será tomada en cuenta al momento de procesar las respuestas a sus clientes para productos que no estén configurados para enviarse por Mercado Envio.<br></br>
+En el módulo Envíos es posible establecer para cada uno de sus centros de distribución o transportadoras utilizadas por su empresa, los costos y tiempos de entrega para una ciudad y/o región específica. Dicha información será tomada en cuenta al momento de procesar las respuestas para productos que no estén configurados para enviarse por Mercado Envio.<br></br>
 Este módulo se mostrará disponible si en la sección [Configuración](../../Personaliza_tu_cuenta_de_botmeni/Configuración_comportamiento_respuesta/Caracteristicas_generales.md) dentro del módulo Configuración, seleccionaste NO en la pregunta relacionada a si todos los envíos se realizan a través de Mercado Envío, para aquellos planes que lo incluyen.<br></br>
 ### Establecer un Centro de Distribución
 Para configurar un Centro de distribución:
@@ -24,7 +24,7 @@ Para configurar un Centro de distribución:
 {{< figure width="700px" height="500px" src="/images/general/envio4.png" >}}
 6. Se desplegará una nueva sección donde podrás ingresar los datos específicos de costos y tiempos de entrega para la región recién definida. 
 {{< figure width="700px" height="500px" src="/images/general/envio5.png" >}}
-7. La primer sección se denomina GENERAL, ya que contendrá información general para todos los productos de tu tienda. Despliega el combo Precio y selecciona en función de qué parámetro se establecerá el precio. Por ejemplo, kilómetro.
+7. La primera sección se denomina GENERAL, ya que contendrá información general para todos los productos de tu tienda. Despliega el combo Precio y selecciona en función de qué parámetro se establecerá el precio. Por ejemplo, kilómetro.
 {{< figure width="700px" height="500px" src="/images/general/envio6.png" >}}
 8. Luego detalla el valor del precio en función del parámetro recién seleccionado.
 {{< figure width="700px" height="500px" src="/images/general/envio7.png" >}}
@@ -36,7 +36,7 @@ Para configurar un Centro de distribución:
 {{< figure width="700px" height="500px" src="/images/general/envio10.png" >}}
 12. De igual manera que en la sección general, establece el parámetro de precio, el valor del mismo y los textos específicos con la información que deseas brindar a tus clientes.
 {{< figure width="700px" height="500px" src="/images/general/envio11.png" >}}
-13. Para conservar toda la información que haz ingresado para el área especificada, presiona GUARDAR 
+13. Para conservar toda la información que has ingresado, presiona GUARDAR 
 {{< figure width="700px" height="500px" src="/images/general/envio12.png" >}}
 14. De ser necesario, puedes agregar una nueva región de entrega para el centro de distribución. Para ello, ingresa una nueva región dentro del recuadro Agregar región.
 {{< figure width="700px" height="500px" src="/images/general/envio13.png" >}}.
@@ -62,6 +62,8 @@ Para habilitar un centro de distribución:
 {{< figure width="700px" height="500px" src="/images/general/envio18.png" >}}
 6. La casilla desmarcada implica que el centro está deshabilitado.
 {{< figure width="700px" height="500px" src="/images/general/envio19.png" >}}
+
+La cantidad de centros de distribución que pueden estar habilitados varían en función del plan al que estés suscripto. Para conocer la cantidad de centros habilitados para tu plan visualiza los [Detalles de tu suscripción actual](../../Suscripcíon_y_Pagos/Tu_Suscripcion/Ver_detalles_suscripción_actual.md).
 
 
 
