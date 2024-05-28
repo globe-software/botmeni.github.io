@@ -33,31 +33,20 @@ Para visualizar el histórico de preguntas:
 
 ### Información disponible para cada pregunta del Histórico
 
-A continuación se describirá la información que puedes visualizar para cada pregunta contenida dentro del listado Histórico. Tomaremos como ejemplo la pregunta de la imagen que se muestra a continuación.
-{{< figure width="700px" height="500px" src="/images/general/historico7.png" >}}
+A continuación se describirá la información que puedes visualizar para cada pregunta contenida dentro del listado Histórico.
 1. En la sección superior se detallan:
-{{< figure width="700px" height="500px" src="/images/general/historico8.png" >}}
+{{< figure width="840px" height="600px" src="/images/general/historico8.png" >}}
     1. Título de la publicación. Presionando sobre la misma se abrirá en una nueva ventada la publicación en Mercado Libre.
     2. Usuario y Ubicación: informa el nickname del usuario que realiza la pregunta y su ubicación.
     3. Id: ID y URL de la publicación asociada a la pregunta. En caso de que corresponda también se mostrará el SKU y/o el GTIN asociado a la publicación.
     4. Estado: Hace referencia al estado de la pregunta. Los estados posibles son: Procesada, No procesada, Recibida, Eliminada y Error.
     5. Subestado: Cada pregunta tiene un subestado. En el subestado se detalla, por ejemplo, si la repsuesta se envió en modo Automático o fue generada la respuesta y luego enviada en modo manual. Además, brinda información relacionada a cuál fue la configuración establecida para su tienda que derivó en que la respuesta se enviara en modo Manual (por ejemplo, Manual por horario, Manual por stock, etc)
-2. En la sección central se visualiza la pregunta ingresada, con su fecha y hora, y la respuesta generada por nuestro modelo (con la fecha y hora en que fue generada).
-{{< figure width="700px" height="500px" src="/images/general/historico9.png" >}}
+2. En la sección central se visualiza la pregunta ingresada, con su fecha y hora, y la respuesta generada por nuestro modelo, con la fecha y hora en que fue generada, si el comportamiento de respuesta está configurado para que la misma se genere.
+{{< figure width="840px" height="600px" src="/images/general/historico9.png" >}}
 3.  A continuación tienes la posibilidad de calificar la calidad de nuestra pregunta presionando los círculos de color verde, amarillo y rojo en función de tu evaluación: Respuesta excelente, Respuesta mejorable y Respuesta incorrecta. Y en el espacio Calificación puedes ingresar un comentario asociado a la calificación que acabas de realizar, que nos ayudará a implementar las mejoras que sean necesarias.
-{{< figure width="700px" height="500px" src="/images/general/historico10.png" >}}
+{{< figure width="840px" height="600px" src="/images/general/historico10.png" >}}
 4. Finalmente, en la parte inferior se detalla la respuesta que fue enviada a Mercado Libre. En caso de que la respuesta enviada haya sido excatmente la respuesta generada por la plataforma, se leerá la leyenda: Respuesta generada automáticamente por Botmeni. Caso contrario, se visualizará la respuesta enviada a Mercado Libre con las modificaciones que su tienda haya realizado. También se detallan la fecha y la hora en que se envió la respuesta a Mercado Libre.
-{{< figure width="700px" height="500px" src="/images/general/historico11.png" >}}
+{{< figure width="840px" height="600px" src="/images/general/historico11.png" >}}
 5. Cada respuesta tiene disponible en la esquina superior derecha la acción Visualizar.
-{{< figure width="700px" height="500px" src="/images/general/historico12.png" >}}
+{{< figure width="840px" height="600px" src="/images/general/historico12.png" >}}
 6. Al presionar la acción Visualizar se desplegará el chat completo de interacción con el usuario, asociado a la pregunta que se está analizando, y también tendrás disponible el contenido de la publicación.
-
-
-
-
-
-
-El análisis de dicha información es utilizado por las tiendas de ecommerce para, por ejemplo:
-* optimizar la oferta de productos: Al analizar las preguntas, se puede detectar qué productos generan más interés y, por otro lado, identificar oportunidades de nuevos productos que no se ofrecen actualmente en la tienda.
-* aumentar la confianza del cliente en el producto: Al encontrar preguntas recurrentes, se puede entender los puntos del producto o del proceso de compra que generan más dudas, dando la pauta de qué contenido sería conveniente incorporar en la publicación. 
-
