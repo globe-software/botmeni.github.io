@@ -6,7 +6,7 @@ icon: "category"
 color: "primary"
 date: "2024-04-08T23:13:49-05:00"
 lastmod: "2024-04-08T23:13:49-05:00"
-draft: true
+draft: false
 toc: true
 ---
 En el módulo Envíos es posible establecer para cada uno de sus centros de distribución o transportadoras utilizadas por su empresa, los costos y tiempos de entrega para una ciudad y/o región específica. Dicha información será tomada en cuenta al momento de procesar las respuestas a sus clientes para productos que no estén configurados para enviarse por Mercado Envio.<br></br>
