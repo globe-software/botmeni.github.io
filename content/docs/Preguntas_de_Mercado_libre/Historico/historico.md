@@ -9,7 +9,6 @@ lastmod: "2024-04-08T14:38:13-05:00"
 draft: false
 toc: true
 ---
-<br>
 El módulo Histórico contiene el listado completo de preguntas y respuestas de las cuentas de Mercado Libre asociadas a la cuenta de Botmeni, separado por cada cuenta, para un dado periodo de tiempo en función del plan suscripto.<br></br>
 La información disponible para cada pregunta no se limita a la respuesta enviada, sino que también se detalla, entre otros, el tiempo/hora de pregunta y repuesta, la respuesta propuesta y la enviada, el estado de la misma, el link para visualizar el contenido de la publicación y también el acceso al chat completo intercambiado con el usuario.<br></br>
 A su vez, una gran herramienta de este módulo son los filtros que tiene disponible, que te permitirán rápidamente encontrar y visualizar las preguntas asociadas a una característica particular de una pregunta o respuesta como, por ejemplo, el estado en que se encuentra o el producto sobre el que se realiza la consulta, o el usuario que generó las preguntas.<br></br>
