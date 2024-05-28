@@ -12,6 +12,6 @@ toc: true
 <br></br>
 Estamos aquí para ayudarte a aprovechar al máximo nuestra plataforma.<br></br>
 Medios de contacto:<br></br>
-Correo electrónico: hola@botmeni.com<br></br>
+* Correo electrónico: hola@botmeni.com<br></br>
 Recuerda que tienes disponible tutoriales y explicaciones en esta Guía de usuario. Y puedes visualizar en <https://botmeni.com/> las Preguntas Frecuentes que suelen realizar sobre nuestra plataforma.<br></br>
 ¡No dudes en contactarnos si tienes alguna duda o consulta!   
