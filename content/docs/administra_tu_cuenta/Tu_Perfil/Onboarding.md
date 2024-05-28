@@ -46,9 +46,10 @@ Si al completar los pasos te figura un mensaje de error referido a que la cuenta
 
 ### Sobre su negocio
 
-En el paso Sobre su negocio, solo debes completar una pregunta, relaciona al modo de distribución utilizado para tus productos. Si todos los envíos de la empresa se realizan a través de Mercado Envíos, selecciona SI. Caso contrario selecciona No.
+En el paso Sobre su negocio, solo debes completar una pregunta, relaciona al modo de distribución utilizado para tus productos.
+1. Si todos los envíos de la empresa se realizan a través de Mercado Envíos, selecciona SI. Caso contrario selecciona No.
 {{< figure width="700px" height="500px" src="/images/general/onboardingenvio.png" >}}
-3. Presiona SIGUIENTE.
+2. Presiona SIGUIENTE.
 {{< figure width="700px" height="500px" src="/images/general/onboardingenvio2.png" >}}
 La información recién ingresada nos permite generar una primera configuración de la cuenta, que podrás modificar cuando lo consideres necesario ingresando a la sección [CONFIGURACIÓN](../../Personaliza_tu_cuenta_de_botmeni/Características_generales_de_respuesta/) de la plataforma.
 
