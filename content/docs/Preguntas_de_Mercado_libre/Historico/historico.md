@@ -49,4 +49,4 @@ A continuación se describirá la información que puedes visualizar para cada p
 {{< figure width="840px" height="600px" src="/images/general/historico11.png" >}}
 5. Cada respuesta tiene disponible en la esquina superior derecha la acción Visualizar.
 {{< figure width="840px" height="600px" src="/images/general/historico12.png" >}}
-6. Al presionar la acción Visualizar se desplegará el chat completo de interacción con el usuario, asociado a la pregunta que se está analizando, y también tendrás disponible el contenido de la publicación.
+6. Al presionar la acción Visualizar se desplegará el chat completo de interacción con el usuario y también tendrás disponible el contenido de la publicación.
