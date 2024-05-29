@@ -42,7 +42,7 @@ A continuación se describirá la información que puedes visualizar para cada p
 ### Responder una pregunta Pendiente.
 
 Para responder una pregunta pendiente, una vez que estás visualizando el listado de Preguntas Pendientes:
-1. Visualiza la sección Respuesta de la pregunta que deseas Responder. En el recaudro Respuesta se mostrará la respuesta generada por nuestra plataforma, en caso de que el comportamiento de respuesta estuviera configurado así lo estableciera. Puedes ingresar los cambios que consideres necesarios.
+1. Posiciónate en la sección Respuesta de la pregunta que deseas Responder. En el recaudro Respuesta se mostrará la respuesta generada por nuestra plataforma, en caso de que el comportamiento de respuesta configurado así lo estableciera. Puedes ingresar los cambios que consideres necesarios.
 {{< figure width="840px" height="600px" src="/images/general/pendientes5.png" >}}
 2. Presionando el ícono ubicado a la derecha del recuadro se desplegará el menú de textos disponibles en el módulo [Textos](../../Personaliza_tu_cuenta_de_botmeni/Textos/Establecer_textos.md). 
 {{< figure width="840px" height="600px" src="/images/general/pendientes7.png" >}}
