@@ -25,7 +25,7 @@ Para realizar preguntas de prueba:
 4. A continuación ingresa la pregunta.
 {{< figure width="840px" height="600px" src="/images/general/test3.png" >}}
 5. Presiona ANALIZAR.
-{{< figure width="840px" height="600px" src="/images/general/test4.png" >}}
+{{< figure width="700px" height="500px" src="/images/general/test4.png" >}}
 6. Se procesará la pregunta para la publicación ingresada, y se desplegará la respuesta con toda la información disponible, igual que si la pregunta se hubiera ingresado desde Mercado Libre.
 {{< figure width="840px" height="600px" src="/images/general/test5.png" >}}
 
@@ -37,10 +37,10 @@ A continuación se describirá la información que puedes visualizar para cada p
     2. Usuario: detalla TEST dado que la pregunta se realizó desde la sección Test. 
     3. Id: ID y URL de la publicación asociada a la pregunta. En caso de que corresponda también se mostrará el SKU y/o el GTIN asociado a la publicación.
     4. Estado: Hace referencia al estado de la pregunta. Los estados posibles son: Procesada, No procesada, Recibida, Eliminada y Error.
-    5. Subestado: Cada pregunta tiene un subestado. En el subestado se detalla, por ejemplo, si la repsuesta se envió en modo Automático o fue generada la respuesta y luego enviada en modo manual. Además, brinda información relacionada a cuál fue la configuración establecida para su tienda que derivó en que la respuesta se enviara en modo Manual (por ejemplo, Manual por horario, Manual por stock, etc)
+    5. Subestado: Cada pregunta tiene un subestado. En el subestado se detalla, por ejemplo, si la respuesta se envió en modo Automático o fue generada la respuesta y quedó pendiente para revisión y envío manual. Además, brinda información relacionada a cuál fue la configuración establecida para tu tienda que derivó en que la respuesta se enviara en modo Manual (por ejemplo, Manual por horario, Manual por stock, etc)
 2. En la sección central se visualiza la pregunta de prueba ingresada, con su fecha y hora, y la respuesta generada por nuestro modelo, con la fecha y hora en que fue generada, si el comportamiento de respuesta está configurado para que la misma se genere.
 {{< figure width="840px" height="600px" src="/images/general/test7.png" >}}
-3.  A continuación tienes la posibilidad de calificar la calidad de nuestra pregunta presionando los círculos de color verde, amarillo y rojo en función de tu evaluación: Respuesta excelente, Respuesta mejorable y Respuesta incorrecta. Y en el espacio Calificación puedes ingresar un comentario asociado a la calificación que acabas de realizar, que nos ayudará a implementar las mejoras que sean necesarias.
+3.  A continuación tienes la posibilidad de calificar la calidad de nuestra respuesta presionando los círculos de color verde, amarillo y rojo en función de tu evaluación: Respuesta excelente, Respuesta mejorable y Respuesta incorrecta. Y en el espacio Calificación puedes ingresar un comentario asociado a la calificación que acabas de realizar, que nos ayudará a implementar las mejoras que sean necesarias.
 {{< figure width="840px" height="600px" src="/images/general/test8.png" >}}
 
 
