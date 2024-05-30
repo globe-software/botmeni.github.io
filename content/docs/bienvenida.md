@@ -23,12 +23,10 @@ Esta guía te ayudará a aprovechar al máximo nuestro sistema de IA, obteniendo
 - **Personaliza tu cuenta**: Comprende cómo establecer la configuración del bot para que las respuestas se ajusten exactamente a lo que tu negocio requiere.
 - **Preguntas de Mercado Libre:** Descubre las distintas secciones que tiene la plataforma que te permitirán responder fácilmente las preguntas pendientes y visualizar el registro histórico de consultas.
 - **Prueba a Botmeni:** Te explicamos cómo hacer preguntas de prueba como si lo hicieran tus clientes, para conocer el modo en que responderá y así hacer los ajustes que creas necesarios.
-- **Consejos Botmeni:** Conoce cómo aprovechar al máximo el potencial de Botmeni, logrando ofrecer la atención al cliente rápida y eficiente que deseas.
-
 
 ### ¿Necesitas ayuda?
 
-No dudes en contactarnos a través de nuestro correo electrónico hola@botmeni.com para información de ventas, o a soporte@botmeni.com en caso de que necesites asistencia para el uso de la plataforma.
+No dudes en contactarnos a través de nuestro correo electrónico hola@botmeni.com para información de ventas, o a soporte@botmeni.com en caso de que necesites asistencia en el uso de la plataforma.
 
 ### ¡Estamos aquí para ayudarte! 
 

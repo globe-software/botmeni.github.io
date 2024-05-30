@@ -9,10 +9,10 @@ lastmod: "2024-04-08T23:13:49-05:00"
 draft: false
 toc: true
 ---
-Los tickets son uno de los modos de comunicación que existe entre Botmeni y sus usuarios. Los mismos pueden crearse independientes de una pregunta, para comunicarnos una duda, consulta o comentario. O pueden surgir asociados a una calificación de una respuesta generada como Mejorable o Incorrecta, y que por lo tanto requiere de nuestra evalución para aplicar las mejoras que correspondan.
+El ticket es uno de los modos de comunicación que existe entre Botmeni y sus usuarios. Los mismos pueden crearse independientes de una pregunta, para comunicarnos una duda, consulta o comentario. O pueden surgir asociados a una calificación de una respuesta generada como Mejorable o Incorrecta, y que por lo tanto requiere de nuestra evalución para aplicar las mejoras que correspondan.<br></br>
 El módulo tickets está disponible para aquellos usuarios que tengan asociados los roles Gestionar Tickets o Administrador.
-Para conocer la cantidad de tickets disponibles según el plan al que está adherida tu tienda, puedes [visualizar los detalles de tu suscripción activa](../../Suscripcíon_y_Pagos/Tu_Suscripcion/Ver_detalles_suscripción_actual.md).
-Puedes consultar la sección [Ayuda](../../Ayuda.md) para conocer nuestras otras vías de contacto.
+Para conocer la cantidad de tickets disponibles según el plan al que está adherida tu tienda, puedes [visualizar los detalles de tu suscripción activa](../../Suscripcíon_y_Pagos/Tu_Suscripcion/Ver_detalles_suscripción_actual.md).<br></br>
+Consulta la sección [Ayuda](../../Ayuda.md) para conocer nuestras otras vías de contacto.
 
 ### Visualizar los Tickets 
 Para conocer los tickets asociados a tu cuenta de Botmeni:
@@ -57,7 +57,7 @@ También puedes generar un ticket a partir de la cailifación de las preguntas d
 ### Gestionar un ticket
 Desde el módulo ticket podrás gestionar los tickets asociados a tu tienda.
 Para visualizar o tomar acción sobre un ticket, luego de ingresar al módulo Tickets:
-1. Presiona el ticket en el listado que deseas gestionar o visualizar. Los tickets con las letras resaltadas en negro, son aquellos que tienen aún no has leídos. 
+1. Presiona el ticket en el listado que deseas gestionar o visualizar. Los tickets con las letras resaltadas en negro, son aquellos que aún no has leídos. 
 {{< figure width="700px" height="500px" src="/images/general/tik14.png" >}}
 2. Cuando un ticket haya sido contestado o gestionado por nuestro equipo, te llegará una notificación que puedes visualizar en la sección notificaciones de la plataforma.
 {{< figure width="700px" height="500px" src="/images/general/tik15.png" >}}
