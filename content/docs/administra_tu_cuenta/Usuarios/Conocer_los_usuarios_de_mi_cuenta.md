@@ -11,7 +11,7 @@ toc: true
 ---
 Para conocer los usuarios asociados a la cuenta:
 
-1. [Inicia sesión](Iniciar_sesión.md) como usuario principal.
+1. Inicia sesión como usuario principal en nuestra página de login <https://prod.botmeni.com/login>.
 2. Presiona el ícono triángulo invertido ubicado a la derecha del nombre de usuario. Se desplegará el menú que se muestra en la imagen. Selecciona Ver perfil.
 {{< figure width="420px" height="300px" src="/images/general/ver_pefil.png" >}}
 3. Presiona el botón VER DETALLES ubicado a la derecha de la suscripción con estado Válida.
