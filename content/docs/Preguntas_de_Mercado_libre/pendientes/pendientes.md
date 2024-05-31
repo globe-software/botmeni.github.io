@@ -24,7 +24,7 @@ Para visualizar las preguntas pendientes de respuesta:
 ### Información disponible para cada pregunta pendiente
 A continuación se describirá la información que puedes visualizar para cada pregunta pendiente.
 1. En la sección superior se detallan:
-{{< figure width="840px" height="600px" src="/images/general/pendientes4.png" >}}
+{{< figure width="840px" height="600px" src="/images/general/pendientes3.png" >}}
     1. Título de la publicación. Presionando sobre la misma se abrirá en una nueva ventana la publicación en Mercado Libre.
     2. Usuario y Ubicación: informa el nickname del usuario que realiza la pregunta y su ubicación.
     3. Id: ID de la publicación asociada a la pregunta. En caso de que corresponda también se mostrará el SKU y/o el GTIN asociado a la publicación.
