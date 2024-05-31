@@ -10,7 +10,7 @@ draft: false
 toc: true
 ---
 Para realizar actualizaciones en los usuarios asociados a la cuenta de Mercado libre:
-1. [Inicia sesión](Iniciar_sesión.md) como usuario principal.
+1. [Inicia sesión](../Tu_Perfil/Iniciar_sesión.md) como usuario principal.
 2. Presiona el ícono triángulo invertido ubicado a la derecha del nombre de usuario. Se desplegará el menú que se muestra en la imagen. Selecciona Ver perfil.
 {{< figure width="420px" height="300px" src="/images/general/ver_pefil.png" >}}
 3. Presiona el botón VER DETALLES ubicado a la derecha de la suscripción con estado Válida.
@@ -20,7 +20,7 @@ Para realizar actualizaciones en los usuarios asociados a la cuenta de Mercado l
 
 ### Agregar usuario nuevo
 
-Para agregar un nuevo usuario a la cuenta de botmeni, una vez que has realizado los pasos recién detallados:
+Para agregar un nuevo usuario a la cuenta de Botmeni, una vez que has realizado los pasos recién detallados:
 1. Haz clic sobre el botón AGREGAR USUARIOS.
 {{< figure width="700px" height="500px" src="/images/general/agregar_usuario.png" >}}
 2. Completa los campos Nombre y Apellido e Email (del usuario nuevo que estás creando), contraseña y confirmación de contraseña.
@@ -54,7 +54,7 @@ Si necesitas actualizar la contraseña de un usuario no principal, una vez que h
 
 También puede cambiarse la contraseña de un usuario seleccionando la acción [Olvidé mi contraseña](https://prod.botmeni.com/login) ubicada en la pantalla de incio de sesión <https://prod.botmeni.com/login>.
 
-Para modificar la contraseña del usuario princiàl de la cuenta de botmeni desde la sección Ver Perfil, sigue los pasos detallados en la sección [Recuperar contraseña del usuario principal](../Tu_Perfil/Contraseña.md).
+Para modificar la contraseña del usuario principal de la cuenta de Botmeni desde la sección Ver Perfil, sigue los pasos detallados en la sección [Recuperar contraseña del usuario principal](../Tu_Perfil/Contraseña.md).
 
 ### Eliminar un usuario no principal
 
@@ -63,4 +63,4 @@ Para eliminar un usuario no principal, una vez que has presionado el botón ADMI
 {{< figure width="700px" height="500px" src="/images/general/eliminar_usuario.png" >}}
 2. Presiona SI en el mensaje de confirmación de eliminación
 
-El único usuario que no tiene disponible la acción eliminar es el usuario principal (creador de la cuenta de botmeni).
+El único usuario que no tiene disponible la acción eliminar es el usuario principal (creador de la cuenta de Botmeni).

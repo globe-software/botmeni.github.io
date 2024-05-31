@@ -13,7 +13,7 @@ Si deseas modificar el plan que tienes contratado:
 
 1. Presiona el ícono triángulo invertido ubicado a la derecha de tu nombre. Se desplegará el menú que se muestra en la imagen.Selecciona Ver perfil.
 {{< figure width="280px" height="200px" src="/images/general/ver_pefil.png" >}}
-2. Selecciona el módulo Aplicaciones.
+2. Selecciona el módulo Aplicaciones. 
 {{< figure width="280px" height="200px" src="/images/general/aplicaciones.png" >}}
 3. Selecciona la cantidad de preguntas que deseas contratar. 
 {{< figure width="700px" height="500px" src="/images/general/cotizar_preguntas.png" >}}
@@ -28,5 +28,6 @@ Si deseas modificar el plan que tienes contratado:
 {{< figure width="630px" height="450px" src="/images/general/seleciona_tarjeta.png" >}}
 8. Presiona CONFIRMAR.
 {{< figure width="630px" height="450px" src="/images/general/seleciona_tarjeta2.png" >}}
-
+9. También puedes cambiar el plan ingresando al módulo Suscripciones, luego presionas el botón Ver detalles de tu suscripción activa y a continuación el botón CAMBIAR PLAN. Los pasos siguientes son los recién descriptos.
+{{< figure width="630px" height="450px" src="/images/general/cambiarplan.png" >}}
 Dado que modificas el tipo de plan, estás dando de baja la suscripción actual y generando una nueva suscripción, por lo que recibirás dos mails. El primero confirma la cancelación de la suscripción que estaba vigente, con un detalle del monto que se devuelve como reembolso si correspondiera en caso de tener recursos abonados no utilizados. Y el segundo contiene los datos de tu nueva suscripción.

@@ -26,4 +26,4 @@ Cuando todas las suscripciones de tu cuenta se encuentran Canceladas, y deseas v
 8. Presiona CONFIRMAR.
 {{< figure width="630px" height="450px" src="/images/general/seleciona_tarjeta2.png" >}}
 
-Llegará un mail a la casilla de correo asociada a la cuenta de botmeni, confirmando la suscripción al plan seleccionado.<br></br>
+Llegará un mail a la casilla de correo asociada a la cuenta de Botmeni, confirmando la suscripción al plan seleccionado.<br></br>

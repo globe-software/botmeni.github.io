@@ -10,7 +10,7 @@ draft: false
 toc: true
 ---
 <br></br>
-Una vez que has creado la cuenta de bBotmeni y confirmado tu correo electrónico, para iniciar sesión en la plataforma:
+Una vez que has creado la cuenta de Botmeni y confirmado tu correo electrónico, para iniciar sesión en la plataforma:
 1. Ingresa a <https://prod.botmeni.com/login>
 2. Completa los campos con el mail y la contraseña que hayas definido al registrarte como usuario.
 {{< figure width="560px" height="400px" src="/images/general/iniciosesion1.png" >}}

@@ -26,7 +26,7 @@ También puedes revisar las características de tu plan ingresando a [Mi perfil]
 
 ### Características de los planes disponibles en Botmeni
 
-Si deseas conocer las funcionalidades y beneficios incluidos en los planes disponibles en botmeni:
+Si deseas conocer las funcionalidades y beneficios incluidos en los planes disponibles en Botmeni:
 1. Presiona el ícono triángulo invertido ubicado a la derecha de tu nombre. Se desplegará el menú que se muestra en la imagen.Selecciona Ver perfil.
 {{< figure width="280px" height="200px" src="/images/general/ver_pefil.png" >}}
 2. Selecciona el módulo Aplicaciones.

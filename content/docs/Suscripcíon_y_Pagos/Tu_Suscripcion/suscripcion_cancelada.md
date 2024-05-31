@@ -27,4 +27,4 @@ En caso de que tu suscripción se encuentra cancelada, y deseas volver a adherir
 8. Presiona CONFIRMAR.
 {{< figure width="630px" height="450px" src="/images/general/seleciona_tarjeta2.png" >}}
 
-Llegará un mail a la casilla de correo asociada a la cuenta de botmeni, confirmando la suscripción al plan seleccionado.<br></br>
+Llegará un mail a la casilla de correo asociada a la cuenta de Botmeni, confirmando la suscripción al plan seleccionado.<br></br>

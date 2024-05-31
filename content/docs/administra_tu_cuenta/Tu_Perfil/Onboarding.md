@@ -46,7 +46,7 @@ Si al completar los pasos te figura un mensaje de error referido a que la cuenta
 
 ### Sobre su negocio
 
-En el paso Sobre su negocio, solo debes completar una pregunta, relaciona al modo de distribución utilizado para tus productos.
+En el paso Sobre su negocio, solo debes completar una pregunta, relacionada al modo de distribución utilizado para tus productos.
 1. Si todos los envíos de la empresa se realizan a través de Mercado Envíos, selecciona SI. Caso contrario selecciona No.
 {{< figure width="700px" height="500px" src="/images/general/onboardingenvio.png" >}}
 2. Presiona SIGUIENTE.
@@ -59,7 +59,7 @@ En esta sección podrás ingresar toda la información asociada a los locales de
 1. Los primeros datos a completar son:
 
     - NOMBRE: ingresa el nombre que representará a esa sucursal.
-    - DATOS DEL LOCAL: detalla la información general que te interesa que botmeni tenga en cuenta al momento de responder.
+    - DATOS DEL LOCAL: detalla la información general que te interesa que Botmeni tenga en cuenta al momento de responder.
     - HORARIO: ingresa los días y horarios de atención al público del local.
     - ZONA: indica la zona aproximada, sin brindar direcciones exactas para no incumplir las políticas de Mercado Libre.
 {{< figure width="700px" height="500px" src="/images/general/locales_1.png" >}}
@@ -77,7 +77,7 @@ Los datos ingresados en este momento pueden actualizarse desde la sección LOCAL
 ### Listo!
 
 ¡Este es el paso final! <br>
-Selecciona cómo desdeas que botmeni comience gestionar las preguntas de las cuentas vinculadas de Mercado Libre, presionanado sobre el botón RESPONDER AUTOMÁTICO o el botón SOLO ANALIZAR.
+Selecciona cómo desdeas que Botmeni comience gestionar las preguntas de las cuentas vinculadas de Mercado Libre, presionanado sobre el botón RESPONDER AUTOMÁTICO o el botón SOLO ANALIZAR.
 <br>
     {{< figure width="700px" height="500px" src="/images/general/onboarding_3_12.png" >}}
 Si seleccionas Responder Automático, las preguntas que los clientes realicen en las publicaciones de Mercado libre ingresarán a Botmeni, se procesarán y se enviarán automáticamente a Mercado Libre (si nuestra plataforma evalúa que la calidad de la respuesta es adecuada). La respuesta se genera teniendo en cuenta la información que has registrado en tu cuenta de Botmeni y la que está detallada en la publicación de Mercado Libre.<br>

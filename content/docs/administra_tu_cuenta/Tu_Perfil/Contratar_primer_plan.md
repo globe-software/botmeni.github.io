@@ -27,5 +27,5 @@ Para contratar un plan por primera vez, luego de registrar tu cuenta:
 7. Haz clic en CONFIRMAR para crear la suscripción. Se desplegará un mensaje de confirmación de Suscripción Completada.
 {{< figure width="630px" height="450px" src="/images/general/registrarme_confirmar_tarjeta.png" >}}
 ¡Los primeros 15 días son gratis!. Por lo tanto, la fecha siguiente de pago figurará recién a los 15 días a partir de que se ha creado esta primer suscripción de tu cuenta. <br></br>
-Llegará un mail a la casilla de correo asociada a la cuenta de botmeni, confirmando la suscripción al plan seleccionado.<br></br>
+Llegará un mail a la casilla de correo asociada a la cuenta de Botmeni, confirmando la suscripción al plan seleccionado.<br></br>
 Puedes [Cancelar la suscripción](../../Suscripcíon_y_Pagos/Tu_Suscripcion/Cancelar_suscripción.md) recién creada cuando lo desees.
