@@ -15,7 +15,7 @@ Una característica distintiva de nuestra plataforma es que te permite establece
 
 Para establecer el estilo de comunicación con tus clientes:
 1. Inicia sesión con un usuario con tipo de rol ADMINISTRADOR, en nuestra página de login <https://prod.botmeni.com/login>.
-2. Haz clic en Textos.
+2. Selecciona Textos.
 {{< figure width="140px" height="100px" src="/images/general/texto1.png" >}}
 3. Se desplegará el listado de todas las instancias de comunicación que puedes definir. Selecciona aquella de tu interés presionando sobre la misma. Por ejemplo, Saludo mañana.
 {{< figure width="700px" height="500px" src="/images/general/texto2.png" >}}

@@ -32,7 +32,7 @@ Para configurar el comportamiento para un producto específico:
 {{< figure width="980px" height="700px" src="/images/general/PRODUCTO5.png" >}}
 
 <br></br>
-En la sección [Funcionalidades y beneficios incluidos según el plan](../../Suscripcíon_y_Pagos/Tu_Suscripcion/Conocer_beneficios_planes.md) se puede visualizar cuáles tienen incluida la funcionalidad recién detallada.
+Siguiendo los pasos detallados en la sección [Funcionalidades y beneficios incluidos según el plan](../../Suscripcíon_y_Pagos/Tu_Suscripcion/Conocer_beneficios_planes.md) se pueden visualizar cuáles planes tienen incluida la funcionalidad recién detallada.
 
 ### Modificar el comportamiento de respuesta establecido para un producto en específico:
 

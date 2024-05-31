@@ -9,7 +9,7 @@ lastmod: "2024-04-08T23:13:49-05:00"
 draft: false
 toc: true
 ---
-En el módulo Envíos es posible establecer para cada uno de sus centros de distribución o transportadoras utilizadas por su empresa, los costos y tiempos de entrega para una ciudad y/o región específica. Dicha información será tomada en cuenta al momento de procesar las respuestas para productos que no estén configurados para enviarse por Mercado Envio.<br></br>
+En el módulo Envíos es posible establecer para cada uno de sus centros de distribución o transportadoras utilizadas por la empresa, los costos y tiempos de entrega para una ciudad y/o región específica. Dicha información será tomada en cuenta al momento de procesar las respuestas para productos que no estén configurados para enviarse por Mercado Envio.<br></br>
 Este módulo se mostrará disponible si en la sección [Configuración](../../Personaliza_tu_cuenta_de_botmeni/Configuración_comportamiento_respuesta/Caracteristicas_generales.md) dentro del módulo Configuración, seleccionaste NO en la pregunta relacionada a si todos los envíos se realizan a través de Mercado Envío, para aquellos planes que lo incluyen.<br></br>
 ### Establecer un Centro de Distribución
 Para configurar un Centro de distribución:

@@ -27,13 +27,13 @@ Si necesitas asociar una nueva cuenta de Mercado Libre a tu cuenta de Botmeni:
 {{< figure width="630px" height="450px" src="/images/general/onboarding_3_4_1.png" >}}
 6. Se desplegará una nueva pantalla, lee la descripción y presiona AUTORIZAR ESTA APLICACIÓN para autorizar a Botmeni.
 {{< figure width="630px" height="450px" src="/images/general/onboarding_3_5_1.png" >}}
-Al visualizar nuevamente la pantalla de onboarding, la misma mostrará el número de la nueva cuenta de Mercado Libre que quedó vinculada.<br></br>
+Al visualizar nuevamente la pantalla, la misma mostrará el número de la nueva cuenta de Mercado Libre que quedó vinculada.<br></br>
 Si la nueva cuenta recién asociada no figura en la pantalla de Botmeni, presiona el botón ACTUALIZAR.
 {{< figure width="630px" height="450px" src="/images/general/cuentas4.png" >}}
 
 Si deseas vincular más cuentas (y no has llegado al límite de cantidad de cuentas de Mercado Libre que puedes vincular según el plan contratado) presiona nuevamente AGREGAR y repite los pasos recién detallados. Todas las cuentas de Mercado Libre vinculadas a una cuenta de Botmeni deben pertenecer al mismo país. <br></br>
 Si al completar los pasos la plataforma te devuelve un mensaje de error referido a que la cuenta ya está asociada, y esto no es así, ingresa a Mercado Libre y cierra sesión presionando SALIR. A continuación realiza nuevamente los pasos para ASOCIAR la cuenta. <br></br>
-Otra opción para ASOCIAR la nueva cuenta si el sistema de devuelve el mensaje de error referido a que la cuenta ya está asociada, y no es así, es abrir el navegador en modo incógnito, y a continuación repetir todos los pasos recién detallados.<br></br>
+Otra opción para ASOCIAR la nueva cuenta si el sistema te devuelve el mensaje de error referido a que la cuenta ya está asociada, y no es así, es abrir el navegador en modo incógnito, y a continuación repetir todos los pasos recién detallados.<br></br>
 Recuerda que también puedes contactarte con nosotros, estamos disponibles para ayudarte en lo que necesites.
 
 ### Desvincular una cuenta de Mercado Libre
@@ -45,4 +45,4 @@ Si necesitas desvincular una cuenta de Mercado Libre de tu cuenta de Botmeni:
 {{< figure width="630px" height="450px" src="/images/general/cuentas5.png" >}}
 4. Presiona Desvincular en el mensaje que requiere tu confirmación.
 {{< figure width="630px" height="450px" src="/images/general/cuentas6.png" >}}
-La cuenta fue desvinculada de tu cuenta de Botmeni.
+La cuenta quedará desvinculada de tu cuenta de Botmeni.

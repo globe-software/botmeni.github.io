@@ -10,7 +10,7 @@ draft: false
 toc: true
 ---
 <br></br>
-El comportamiento de respuesta establecido para una categoría tiene prioridad por sobre el que esté seleccionado para la vertical de negocios a la que pertenece la categoría. 
+El comportamiento de respuesta establecido para una categoría tiene prioridad por sobre el que esté seleccionado para la vertical de negocios a la que pertenece la categoría o para la tienda en general. 
 
 Para establecer el comportamiento de respuesta para una categoría específica:
 1. Inicia sesión con un usuario con tipo de rol ADMINISTRADOR, en nuestra página de login <https://prod.botmeni.com/login>.
@@ -31,7 +31,7 @@ Para establecer el comportamiento de respuesta para una categoría específica:
 8. Si no deseas guardar la configuración presiona X, y quedará eliminada.
 {{< figure width="980px" height="700px" src="/images/general/categorias6.png" >}}
 <br></br>
-En la sección [Funcionalidades y beneficios incluidos según el plan](../../Suscripcíon_y_Pagos/Tu_Suscripcion/Conocer_beneficios_planes.md) se puede visualizar cuáles tienen incluida la funcionalidad recién detallada.
+Siguiendo los pasos detallados en la sección [Funcionalidades y beneficios incluidos según el plan](../../Suscripcíon_y_Pagos/Tu_Suscripcion/Conocer_beneficios_planes.md) se pueden visualizar cuáles planes tienen incluida la funcionalidad recién detallada.
 
 ### Modificar el comportamiento establecido para una categoría específica:
 
@@ -46,7 +46,7 @@ Si necesitas modificar el comportamiento establecido para una categoría, luego 
 {{< figure width="980px" height="700px" src="/images/general/categorias10.png" >}}
 La nueva configuración quedó establecida.
 
-### Elminar el comportamiento establecido para una categoría específica:
+### Eliminar el comportamiento establecido para una categoría específica:
 
 Si necesitas eliminar el comportamiento establecido para una categoría, luego de posicionarte en la sección Configuración del tratamiento para las preguntas de Categorías y Productos:
 

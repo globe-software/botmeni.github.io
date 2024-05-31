@@ -25,13 +25,13 @@ Para visualizar las preguntas pendientes de respuesta:
 A continuación se describirá la información que puedes visualizar para cada pregunta pendiente.
 1. En la sección superior se detallan:
 {{< figure width="840px" height="600px" src="/images/general/pendientes4.png" >}}
-    1. Título de la publicación. Presionando sobre la misma se abrirá en una nueva ventada la publicación en Mercado Libre.
+    1. Título de la publicación. Presionando sobre la misma se abrirá en una nueva ventana la publicación en Mercado Libre.
     2. Usuario y Ubicación: informa el nickname del usuario que realiza la pregunta y su ubicación.
-    3. Id: ID y URL de la publicación asociada a la pregunta. En caso de que corresponda también se mostrará el SKU y/o el GTIN asociado a la publicación.
+    3. Id: ID de la publicación asociada a la pregunta. En caso de que corresponda también se mostrará el SKU y/o el GTIN asociado a la publicación.
     4. Estado: Hace referencia al estado de la pregunta. Los estados posibles son: Procesada, No procesada, Recibida, Eliminada y Error.
     5. Subestado: Cada pregunta tiene un subestado. En el caso de la imagen, el subestado señala que la respuesta fue procesada y no se envió a Mercado Libre ya que estaba establecido el modo de comportamiento Solo Analizar para la vertical de negocios a la que pertenece el artículo.
 2. A continuación se muestra la pregunta realizada por el usuario de Mercado Libre, y la fecha y hora en que ingresó.
-{{< figure width="840px" height="600px" src="/images/general/pendientes5.png" >}}
+{{< figure width="840px" height="600px" src="/images/general/pendientes4.png" >}}
 3. En la sección Respuesta visualizarás el campo donde está la Respuesta generada, en caso de que el comportamiento de respuesta estuviera configurado para que la pregunta sea procesada. La misma está disponible para que la analises y realices los cambios que desees si es que lo consideras necesario.
 {{< figure width="840px" height="600px" src="/images/general/pendientes5.png" >}}
 4. Al presionar RESPONDER, la respuesta es enviada a Mercado Libre, exactamente como la visualizas en el recuadro. 

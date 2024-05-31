@@ -10,8 +10,8 @@ draft: false
 toc: true
 ---
 <br></br>
-Para modificar la tarjeta adherida a la suscripción:
-1. Ingresa a Suscripciones presionando el ícono triángulo invertido a la derecha de tu nombre y seleccionanado Suscripciones.
+Para modificar la tarjeta vinculada a la suscripción:
+1. Ingresa a Suscripciones presionando el ícono triángulo invertido a la derecha de tu nombre y seleccionando Suscripciones.
 {{< figure width="420px" height="300px" src="/images/general/suscripciones.png" >}} 
 2. Selecciona el botón Ver Detalles de tu suscripción con estado válida 
 {{< figure width="700px" height="500px" src="/images/general/suscripciones_ver_detalles.png" >}} 
@@ -20,4 +20,4 @@ Para modificar la tarjeta adherida a la suscripción:
 4. Haz clic en SELECCIONAR
 {{< figure width="700px" height="500px" src="/images/general/vincular_otra_tarjeta2.png" >}}
 <br></br>
-La tarjeta seleccionada ya quedó asociada a tu suscripción.
+La tarjeta seleccionada ya quedó vinculada a tu suscripción.

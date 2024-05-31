@@ -16,7 +16,7 @@ Para establecer el comportamiento que deseas para una determinada vertical de ne
 {{< figure width="140px" height="100px" src="/images/general/configuracion.png" >}}
 3. Visualiza el listado de verticales.
 {{< figure width="980px" height="700px" src="/images/general/verticales.png" >}}
-4. Haz click en el combo a la dizquierda de la categoría a personalizar.
+4. Haz click en el combo a la izquierda de la categoría a personalizar.
 {{< figure width="980px" height="700px" src="/images/general/verticales2.png" >}}
 5. Selecciona la opción de comportamiento deseada.
 {{< figure width="980px" height="700px" src="/images/general/verticales3.png" >}}

@@ -17,7 +17,7 @@ Para especificar los datos de un Local:
 {{< figure width="140px" height="100px" src="/images/general/local.png" >}}
 1. Los primeros datos a completar son:
     - NOMBRE: ingresa el nombre que representará a esa sucursal.
-    - DATOS DEL LOCAL: detalla la información general que te interesa que botmeni tenga en cuenta al momento de responder.
+    - DATOS DEL LOCAL: detalla la información general que te interesa que Botmeni tenga en cuenta al momento de responder.
     - HORARIO: ingresa los días y horarios de atención al público del local.
     - ZONA: indica la zona aproximada, sin brindar direcciones exactas para no incumplir las políticas de Mercado Libre.
 {{< figure width="700px" height="500px" src="/images/general/locales_1.png" >}}

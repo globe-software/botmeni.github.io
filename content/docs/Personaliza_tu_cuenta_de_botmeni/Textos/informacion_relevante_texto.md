@@ -14,9 +14,9 @@ Así, en la sección Textos tienes disponibles varias secciones donde puedes ing
 Dentro de las secciones disponibles se encuentran, por ejemplo, Políticas de Envío, Garantía, Ensamble/armado, entre muchas otras.
 Si deseas ingresar información sobre alguna de estas áreas:
 1. Inicia sesión con un usuario con tipo de rol ADMINISTRADOR, en nuestra página de login <https://prod.botmeni.com/login>.
-2. Haz clic en Textos.
+2. Selecciona Textos.
 {{< figure width="140px" height="100px" src="/images/general/texto1.png" >}}
-3. Se desplegará el listado de todas las opcionesdisponibles, selecciona la sección que necesitas detallar, por ejemplo, Garantía.
+3. Se desplegará el listado de todas las opciones disponibles, selecciona la sección que necesitas detallar, por ejemplo, Garantía.
 {{< figure width="700px" height="500px" src="/images/general/texto8.png" >}}
 4. Posiciónate, presionando o haciendo clic sobre el texto sugerido, y modifícalo según consideres conveniente.
 {{< figure width="700px" height="500px" src="/images/general/texto9.png" >}}

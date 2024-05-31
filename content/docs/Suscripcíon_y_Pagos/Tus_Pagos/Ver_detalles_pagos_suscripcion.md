@@ -39,5 +39,5 @@ Para obtener esa información:
 {{< figure width="700px" height="500px" src="/images/general/suscripciones_5.png" >}} 
 3. Haz clic en Pagos. También puedes presionar el botón VER PAGOS.
 {{< figure width="700px" height="500px" src="/images/general/suscripciones_6.png" >}} 
-4. Se desplegará un listado con todos los pagos relacionados a la suscripción activa. Si presionas el botón VER DETALLE a la derecha de cada registro, podrás obtener más información de cada uno de ellos.
+4. Se desplegará un listado con todos los pagos relacionados a la suscripción no activa. Si presionas el botón VER DETALLE a la derecha de cada registro, podrás obtener más información de cada uno de ellos.
 {{< figure width="700px" height="500px" src="/images/general/suscripciones_7.png" >}} 

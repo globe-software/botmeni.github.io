@@ -1,7 +1,7 @@
 ---
 weight: 550
-title: "Características generales de respuesta de la cuenta"
-description: "Establece características generales de respuesta"
+title: "Características generales de la cuenta"
+description: "Establece características generales"
 icon: "category"
 color: "primary"
 date: "2024-04-08T23:13:49-05:00"
@@ -29,11 +29,11 @@ Si has seleccionado NO se habilitará en el menú lateral la sección Envíos, p
 En dicha sección, podrás detallar las datos de envío de los centros de distribución utlizados por la empresa, especificando por ejemplo para una dada región, e incluso una categoría o producto en específico, los costos y tiempos de envío. Toda esa información será tomada en cuenta a la hora de procesar las consultas de los clientes en Mercado Libre. En la sección [Envíos](../Modulo_envíos/Envíos.md) de esta guía puedes ver el paso a paso para configurarlos.
 
 ### Enviar mails para preguntas pendientes
-Dentro de la sección CONFIGURACIÓN puedes establecer que deseas recibir un mail de notificación cuando una pregunta queda pendiente. Para ello, una vez que has realizado los pasos detallados al comienzo de esta página y estás visualizando la sección CONFIGURACIÓN, selecciona SI en la sentencia referida a Enviar mail cuando haya preguntas pendientes:
+Dentro de la sección CONFIGURACIÓN puedes establecer que deseas recibir un mail de notificación cuando una pregunta queda pendiente. Para ello, una vez que has realizado los pasos detallados al comienzo de esta página y estás visualizando la sección CONFIGURACIÓN, selecciona la casilla a la izquierda de la sentencia referida a Enviar mail para preguntas pendientes:
 {{< figure width="840px" height="600px" src="/images/general/configuracion_configuraciongral_pendientes.png" >}}
 
 ### Excluir información de catálogo
-Dentro de las configuraciones disponibles para establecer, puedes indicar si Botmeni al procesar las respuestas tiene o no tiene en cuenta la información detallada en las publicaciones de catálogo asociadas a los productos de tu cuenta. Si seleccionas la casilla Excluir información de catálogo Botmeni que se muestra a continuación, no se tomará en cuenta la información de las publicaciones de catálogo.
+Dentro de las configuraciones disponibles para establecer, puedes indicar si Botmeni al procesar las respuestas tiene o no tiene en cuenta la información detallada en las publicaciones de catálogo asociadas a los productos de tu cuenta. Si seleccionas la casilla Excluir información de catálogo que se muestra a continuación, no se tomará en cuenta la información de las publicaciones de catálogo.
 {{< figure width="840px" height="600px" src="/images/general/configuracion_configuraciongral_excluir.png" >}}
 
 ### Excluir ficha técnica
