@@ -11,7 +11,7 @@ toc: true
 ---
 <br>
 
-¡Hola! Descrubre Botmeni, la solución basada en inteligencia artificial (IA) que responderá en pocos segundos las consultas de tus clientes, como tú mismo lo harías.
+¡Hola! Descubre Botmeni, la solución basada en inteligencia artificial (IA) que responderá en pocos segundos las consultas de tus clientes, como tú mismo lo harías.
 
 Esta guía te ayudará a aprovechar al máximo nuestro sistema de IA, obteniendo respuestas precisas y completas, que te permitirán mantener una comunicación ágil, amena y personalizada con tus clientes.
 
