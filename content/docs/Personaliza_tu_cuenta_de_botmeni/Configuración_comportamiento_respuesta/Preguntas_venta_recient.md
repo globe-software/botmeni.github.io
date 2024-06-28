@@ -25,5 +25,4 @@ Para configurar el comportamiento para preguntas que el usuario realiza los 7 d�
 5. Selecciona el comportamiento deseado.
 {{< figure width="840px" height="600px" src="/images/general/particulares11.png" >}}	
 <br></br>
-Independientemente de la selección recién mencionada, las preguntas se consideran procesadas cuando la configuración por producto, categoría, vertical u horario que corresponda esté definida en modo Automático o Solo responder. Esto se debe a que implementar el comportamiento definido en esta sección requiere de análisis previo para identificar el tipo de pregunta del cual se trata.<br></br>
 El comportamiento recién descripto puede variar en caso de que hayas definido Horarios Solo Analizar y/o tengas activada la Respuesta Automática Fija. Para conocer más al respecto puedes dirigirte a la sección [Horarios Solo Analizar](../Configuración_comportamiento_respuesta/Horarios_solo_analizar.md) disponible en la guía.
