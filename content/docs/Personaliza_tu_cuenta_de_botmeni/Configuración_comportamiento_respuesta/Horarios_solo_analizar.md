@@ -83,6 +83,7 @@ Para establecer la respuesta automática fija, luego de que ya has configurado e
 4. A continuación, se muestra un ejemplo de una configuración de Respuesta automática fija.
 {{< figure width="700px" height="500px" src="/images/general/horario14.png" >}}
 <br></br>
+<br></br>
 Si lo que deseas es establecer una respuesta automática fija, para un determinado horario, y sólo para preguntas o respuestas con una característica en particular:
 1. Configura el horario en la sección Horario, siguiendo los pasos 1 a 8 detallados en la sección [Establecer Horario](../../Personaliza_tu_cuenta_de_botmeni/Configuración_comportamiento_respuesta/Horarios_solo_analizar.md)
 
