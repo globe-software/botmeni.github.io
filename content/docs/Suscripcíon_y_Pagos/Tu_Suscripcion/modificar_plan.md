@@ -24,10 +24,10 @@ Si deseas modificar el plan que tienes contratado:
 6. Si tienes un cupón de descuento, ingresa el código y presiona ASOCIAR.
 {{< figure width="630px" height="450px" src="/images/general/cupon_botmeni.png" >}}
 7. Si el sistema lo requiere selecciona las cuentas de Mercado Libre que deseas desvincular (esto será necesario sólo en casos en que el nuevo plan tenga permitido vincular un número menor de cuentas de Mercado Libre a las que tienes actualmente vinculadas).
-7. Selecciona la tarjeta que vincularás a la suscripción (puede ser la misma que tienes registrada para la suscripción actual o puedes modificarla).
+8. Selecciona la tarjeta que vincularás a la suscripción (puede ser la misma que tienes registrada para la suscripción actual o puedes modificarla).
 {{< figure width="630px" height="450px" src="/images/general/seleciona_tarjeta.png" >}}
-8. Presiona CONFIRMAR.
+9. Presiona CONFIRMAR.
 {{< figure width="630px" height="450px" src="/images/general/seleciona_tarjeta2.png" >}}
-9. También puedes cambiar el plan ingresando al módulo Suscripciones, luego presionas el botón Ver detalles de tu suscripción activa y a continuación el botón CAMBIAR PLAN. Los pasos siguientes son los recién descriptos.
+10. También puedes cambiar el plan ingresando al módulo Suscripciones, presionando sobre tu suscripción activa y a continuación el botón CAMBIAR PLAN. Los pasos siguientes son los recién descriptos.
 {{< figure width="630px" height="450px" src="/images/general/cambiarplan.png" >}}
 Dado que modificas el tipo de plan, estás dando de baja la suscripción actual y generando una nueva suscripción, por lo que recibirás dos mails. El primero confirma la cancelación de la suscripción que estaba vigente, con un detalle del monto que se devuelve como reembolso si correspondiera en caso de tener recursos abonados no utilizados. Y el segundo contiene los datos de tu nueva suscripción.

@@ -13,7 +13,7 @@ Cuando todas las suscripciones de tu cuenta se encuentran Canceladas, y deseas v
 1. Inicia sesión desde la página de login  <https://prod.botmeni.com/login>.
 2. Presiona el ícono triángulo invertido ubicado a la derecha de tu nombre. Se desplegará un menú de opciones. Presiona Suscripciones
 {{< figure width="420px" height="300px" src="/images/general/suscripciones.png" >}} 
-3. Selecciona el botón Ver Detalles de la suscripción que deseas retomar. 
+3. Presiona sobre la suscripción que deseas retomar. 
 {{< figure width="700px" height="500px" src="/images/general/ver_detalles_retomar.jpg" >}} 
 4. Selecciona el botón RETOMAR SUSCRIPCIÓN ubicado en la sección superior derecha de la pantalla.
 {{< figure width="700px" height="500px" src="/images/general/ver_detalles_retomar2.jpg" >}} 

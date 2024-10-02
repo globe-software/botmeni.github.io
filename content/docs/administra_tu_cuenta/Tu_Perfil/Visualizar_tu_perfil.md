@@ -19,6 +19,6 @@ Para visualizar los datos asociados a la cuenta de Botmeni:
 
 <br></br>
 
-A continuación, se desplegará una pantalla (similar a la de la imagen que se muestra a continuación) con el detalle completo de la cuenta de Botmeni. En la misma tendrás muchas acciones disponibles que te permitirán, por ejemplo, [editar los datos](Actualizar_los_datos.md), [cambiar la contraseña](Contraseña.md) y [gestionar las tarjetas](../../Suscripcíon_y_Pagos/Tus_Pagos/Modificar_tarjeta_adherida_suscripciones.md).
+A continuación, se desplegará una pantalla (similar a la de la imagen que se muestra a continuación) con el detalle completo de la cuenta de Botmeni. En la misma tendrás acciones disponibles que te permitirán, por ejemplo, [editar los datos](Actualizar_los_datos.md), [cambiar la contraseña](Contraseña.md) y [gestionar las tarjetas](../../Suscripcíon_y_Pagos/Tus_Pagos/Modificar_tarjeta_adherida_suscripciones.md).
 
 {{< figure width="700px" height="500px" src="/images/general/ver_perfil2.png" >}}

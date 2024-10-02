@@ -17,4 +17,4 @@ Medios de contacto:<br></br>
   
 <br></br>
 Recuerda que tienes disponible tutoriales y explicaciones en esta Guía de usuario. Y puedes visualizar en <https://botmeni.com/> las Preguntas Frecuentes que suelen realizar sobre nuestra plataforma.<br></br>
-¡No dudes en contactarnos si tienes alguna duda o consulta!   
+¡No dudes en contactarnos si tienes alguna duda o consulta! 
