@@ -85,21 +85,16 @@ Para establecer la respuesta automática fija, luego de que ya has configurado e
 <br></br>
 <br></br>
 Si lo que deseas es establecer una respuesta automática fija, para un determinado horario, y sólo para preguntas o respuestas con una característica en particular:
-1. Configura el horario en la sección Horario, siguiendo los pasos 1 a 8 detallados en la sección [Establecer Horario](../../Personaliza_tu_cuenta_de_botmeni/Configuración_comportamiento_respuesta/Horarios_solo_analizar.md)
-
+1. Configura el horario en la sección Horario, siguiendo los pasos 1 a 8 detallados en la sección [Establecer Horario](../../Personaliza_tu_cuenta_de_botmeni/Configuración_comportamiento_respuesta/Horarios_solo_analizar.md).
 {{< figure width="700px" height="500px" src="/images/general/horario16.png" >}}
-
 2. Selecciona el tipo de comportamiento general que deseas para el horario, puede ser Automático o Solo analizar.
 {{< figure width="700px" height="500px" src="/images/general/horario17.png" >}}
-
 3. Despliega las opciones de comportamiento presionando sobre el ícono triángulo invertido, en el tipo de pregunta o respuesta que desesas configurar.
 {{< figure width="700px" height="500px" src="/images/general/horario18.png" >}}
-
 4. Selecciona Respuesta fija. Por ejemplo, en la imagen siguiente se configura Respuesta fija para las preguntas que ingresen en el horario definido y que sean del tipo Preguntas por stock.
 {{< figure width="700px" height="500px" src="/images/general/horario19.png" >}}
-
 5. Ingresa el mensaje que deseas se envíe como respuesta automática.
 {{< figure width="700px" height="500px" src="/images/general/horario20.png" >}}
 
 Así, siguiendo los pasos recién detallados, puedes configurar para un dado horario una respuesta automática fija para preguntas relacionadas con stock, compatibilidad, que especifican número de chasis o que corresponden a una venta reciente. También lo puedes establecer para respuestas que contienen link a otros ítems, o que fueron calificadas de baja calidad por nuestra plataforma al momento de evaluar la calidad de la respuesta generada.
-Esta configuración tendrá prioridad sobre el modo de respuesta establecido para el horario, y también sobre las configuraciones definidas en la sección Configuraciones Particulares, o por producto, categoría y vertical de negocio.
+Esta configuración tendrá prioridad sobre el modo de respuesta establecido para el horario, y también sobre las configuraciones definidas en la sección Configuraciones Particulares, y por producto, categoría y vertical de negocio.
