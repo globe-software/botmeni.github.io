@@ -30,6 +30,7 @@ A continuación se describirá la información que puedes visualizar para cada p
     3. Id: ID de la publicación asociada a la pregunta. En caso de que corresponda también se mostrará el SKU y/o el GTIN asociado a la publicación.
     4. Estado: Hace referencia al estado de la pregunta. Los estados posibles son: Procesada, No procesada, Recibida, Eliminada y Error.
     5. Subestado: Cada pregunta tiene un subestado. En el caso de la imagen, el subestado señala que la respuesta fue procesada y no se envió a Mercado Libre ya que estaba establecido el modo de comportamiento Solo Analizar para la vertical de negocios a la que pertenece el artículo.
+    6. Indica la configuración que definió el comportamiento de respuesta. Por ejemplo, para el caso de la imagen, La respuesta quedó con estado Procesada y Subestado Manual por links en respuesta (es decir, se generó la respuesta pero no se envió en forma automática), dado que la tienda tiene definido ese comportamiento para las preguntas que ingresan en ese horario y cuya respuesta contiene link.
 2. A continuación se muestra la pregunta realizada por el usuario de Mercado Libre, y la fecha y hora en que ingresó.
 {{< figure width="840px" height="600px" src="/images/general/pendientes4.png" >}}
 3. En la sección Respuesta visualizarás el campo donde está la Respuesta generada, en caso de que el comportamiento de respuesta estuviera configurado para que la pregunta sea procesada. La misma está disponible para que la analises y realices los cambios que desees si es que lo consideras necesario.
@@ -50,8 +51,22 @@ Para responder una pregunta pendiente, una vez que estás visualizando el listad
 {{< figure width="840px" height="600px" src="/images/general/pendientes8.png" >}}
 4. También puedes ingresar el símbolo @ para obtener el listado de textos disponibles recién descriptos.
 {{< figure width="840px" height="600px" src="/images/general/pendientes9.png" >}}
-5. Una vez que la respuesta está lista, presiona RESPONDER para enviarla a Mercado Libre.
+5. Si necesitas ingresar en la respuesta un link a otro artículo de la tienda, lo puedas buscar presionando la lupa a la derecha del recuadro.
+{{< figure width="840px" height="600px" src="/images/general/pendientes15.png" >}}
+6. Al presionar la lupa aparecerá el modal Busca un ítem. Ingresa el título de la publicación deseada. El buscador desplegará el listado de ítems de tu tienda que concuerdan con las palabras ingresadas. Selecciona el que corresponda.
+{{< figure width="840px" height="600px" src="/images/general/pendientes16.png" >}}
+7. Una vez que la respuesta está lista, presiona RESPONDER para enviarla a Mercado Libre.
 {{< figure width="840px" height="600px" src="/images/general/pendientes10.png" >}}
+
+### Calificar una pregunta Pendiente.
+
+Para calificar una pregunta pendiente para la cual Botmeni generó una respuesta, una vez que estás visualizando el listado de Preguntas Pendientes:
+1. Presiona el botón CALIFICA ESTA PREGUNTA
+{{< figure width="840px" height="600px" src="/images/general/pendientes17.png" >}}
+2. Ingresa el comentario o sugerencia que quieras comunicarnos. Esto no es obligatorio en caso de que tu calificación sea Respuesta excelente (círculo verde).
+{{< figure width="840px" height="600px" src="/images/general/pendientes18.png" >}}
+3. Selecciona el círculo verde, amarillo o rojo en función de cómo deseas calificar la respuesta generada: Respuesta excelente, Mejorable o Incorrecta.
+{{< figure width="840px" height="600px" src="/images/general/pendientes18.png" >}}
 
 ### Eliminar una pregunta.
 Para Eliminar una pregunta pendiente, una vez que estás visualizando el listado de Preguntas Pendientes:
