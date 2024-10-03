@@ -11,8 +11,8 @@ toc: true
 ---
 ### Establecer Comportamiento para fechas específicas
 
-Es posible que necesites definir días del año en que no quieres que se aplique la configuración establecida. Por ejemplo, durante días festivos o feriados.
-Para ello, puedes establecer un comportamiento específico que se aplicará específicamente para las fechas que tu definas, dentro de la sección Configuración de días no laborables.<br></br>
+Es posible que necesites definir días del año con un comportamiento de respuesta distinto al configurad. Por ejemplo, durante días festivos o feriados.
+Dentro de la sección Configuración de días no laborables puedes establecer un comportamiento que se aplicará específicamente para las fechas que tu definas.<br></br>
 Para establecer el comportamiento recién descripto:
 1. Inicia sesión con un usuario con tipo de rol ADMINISTRADOR, en nuestra página de login <https://prod.botmeni.com/login>.
 2. Haz clic en CONFIGURACIÓN.
@@ -29,6 +29,17 @@ Para establecer el comportamiento recién descripto:
 {{< figure width="700px" height="500px" src="/images/general/nolaboables5.png" >}}
 6. Para desmarcar alguno de los días, sólo tienes que presionar sobre la X a la derecha del día que deseas desmarcar.
 {{< figure width="700px" height="500px" src="/images/general/nolaboables6.png" >}}
+7. Para eliminar la configuración completamente, puedes presionar el ícono x a la derecha del campo de fechas.
+{{< figure width="700px" height="500px" src="/images/general/nolaboables7.png" >}}
+8. Una vez seleccionadas las fechas y el comportamiento general, se puede especificar comportamientos particulares de respuesta en función de las características de las preguntas o respuestas. Para ello, presionar el ícono triángulo invertido que corresponda al tipo de pregunta/respuesta que deseas personalizar.
+{{< figure width="700px" height="500px" src="/images/general/nolaboables8.png" >}}
+9. Selecciona el tipo de comportamiento que debe aplicarse.
+{{< figure width="700px" height="500px" src="/images/general/nolaboables9.png" >}}
+10. En la imagen a continuación se muestra una configuración donde para las fechas 11/10/2024, 25/12/2024 y 01/01/2025 la configuración de respuesta es automática, excepto para las preguntas relacionadas con stock, para las cuales la plataforma generará la respuesta pero la misma no se enviará, quedará pendiente para que el usuario la envíe manualmente.
+{{< figure width="700px" height="500px" src="/images/general/nolaboables10.png" >}}
+11. En caso de no seleccionar comportamientos específicos por tipo de pregunta/respuesta, se aplicará la configuración establecida en la sección Configuración Particular, tal cual se detalla en naranja debajo de cada categoría.
+{{< figure width="700px" height="500px" src="/images/general/nolaboables11.png" >}}
+Esta configuración tendrá prioridad sobre el modo de respuesta establecido para el horario, y también sobre las configuraciones definidas en la sección Configuraciones Particulares, y por producto, categoría y vertical de negocio. 
 
 ### Establecer respuesta automática fija para fechas específicsa
 
@@ -46,9 +57,8 @@ Para establecer la respuesta automática fija, luego de que ya has configurado e
 4. A continuación, se muestra un ejemplo de una configuración de Respuesta automática fija.
 {{< figure width="700px" height="500px" src="/images/general/horario14.png" >}}
 <br></br>
-Esta configuración tendrá prioridad sobre el modo de respuesta establecido para el horario, y también sobre las configuraciones definidas en la sección Configuraciones Particulares, y por producto, categoría y vertical de negocio.
 
-### Establecer respuesta automática fija por horario según características particulares de la pregunta o respuesta
+### Establecer respuesta automática fija para fechas específicas según características particulares de la pregunta o respuesta
 
 Si lo que deseas es establecer una respuesta automática fija, para un determinado horario, y sólo para preguntas o respuestas con una característica en particular:
 1. Configura el horario en la sección Horario, siguiendo los pasos 1 a 8 detallados en la sección [Establecer Horario](../../Personaliza_tu_cuenta_de_botmeni/Configuración_comportamiento_respuesta/Horarios_solo_analizar.md).

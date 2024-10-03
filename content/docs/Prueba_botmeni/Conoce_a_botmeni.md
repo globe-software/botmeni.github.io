@@ -22,7 +22,11 @@ Para realizar preguntas de prueba:
 {{< figure width="140px" height="100px" src="/images/general/test.png" >}}
 3. En la parte superior de la pantalla tendrás disponible en primer lugar el recuadro donde ingresar el ID o URL de la publicación sobre la que deseas realizar la pregunta. Te explicamos cómo conocer dicho dato en la sección [Conocer el ID o la URL de una publicación](../Prueba_botmeni/ID_URL_del_producto.md).
 {{< figure width="840px" height="600px" src="/images/general/test2.png" >}}
-4. A continuación ingresa la pregunta.
+4. Otra forma de ingresar el ID o URL del ítem, es presionando la lupa ubicada a la derecha del campo.
+{{< figure width="840px" height="600px" src="/images/general/buscador_ìtems_prueba1.png" >}}
+5. Ingresa en el modal el título de la publicación deseada. El buscador desplegará el listado de ítems de tu tienda que concuerdan con las palabras ingresadas. Selecciona el que corresponda.
+{{< figure width="840px" height="600px" src="/images/general/buscador_ìtems_prueba2.png" >}}
+6. Una vez ingresado el ID o URL del ítem, a continuación ingresa la pregunta.
 {{< figure width="840px" height="600px" src="/images/general/test3.png" >}}
 5. Presiona ANALIZAR.
 {{< figure width="700px" height="500px" src="/images/general/test4.png" >}}
