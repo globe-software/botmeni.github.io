@@ -26,9 +26,13 @@ Para visualizar el histórico de preguntas:
 {{< figure width="700px" height="500px" src="/images/general/historico3.png" >}}
 5. Por ejemplo,si quisieras filtrar por el Estado de las preguntas para visualizar sólo las que tienen un estado determinado, debes desplegar las opciones disponibles para el filtro Estado y seleccionar el estado correspondiente.
 {{< figure width="700px" height="500px" src="/images/general/historico4.png" >}}
-6. Una vez definido el o los filtros que deseas aplicar, presiona el botón FILTRAR. Las preguntas desplegadas serán aquellas que cumplen con todas las condiciones establecidas en los filtros.
+6. Si quisieras filtrar las preguntas realizadas sobre un ítem específico, puedes ingresar el Id del mismo en el campo Id ítem. Otra forma de hacerlo es presionar la lupa a la derecha del campo.
+{{< figure width="700px" height="500px" src="/images/general/bucador_item_historico1.png" >}}
+7. Al presionar la lupa aparecerá el modal Busca un ítem. Ingresa el título de la publicación deseada. El buscador desplegará el listado de ítems de tu tienda que concuerdan con las palabras ingresadas. Selecciona el que corresponda.
+{{< figure width="700px" height="500px" src="/images/general/bucador_item_historico2.png" >}}
+8. Una vez definido el o los filtros que deseas aplicar, presiona el botón FILTRAR. Las preguntas desplegadas serán aquellas que cumplen con todas las condiciones establecidas en los filtros.
 {{< figure width="700px" height="500px" src="/images/general/historico5.png" >}}
-7. Si deseas borrar los filtros seleccionados, presiona el botón LIMPIAR.
+9. Si deseas borrar los filtros seleccionados, presiona el botón LIMPIAR.
 {{< figure width="700px" height="500px" src="/images/general/historico6.png" >}}
 
 ### Información disponible para cada pregunta del Histórico
