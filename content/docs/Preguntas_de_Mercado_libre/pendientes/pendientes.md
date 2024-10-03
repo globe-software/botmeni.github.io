@@ -58,15 +58,15 @@ Para responder una pregunta pendiente, una vez que estás visualizando el listad
 7. Una vez que la respuesta está lista, presiona RESPONDER para enviarla a Mercado Libre.
 {{< figure width="840px" height="600px" src="/images/general/pendientes10.png" >}}
 
-### Calificar una pregunta Pendiente.
+### Calificar una respuesta de una pregunta Pendiente.
 
 Para calificar una pregunta pendiente para la cual Botmeni generó una respuesta, una vez que estás visualizando el listado de Preguntas Pendientes:
-1. Presiona el botón CALIFICA ESTA PREGUNTA
+1. Presiona el botón CALIFICA ESTA RESPUESTA
 {{< figure width="840px" height="600px" src="/images/general/pendientes17.png" >}}
 2. Ingresa el comentario o sugerencia que quieras comunicarnos. Esto no es obligatorio en caso de que tu calificación sea Respuesta excelente (círculo verde).
 {{< figure width="840px" height="600px" src="/images/general/pendientes18.png" >}}
 3. Selecciona el círculo verde, amarillo o rojo en función de cómo deseas calificar la respuesta generada: Respuesta excelente, Mejorable o Incorrecta.
-{{< figure width="840px" height="600px" src="/images/general/pendientes18.png" >}}
+{{< figure width="840px" height="600px" src="/images/general/pendientes19.png" >}}
 
 ### Eliminar una pregunta.
 Para Eliminar una pregunta pendiente, una vez que estás visualizando el listado de Preguntas Pendientes:
