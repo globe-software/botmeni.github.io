@@ -10,7 +10,7 @@ draft: false
 toc: true
 ---
 <br></br>
-Dentro de la sección CONFIGURACIÓN de la cuenta, se pueden establecer características generales que el bot tendrá en consideración al momento de procesar las respuestas. Para visualizar la sección donde se configuran dichas características:
+Dentro de la sección CONFIGURACIÓN de la cuenta, se pueden establecer características generales que se tendrán en consideración al momento de procesar las respuestas. Para visualizar la sección donde se configuran dichas características:
 1. Inicia sesión con un usuario con tipo de rol ADMINISTRADOR, en nuestra página de login <https://prod.botmeni.com/login>.
 2. Haz clic en CONFIGURACIÓN.
 {{< figure width="140px" height="100px" src="/images/general/configuracion.png" >}}
@@ -27,9 +27,9 @@ En la pregunta referida a Modos de distribución, si todos los envíos de la emp
 Si has seleccionado NO se habilitará en el menú lateral la sección Envíos, para aquellos planes que lo incluyan dentro de sus funcionalidades. 
 {{< figure width="840px" height="600px" src="/images/general/configuracion_configuracionenvio2.png" >}}
 En dicha sección, podrás detallar las datos de envío de los centros de distribución utlizados por la empresa, especificando por ejemplo para una dada región, e incluso una categoría o producto en específico, los costos y tiempos de envío. Toda esa información será tomada en cuenta a la hora de procesar las consultas de los clientes en Mercado Libre. En la sección [Envíos](../Modulo_envíos/Envíos.md) de esta guía puedes ver el paso a paso para configurarlos.
-
+     
 ### Enviar mails para preguntas pendientes
-Dentro de la sección CONFIGURACIÓN puedes establecer que deseas recibir un mail de notificación cuando una pregunta queda pendiente. Para ello, una vez que has realizado los pasos detallados al comienzo de esta página y estás visualizando la sección CONFIGURACIÓN, selecciona la casilla a la izquierda de la sentencia referida a Enviar mail para preguntas pendientes:
+Dentro de la sección CONFIGURACIÓN puedes establecer que deseas recibir un mail de aviso cuando una pregunta queda pendiente. Para ello, una vez que has realizado los pasos detallados al comienzo de esta página y estás visualizando la sección CONFIGURACIÓN, selecciona la casilla a la izquierda de la sentencia referida a Enviar mail para preguntas pendientes:
 {{< figure width="840px" height="600px" src="/images/general/configuracion_configuraciongral_pendientes.png" >}}
 
 ### Excluir información de catálogo
