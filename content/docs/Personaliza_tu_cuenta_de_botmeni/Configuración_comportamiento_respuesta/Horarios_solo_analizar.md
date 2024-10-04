@@ -54,7 +54,7 @@ Si necesitas eliminar una configuración de Horario:
 
 Dentro de nuestra plataforma es posible establecer una Respuesta automática fija, que será enviada como respuesta ante determinadas situaciones, para un determinado horario.<br></br>
 La misma puede establecerse para todas las preguntas que ingresen en una franja horaria, o sólo para un tipo particular de pregunta o respuesta.<br></br>
-Para utilizar la Respuesta Automática fija debes tener configurado al menos un horario en la sección Horario, siguiendo los pasos 1 a 8 detallados en la sección [Establecer Horario](../../Personaliza_tu_cuenta_de_botmeni/Configuración_comportamiento_respuesta/Horarios_solo_analizar.md)<br></br>
+Para utilizar la Respuesta Automática fija por horario debes tener configurado al menos un horario en la sección Horario, siguiendo los pasos 1 a 8 detallados en la sección [Establecer Horario](../../Personaliza_tu_cuenta_de_botmeni/Configuración_comportamiento_respuesta/Horarios_solo_analizar.md)<br></br>
 
 Para establecer la respuesta automática fija, luego de que ya has configurado el horario:
 1. Selecciona el tipo de comportamiento general que deseas para el horario, puede ser Automático o Solo analizar.
@@ -66,7 +66,7 @@ Para establecer la respuesta automática fija, luego de que ya has configurado e
 4. A continuación, se muestra un ejemplo de una configuración de Respuesta automática fija.
 {{< figure width="700px" height="500px" src="/images/general/horario14.png" >}}
 <br></br>
-Esta configuración tendrá prioridad sobre el modo de respuesta establecido para el horario, y también sobre las configuraciones definidas en la sección Configuraciones Particulares, y por producto, categoría y vertical de negocio.
+Esta configuración tendrá prioridad sobre el modo de respuesta establecido para el horario, y también sobre las configuraciones definidas en la sección Configuraciones Particulares, y para producto, categoría y vertical de negocio.
 
 ### Establecer respuesta automática fija por horario según características particulares de la pregunta o respuesta
 
@@ -83,4 +83,4 @@ Si lo que deseas es establecer una respuesta automática fija, para un determina
 {{< figure width="700px" height="500px" src="/images/general/horario20.png" >}}
 
 Así, siguiendo los pasos recién detallados, puedes configurar para un dado horario una respuesta automática fija para preguntas relacionadas con stock, compatibilidad, que especifican número de chasis o que corresponden a una venta reciente. También lo puedes establecer para respuestas que contienen link a otros ítems, o que fueron calificadas de baja calidad por nuestra plataforma al momento de evaluar la calidad de la respuesta generada.
-Esta configuración tendrá prioridad sobre el modo de respuesta establecido para el horario, y también sobre las configuraciones definidas en la sección Configuraciones Particulares, y por producto, categoría y vertical de negocio.
+Esta configuración tendrá prioridad sobre el modo de respuesta establecido para el horario, y también sobre las configuraciones definidas en la sección Configuraciones Particulares, y para producto, categoría y vertical de negocio.
