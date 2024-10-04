@@ -13,7 +13,7 @@ toc: true
 Botmeni te brinda la posibilidad de personalizar el comportamiento de respuesta para respuestas que la plataforma evalúa que son de baja calidad, y por lo tanto no envía de modo automático a Mercado Libre. 
 Existen dos opciones de comportamiento que puedes seleccionar:
 - Revisión manual: la pregunta queda pendiente para que tu la revises y luego la envíes (si la configuración de producto, categoría o vertical que le corresponde está definida en modo Automático o Solo analizar)
-- Respuesta Fija: si al pregunta generada es calificada como de baja calidad, si el comportamiento definido es Automático en lugar de enviar la respuesta generada de baja calidad, se enviará una repsuesta Fija que tu definas (si la configuración de producto, categoría o vertical que le corresponde está definida en modo Automático)
+- Respuesta Fija: si al pregunta generada es calificada como de baja calidad y el comportamiento definido es Automático, se enviará una respuesta Fija que tu definas
 <br></br>
 Para configurar el comportamiento para respuestas que contienen link a otros productos:
 1. Inicia sesión con un usuario con tipo de rol ADMINISTRADOR, en nuestra página de login <https://prod.botmeni.com/login>.
