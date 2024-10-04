@@ -44,11 +44,11 @@ Para establecer el comportamiento de respuesta para fechas específicas:
 14. Si deseas que las preguntas/respuestas con características particulares no tomen la configuración establecida en la sección Configuraciones Particulares, sino que se comporten según el comportamiento general seleccionado para las fechas, selecciona el modo de comportamiento APAGADO. Se muestra un ejemplo a continuación.
 {{< figure width="700px" height="500px" src="/images/general/nolaborables19.png" >}}
 
-### Establecer respuesta automática fija para fechas específicsa
+### Establecer respuesta automática fija para fechas específicas
 
 Dentro de nuestra plataforma es posible establecer una Respuesta automática fija que se enviará sólo para las fechas que definas.<br></br>
 La misma puede establecerse para todas las preguntas que ingresen en una franja horaria, o sólo para un tipo particular de pregunta o respuesta.<br></br>
-Para utilizar la Respuesta Automática fija en una fecha específica debes en primer lugar configurar el comportamiento general y las fechas, siguiendo los pasos 1 a 9 detallados en la sección anterior. A cotinuación:
+Para utilizar la Respuesta Automática fija en una fecha específica debes en primer lugar configurar el comportamiento general en Automático y las fechas, siguiendo los pasos 1 a 9 detallados en la sección anterior. A cotinuación:
 1. Selecciona el check box: Ignorar configuración anterior y utilizar solo esta respuesta fija.
 {{< figure width="700px" height="500px" src="/images/general/nolaborables12.png" >}}
 2. En el campo Respuesta fija ingresa la respuesta que deseas que se envíe.
@@ -60,7 +60,7 @@ Para utilizar la Respuesta Automática fija en una fecha específica debes en pr
 ### Establecer respuesta automática fija para fechas específicas según características particulares de la pregunta o respuesta
 
 Si lo que deseas es establecer una respuesta automática fija, para determinadas fechas, y sólo para preguntas o respuestas con una característica en particular:
-1. configura el comportamiento general y las fechas, siguiendo los pasos 1 a 9 detallados en la sección [Establecer Comportamiento para fechas específicas](../Configuración_comportamiento_respuesta/Dias_festivos.md).
+1. configura el comportamiento general Automático y las fechas, siguiendo los pasos 1 a 9 detallados en la sección [Establecer Comportamiento para fechas específicas](../Configuración_comportamiento_respuesta/Dias_festivos.md).
 {{< figure width="700px" height="500px" src="/images/general/nolaborables15.png" >}}
 2. Despliega las opciones de comportamiento presionando sobre el ícono triángulo invertido, en el tipo de pregunta o respuesta que desesas configurar.
 {{< figure width="700px" height="500px" src="/images/general/nolaborables16.png" >}}
@@ -69,6 +69,6 @@ Si lo que deseas es establecer una respuesta automática fija, para determinadas
 5. Ingresa el mensaje que deseas se envíe como respuesta automática.
 {{< figure width="700px" height="500px" src="/images/general/nolaborables18.png" >}}
 
-Así, siguiendo los pasos recién detallados, puedes configurar para fechas específicas una respuesta automática fija para preguntas relacionadas con stock, compatibilidad, que especifican número de chasis o que corresponden a una venta reciente. También lo puedes establecer para respuestas que contienen link a otros ítems, o que fueron calificadas de baja calidad por nuestra plataforma al momento de evaluar la calidad de la respuesta generada.
+Así, siguiendo los pasos recién detallados, puedes configurar para fechas específicas una respuesta automática fija para preguntas relacionadas con stock, compatibilidad, que especifican número de chasis o que corresponden a una venta reciente. También lo puedes establecer para respuestas que contienen link a otros ítems, o que fueron calificadas de baja calidad por nuestra plataforma al momento de evaluar la calidad de la respuesta generada.<br></br>
 Esta configuración tendrá prioridad sobre el modo de respuesta general establecido para dichas fechas, y también sobre las configuraciones definidas en las secciones Horarios y Configuraciones Particulares, y por sobre lo establecido para producto, categoría y vertical de negocio.
 

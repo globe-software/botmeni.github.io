@@ -65,7 +65,7 @@ La misma puede establecerse para todas las preguntas que ingresen en una franja 
 Para utilizar la Respuesta Automática fija por horario debes primero configurar un horario en la sección Horario, siguiendo los pasos 1 a 8 detallados en la sección [Establecer Horario](../../Personaliza_tu_cuenta_de_botmeni/Configuración_comportamiento_respuesta/Horarios_solo_analizar.md)<br></br>
 
 Para establecer la respuesta automática fija, luego de que ya has configurado el horario:
-1. Selecciona el tipo de comportamiento general que deseas para el horario, puede ser Automático o Solo analizar.
+1. Selecciona el tipo de comportamiento Automático
 {{< figure width="700px" height="500px" src="/images/general/horario10.png" >}}
 2. Selecciona el check box: Ignorar configuración anterior y utilizar solo esta respuesta fija.
 {{< figure width="700px" height="500px" src="/images/general/horario12.png" >}}
@@ -81,7 +81,7 @@ Esta configuración tendrá prioridad sobre el modo de respuesta establecido par
 Si lo que deseas es establecer una respuesta automática fija, para un determinado horario, y sólo para preguntas o respuestas con una característica en particular:
 1. Configura el horario en la sección Horario, siguiendo los pasos 1 a 8 detallados en la sección [Establecer Horario](../../Personaliza_tu_cuenta_de_botmeni/Configuración_comportamiento_respuesta/Horarios_solo_analizar.md).
 {{< figure width="700px" height="500px" src="/images/general/horario16.png" >}}
-2. Selecciona el tipo de comportamiento general que deseas para el horario, puede ser Automático o Solo analizar.
+2. Selecciona el tipo de comportamiento Automático.
 {{< figure width="700px" height="500px" src="/images/general/horario17.png" >}}
 3. Despliega las opciones de comportamiento presionando sobre el ícono triángulo invertido, en el tipo de pregunta o respuesta que desesas configurar.
 {{< figure width="700px" height="500px" src="/images/general/horario18.png" >}}
