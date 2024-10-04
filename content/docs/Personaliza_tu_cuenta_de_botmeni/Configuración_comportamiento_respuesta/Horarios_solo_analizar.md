@@ -39,7 +39,7 @@ Para personalizar los horarios:
 13. En caso de no seleccionar comportamientos específicos por tipo de pregunta/respuesta, se aplicará la configuración establecida en la sección Configuraciones Particulares, tal cual se detalla en naranja debajo de cada categoría.
 {{< figure width="700px" height="500px" src="/images/general/horario23.png" >}}
 14. Si deseas que las preguntas/respuestas con características particulares no tomen la configuración establecida en la sección Configuraciones Particulares, sino que se comporten según el comportamiento general seleccionado para el horario, selecciona el modo de comportamiento APAGADO. Se muestra un ejemplo a continuación.
-{{< figure width="700px" height="500px" src="/images/horario24.png" >}}
+{{< figure width="700px" height="500px" src="/images/general/horario24.png" >}}
 15. Puedes configurar nuevos grupos de horarios, presionando el botón NUEVO GRUPO.
 {{< figure width="700px" height="500px" src="/images/general/horario15.png" >}}
 <br></br>
