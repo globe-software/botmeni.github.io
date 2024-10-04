@@ -1,6 +1,6 @@
 ---
 weight: 548
-title: "Comportamiento para una fecha calendario"
+title: "Comportamiento según fecha calendario"
 description: "Comportamiento definido para fechas específicas"
 icon: "category"
 color: "primary"
@@ -28,19 +28,19 @@ Para establecer el comportamiento de respuesta para fechas específicas:
 6. Selecciona (haciendo clik o presionando) los días a incluir. Puedes seleccionar todos los que necesites.
 {{< figure width="700px" height="500px" src="/images/general/nolaborables4.png" >}}
 7. Presiona fuera del recuadro, visualizarás los días que quedaron seleccionados.
-{{< figure width="700px" height="500px" src="/images/general/nolaboables5.png" >}}
+{{< figure width="700px" height="500px" src="/images/general/nolaborables5.png" >}}
 6. Para desmarcar alguno de los días, sólo tienes que presionar sobre la X a la derecha del día que deseas desmarcar.
-{{< figure width="700px" height="500px" src="/images/general/nolaboables6.png" >}}
+{{< figure width="700px" height="500px" src="/images/general/nolaborables6.png" >}}
 7. Para eliminar la configuración completamente, puedes presionar el ícono x a la derecha del campo de fechas.
-{{< figure width="700px" height="500px" src="/images/general/nolaboables7.png" >}}
+{{< figure width="700px" height="500px" src="/images/general/nolaborables7.png" >}}
 8. Una vez seleccionadas las fechas y el comportamiento general, se pueden también especificar comportamientos particulares de respuesta en función de las características de las preguntas o respuestas. Para ello, presionar el ícono triángulo invertido que corresponda al tipo de pregunta/respuesta que deseas personalizar.
-{{< figure width="700px" height="500px" src="/images/general/nolaboables8.png" >}}
+{{< figure width="700px" height="500px" src="/images/general/nolaborables8.png" >}}
 9. Selecciona el tipo de comportamiento que debe aplicarse.
-{{< figure width="700px" height="500px" src="/images/general/nolaboables9.png" >}}
+{{< figure width="700px" height="500px" src="/images/general/nolaborables9.png" >}}
 10. En la imagen a continuación se muestra una configuración donde para las fechas 11/10/2024, 25/12/2024 y 01/01/2025 la configuración de respuesta es automática, excepto para las preguntas relacionadas con stock, para las cuales la plataforma generará la respuesta pero la misma no se enviará (quedará pendiente para que el usuario la envíe manualmente).
-{{< figure width="700px" height="500px" src="/images/general/nolaboables10.png" >}}
+{{< figure width="700px" height="500px" src="/images/general/nolaborables10.png" >}}
 11. En caso de no seleccionar comportamientos específicos por tipo de pregunta/respuesta, se aplicará la configuración establecida en la sección Configuración Particular, tal cual se detalla en naranja debajo de cada categoría.
-{{< figure width="700px" height="500px" src="/images/general/nolaboables11.png" >}}
+{{< figure width="700px" height="500px" src="/images/general/nolaborables11.png" >}}
 
 
 ### Establecer respuesta automática fija para fechas específicsa
