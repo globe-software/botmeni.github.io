@@ -24,7 +24,7 @@ Para visualizar el histórico de preguntas:
 {{< figure width="700px" height="500px" src="/images/general/historico2.png" >}}
 4. La primera sección del módulo contiene los filtros disponibles que se pueden aplicar en el listado. Al seleccionarlos, definirás las preguntas que se visualizan en función de la o las características que selecciones en los mismos. 
 {{< figure width="700px" height="500px" src="/images/general/historico3.png" >}}
-5. Por ejemplo,si quisieras filtrar por el Estado de las preguntas para visualizar sólo las que tienen un estado determinado, debes desplegar las opciones disponibles para el filtro Estado y seleccionar el estado correspondiente.
+5. Por ejemplo, si quisieras filtrar por el Estado de las preguntas para visualizar sólo las que tienen un estado determinado, debes desplegar las opciones disponibles para el filtro Estado y seleccionar el estado correspondiente.
 {{< figure width="700px" height="500px" src="/images/general/historico4.png" >}}
 6. Si quisieras filtrar las preguntas realizadas sobre un ítem específico, puedes ingresar el Id del mismo en el campo Id ítem. Otra forma de hacerlo es presionar la lupa a la derecha del campo.
 {{< figure width="700px" height="500px" src="/images/general/bucador_item_historico1.png" >}}
@@ -41,16 +41,35 @@ A continuación se describirá la información que puedes visualizar para cada p
 1. En la sección superior se detallan:
 {{< figure width="840px" height="600px" src="/images/general/historico8.png" >}}
     1. Título de la publicación. Presionando sobre la misma se abrirá en una nueva ventana la publicación en Mercado Libre.
-    2. Usuario y Ubicación: informa el nickname del usuario que realiza la pregunta y su ubicación.
-    3. Id: ID de la publicación asociada a la pregunta. En caso de que corresponda también se mostrará el SKU y/o el GTIN asociado a la publicación.
-    4. Estado: Hace referencia al estado de la pregunta. Los estados posibles son: Procesada, No procesada, Recibida, Eliminada y Error.
-    5. Subestado: Cada pregunta tiene un subestado. En el subestado se detalla, por ejemplo, si la respuesta se envió en modo Automático o fue generada la respuesta y quedó pendiente para revisión y envío manual. Además, brinda información relacionada a cuál fue la configuración establecida para tu tienda que derivó en que la respuesta se enviara en modo Manual (por ejemplo, Manual por horario, Manual por stock, etc)
+    2. Información sobre la publicación consultada: Precio, stock y estado.
+    3. Usuario y Ubicación: informa el nickname del usuario que realiza la pregunta y su ubicación.
+    4. Id: id ítem corresponde al id de la publicación asociada a la pregunta (en caso de que corresponda también se mostrará el SKU y/o el GTIN) y debajo el ID de la pregunta.
+    5. Estado: Hace referencia al estado de la pregunta. Los estados posibles son: Procesada, No procesada, Recibida, Eliminada y Error.
+    6. Subestado: Cada pregunta tiene un subestado. En el subestado se detalla, por ejemplo, si la respuesta se envió en modo Automático (Automática) o fue generada la respuesta y quedó pendiente para revisión y envío manual (Manual).
+    7. Indica la configuración que definió el comportamiento de respuesta. Por ejemplo, para el caso de la imagen, La respuesta quedó con estado Procesada y Subestado Manual por stock (es decir, se generó la respuesta pero no se envió en forma automática), dado que la tienda tiene definido ese comportamiento para las preguntas que ingresan en ese horario (Configuración Horario) y son referidas a stock (Stock)..
 2. En la sección central se visualiza la pregunta ingresada, con su fecha y hora, y la respuesta generada por nuestro modelo, con la fecha y hora en que fue generada, si el comportamiento de respuesta está configurado para que la misma se genere.
 {{< figure width="840px" height="600px" src="/images/general/historico9.png" >}}
 3.  A continuación tienes la posibilidad de calificar la calidad de nuestra respuesta presionando los círculos de color verde, amarillo y rojo en función de tu evaluación: Respuesta excelente, Respuesta mejorable y Respuesta incorrecta. Y en el espacio Calificación puedes ingresar un comentario asociado a la calificación que acabas de realizar, que nos ayudará a implementar las mejoras que sean necesarias.
 {{< figure width="840px" height="600px" src="/images/general/historico10.png" >}}
-4. Finalmente, en la parte inferior se detalla la respuesta que fue enviada a Mercado Libre. En caso de que la respuesta enviada haya sido exactamente la respuesta generada por la plataforma, se leerá la leyenda: Respuesta generada automáticamente por Botmeni. Caso contrario, se visualizará la respuesta enviada a Mercado Libre con las modificaciones que tu tienda haya realizado. También se detallan la fecha y la hora en que se envió la respuesta a Mercado Libre.
+4. Finalmente, en la parte inferior se detalla la respuesta que fue enviada a Mercado Libre, y la fehca y hora en que fue enviada. En caso de que la respuesta enviada haya sido exactamente la respuesta generada por la plataforma, se leerá la leyenda: Respuesta generada automáticamente por Botmeni. Caso contrario, se visualizará la respuesta enviada a Mercado Libre con las modificaciones que tu tienda haya realizado.
 {{< figure width="840px" height="600px" src="/images/general/historico11.png" >}}
 5. Cada respuesta tiene disponible en la esquina superior derecha la acción Visualizar.
 {{< figure width="840px" height="600px" src="/images/general/historico12.png" >}}
 6. Al presionar la acción Visualizar se desplegará el chat completo de interacción con el usuario y también tendrás disponible el contenido de la publicación.
+
+### Calificar una respuesta de una pregunta del Histórico.
+
+Para calificar una respuesta, una vez que estás visualizando el listado de Preguntas del Histórico:
+1. Ingresa el comentario o sugerencia que quieras comunicarnos en el campo Calificar respuesta. Esto no es obligatorio en caso de que tu calificación sea Respuesta excelente (círculo verde).
+{{< figure width="840px" height="600px" src="/images/general/historico13.png" >}}
+2. Selecciona el círculo verde, amarillo o rojo en función de cómo deseas calificar la respuesta generada: Respuesta excelente, Mejorable o Incorrecta.
+{{< figure width="840px" height="600px" src="/images/general/historico14.png" >}}
+
+### Descargar Listado de preguntas.
+
+Para descargar el listado de preguntas en un archivo en formato excel, una vez que estás visualizando el módulo histórico:
+1. Selecciona el o los filtros que deseas aplicar en función de las preguntas que te interese descargar, siguiendo los pasos detallados en la sección [Visualizar preguntas del histórico](../Historico/historico.md). 
+2. Presiona el botón DESCARGAR
+{{< figure width="840px" height="600px" src="/images/general/historico15.png" >}}<br></br>
+<br></br>
+Siguiendo los pasos detallados en la sección [Funcionalidades y beneficios incluidos según el plan](../../Suscripcíon_y_Pagos/Tu_Suscripcion/Conocer_beneficios_planes.md) podrás visualizar cuáles planes tienen incluida la funcionalidad DESCARGAR recién detallada.

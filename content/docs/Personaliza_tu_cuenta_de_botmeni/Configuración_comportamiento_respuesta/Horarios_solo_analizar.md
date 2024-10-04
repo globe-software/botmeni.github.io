@@ -35,7 +35,7 @@ Para personalizar los horarios:
 11. Puedes configurar nuevos grupos de horarios, presionando el botón NUEVO GRUPO.
 {{< figure width="700px" height="500px" src="/images/general/horario15.png" >}}
 <br></br>
-Siguiendo los pasos detallados en la sección [Funcionalidades y beneficios incluidos según el plan](../../Suscripcíon_y_Pagos/Tu_Suscripcion/Conocer_beneficios_planes.md) se pueden visualizar cuáles planes tienen incluida la funcionalidad recién detallada.
+Siguiendo los pasos detallados en la sección [Funcionalidades y beneficios incluidos según el plan](../../Suscripcíon_y_Pagos/Tu_Suscripcion/Conocer_beneficios_planes.md) podrás visualizar cuáles planes tienen incluida la funcionalidad recién detallada.
 
 ### Eliminar una configuración de horario
 
