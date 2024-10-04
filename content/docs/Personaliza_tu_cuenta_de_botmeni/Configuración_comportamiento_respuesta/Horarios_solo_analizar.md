@@ -32,7 +32,15 @@ Para personalizar los horarios:
 {{< figure width="700px" height="500px" src="/images/general/horario10.png" >}}
 10. A su vez, puedas definir dentro de dicho horario comportamientos de respuesta específicos para preguntas o respuestas con características particulares. Esta configuración tendrá prioridad sobre el comportamiento definido para el horario en el paso anterior (paso 9).
 {{< figure width="700px" height="500px" src="/images/general/horario11.png" >}}
-11. Puedes configurar nuevos grupos de horarios, presionando el botón NUEVO GRUPO.
+11. Para ello selecciona el tipo de comportamiento que debe aplicarse.
+{{< figure width="700px" height="500px" src="/images/general/horario21.png" >}}
+12. En la imagen a continuación se muestra una configuración donde para el horario defino, la configuración de respuesta es automática, excepto para las preguntas relacionadas con stock, para las cuales la plataforma generará la respuesta pero la misma no se enviará (quedará pendiente para que el usuario la envíe manualmente).
+{{< figure width="700px" height="500px" src="/images/general/horario22.png" >}}
+13. En caso de no seleccionar comportamientos específicos por tipo de pregunta/respuesta, se aplicará la configuración establecida en la sección Configuraciones Particulares, tal cual se detalla en naranja debajo de cada categoría.
+{{< figure width="700px" height="500px" src="/images/general/horario23.png" >}}
+14. Si deseas que las preguntas/respuestas con características particulares no tomen la configuración establecida en la sección Configuraciones Particulares, sino que se comporten según el comportamiento general seleccionado para el horario, selecciona el modo de comportamiento APAGADO. Se muestra un ejemplo a continuación.
+{{< figure width="700px" height="500px" src="/images/generalhorario24.png" >}}
+15. Puedes configurar nuevos grupos de horarios, presionando el botón NUEVO GRUPO.
 {{< figure width="700px" height="500px" src="/images/general/horario15.png" >}}
 <br></br>
 Siguiendo los pasos detallados en la sección [Funcionalidades y beneficios incluidos según el plan](../../Suscripcíon_y_Pagos/Tu_Suscripcion/Conocer_beneficios_planes.md) podrás visualizar cuáles planes tienen incluida la funcionalidad recién detallada.
