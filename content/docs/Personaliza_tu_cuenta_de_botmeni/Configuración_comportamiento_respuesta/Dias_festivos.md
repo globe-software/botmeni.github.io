@@ -13,7 +13,7 @@ toc: true
 
 Es posible que necesites definir para días específicos del año un comportamiento de respuesta distinto al configurado. Por ejemplo, para días festivos o feriados.
 Dentro de la sección Configuración de días no laborables puedes establecer un comportamiento que se aplicará específicamente para las fechas que tu definas.<br></br>
-Esta configuración tendrá prioridad sobre el comportamiento de respuesta definido en las secciones Horarios, y por sobre lo establecido para producto, categoría y vertical de negocio.<br></br>
+Esta configuración tendrá prioridad sobre el comportamiento de respuesta definido en las secciones Horarios, y por sobre lo establecido para producto, categoría y vertical de negocio, según se explica en las siguientes secciones.<br></br>
 Siguiendo los pasos detallados en la sección [Funcionalidades y beneficios incluidos según el plan](../../Suscripcíon_y_Pagos/Tu_Suscripcion/Conocer_beneficios_planes.md) podrás visualizar cuáles planes tienen incluida la funcionalidad recién detallada.<br></br>
 Para establecer el comportamiento de respuesta para fechas específicas:
 1. Inicia sesión con un usuario con tipo de rol ADMINISTRADOR, en nuestra página de login <https://prod.botmeni.com/login>.
