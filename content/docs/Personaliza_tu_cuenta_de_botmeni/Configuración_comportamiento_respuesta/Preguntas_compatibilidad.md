@@ -15,7 +15,7 @@ Existen cuatro opciones de comportamiento:
 - Apagado: no se personaliza el comportamiento para las preguntas sobre compatibilidad, se procesarán según la configuración que esté definida. 
 - Manual con respuesta: Botmeni generará la respuesta y quedará pendiente para que tu la revises y la envíes (si la configuración de producto, categoría o vertical que le corresponde está definida en modo Automático o Solo analizar)
 - Manual sin respuesta: Botmeni no generará ni enviará respuesta al detectar que se trata de una pregunta sobre compatibilidad.
-- Respuesta fija: se enviará como respuesta automática el mensaje definido por el usuario en el campo respuesta fija.
+- Respuesta fija: se enviará como respuesta automática el mensaje definido por el usuario en el campo respuesta fija, si el comportamiento definido es Automático..
 <br></br>
 Para configurar el comportamiento para preguntas asociadas a compatibilidad:
 1. Inicia sesión con un usuario con tipo de rol ADMINISTRADOR, en nuestra página de login <https://prod.botmeni.com/login>.
