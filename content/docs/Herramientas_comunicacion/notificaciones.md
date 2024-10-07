@@ -1,5 +1,5 @@
 ---
-weight: 175
+weight: 1750
 title: "Notificaciones"
 description: "Gestión de notificaciones"
 icon: "quick_phrases"
