@@ -10,8 +10,6 @@ draft: false
 toc: true
 ---
 
-### Calificar una respuesta de una pregunta del Histórico.
-
 Para calificar una respuesta, una vez que estás visualizando el listado de Preguntas del Histórico:
 1. Ingresa el comentario o sugerencia que quieras comunicarnos en el campo Calificar respuesta. Esto no es obligatorio en caso de que tu calificación sea Respuesta excelente (círculo verde).
 {{< figure width="840px" height="600px" src="/images/general/historico13.png" >}}
