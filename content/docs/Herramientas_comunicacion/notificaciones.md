@@ -10,7 +10,7 @@ draft: false
 toc: true
 ---
 El módulo notificaciones centraliza todas las comunicaciones generadas en la plataforma asociadas a la tienda, tanto las enviadas vía correo electrónico (email) como por mensaje directo a la computadora o celular (push).<br></br>
-El listado de notificaciones presenta de forma centralizada, para cada usuario, las distintos mensajes y avisos asociadas tanto al usuario en particular (por ej, se envió mail por solicitud de reseteo de contraseña) como vinculados a su rol en la plataforma (por ej, existe una pregunta pendiente o se está alcanzando el límite de preguntas mensuales contratadas).<br></br>
+El listado de notificaciones presenta de forma centralizada, para cada usuario, todos los mensajes y avisos asociados tanto al usuario en particular (por ej, se envió mail por solicitud de reseteo de contraseña) como vinculados a su rol en la plataforma (por ej, existe una pregunta pendiente o se está alcanzando el límite de preguntas mensuales contratadas).<br></br>
 
 ### Visualizar una notificación
 Para visualizar el listado de notificaciones:
@@ -25,5 +25,5 @@ Para visualizar el listado de notificaciones:
 {{< figure width="700px" height="500px" src="/images/general/notificacion4.png" >}}
 7. Si deseas borrar los filtros seleccionados, presiona el botón LIMPIAR.
 {{< figure width="700px" height="500px" src="/images/general/notificacion5.png" >}}
-8. Al presionar sobre cualquiera de las notificaciones del listado, se abrirá una pantalla con el detalle completo.
+8. Al presionar sobre cualquiera de las notificaciones del listado, se abrirá la notificación. Por ejemplo, a continuación se muestra cómo se visualiza una notificación que se generó a partir del mail de aviso correspondiente a que se registró una pregunta pendiente.
 {{< figure width="700px" height="500px" src="/images/general/notificacion6.png" >}}

@@ -1,7 +1,7 @@
 ---
 weight: 1080
-title: "Calificar una pregunta Pendiente"
-description: "Calificar una pregunta Pendiente"
+title: "Eliminar una pregunta Pendiente"
+description: "Eliminar una pregunta Pendiente"
 icon: "category"
 color: "primary"
 date: "2024-04-08T23:13:49-05:00"
