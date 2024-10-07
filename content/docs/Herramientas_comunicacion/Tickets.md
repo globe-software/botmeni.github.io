@@ -48,7 +48,7 @@ Al calificar una respuesta generada por la plataforma como Respuesta Mejorable (
 {{< figure width="700px" height="500px" src="/images/general/historico14.png" >}}
 4. En la pregunta que fue calificada encontrarás la leyenda Ver ticket. 
 {{< figure width="700px" height="500px" src="/images/general/tik19.png" >}}
-5. Al presionar Ver ticket, Botmeni te dirigirá al módulo Tickets y en la pantalla podrás observar el ticket completo con todo sus detalles.
+5. Al presionar Ver ticket, Botmeni te dirigirá al módulo Tickets y podrás observar el ticket completo con todo sus detalles.
 {{< figure width="700px" height="500px" src="/images/general/tik20.png" >}}
 
 También puedes generar un ticket a partir de la calificación de las preguntas del módulo Test y Pendientes.
