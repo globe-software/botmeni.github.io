@@ -10,8 +10,7 @@ draft: false
 toc: true
 ---
 El ticket es uno de los modos de comunicación que existe entre Botmeni y sus usuarios. Los mismos pueden crearse independientes de una pregunta, para comunicarnos una duda, consulta o comentario. O pueden surgir asociados a una calificación de una respuesta generada como Mejorable o Incorrecta, y que por lo tanto requiere de nuestra evalución para aplicar las mejoras que correspondan.<br></br>
-El módulo tickets está disponible para aquellos usuarios que tengan asociados los roles Gestionar Tickets o Administrador.
-Para conocer la cantidad de tickets disponibles según el plan al que está adherida tu tienda, puedes [visualizar los detalles de tu suscripción activa](../../Suscripcíon_y_Pagos/Tu_Suscripcion/Ver_detalles_suscripción_actual.md).<br></br>
+El módulo tickets está disponible para aquellos usuarios que tengan asociados los roles Gestionar Tickets o Administrador.<br></br>
 Consulta la sección [Ayuda](../../Ayuda.md) para conocer nuestras otras vías de contacto.
 
 ### Visualizar los Tickets 
@@ -37,33 +36,32 @@ Para crear un nuevo ticket genérico no asociado a una pregunta, una vez que est
 3. Califica tu consulta seleccionando el círculo amarillo o rojo según lo consideres.
 {{< figure width="700px" height="500px" src="/images/general/tik8.png" >}}
 4. Presiona CREAR TICKET
-{{< figure width="700px" height="500px" src="/images/general/tik9.png" >}}
-
+{{< figure width="700px" height="500px" src="/images/general/tik9.png" >}}<br></br>
+Para conocer los planes que tienen habilitada la creación de tickets y la cantidad de tickets disponibles según el plan al que está adherida tu tienda, sigue los pasos detallados en la sección [Funcionalidades y beneficios incluidos según el plan](../../Suscripcíon_y_Pagos/Tu_Suscripcion/Conocer_beneficios_planes.md) .<br></br>
 ### Crear un ticket al calificar una respuesta
-Al calificar una respuesta generada por la plataforma como Respuesta Mejorable (amarillo) o Respuesta Incorrecta (rojo), se guarda la calificación y además, si aún tienes tickets disponibles, se genera un ticket asociada a esa pregunta. Para crear un ticket asociado a una pregunta:
+Al calificar una respuesta generada por la plataforma como Respuesta Mejorable (amarillo) o Respuesta Incorrecta (rojo), se guarda la calificación y además, si el plan adherido tiene la funcionalidad habilitada y aún tienes tickets disponibles, se genera un ticket asociada a esa pregunta. Para crear un ticket asociado a una pregunta del Histórico:
 1. Visualiza el módulo Histórico presionando Histórico en el menú.
 {{< figure width="140px" height="100px" src="/images/general/historico.png" >}}
 2. Ingresa en el casillero Calificar respuesta el comentario que desees hacernos llegar para tener en cuenta respecto a la respuesta que generó la plataforma.
-{{< figure width="700px" height="500px" src="/images/general/tik10.png" >}}
+{{< figure width="700px" height="500px" src="/images/general/historico13.png" >}}
 3. Califica la respuesta según consideres que es mejorable (amarillo) o incorrecta (rojo).
-{{< figure width="700px" height="500px" src="/images/general/tik11.png" >}}
+{{< figure width="700px" height="500px" src="/images/general/historico14.png" >}}
 4. En la pregunta que fue calificada encontrarás la leyenda Ver ticket. 
-{{< figure width="700px" height="500px" src="/images/general/tik12.png" >}}
+{{< figure width="700px" height="500px" src="/images/general/tik19.png" >}}
 5. Al presionar Ver ticket, Botmeni te dirigirá al módulo Tickets y en la pantalla podrás observar el ticket completo con todo sus detalles.
-{{< figure width="700px" height="500px" src="/images/general/tik13.png" >}}
+{{< figure width="700px" height="500px" src="/images/general/tik20.png" >}}
 
-También puedes generar un ticket a partir de la cailifación de las preguntas del módulo Test, siguiendo los mismos pasos recién detallados.
+También puedes generar un ticket a partir de la calificación de las preguntas del módulo Test y Pendientes.
 
 ### Gestionar un ticket
 Desde el módulo ticket podrás gestionar los tickets asociados a tu tienda.
 Para visualizar o tomar acción sobre un ticket, luego de ingresar al módulo Tickets:
-1. Presiona el ticket en el listado que deseas gestionar o visualizar. Los tickets con las letras resaltadas en negro, son aquellos que aún no has leídos. 
+1. Presiona el ticket en el listado que deseas gestionar o visualizar. Los tickets con las letras resaltadas en negro, son aquellos que aún tienen mensajes sin leer. 
 {{< figure width="700px" height="500px" src="/images/general/tik14.png" >}}
-2. Cuando un ticket haya sido contestado o gestionado por nuestro equipo, te llegará una notificación que puedes visualizar en la sección notificaciones de la plataforma.
-{{< figure width="700px" height="500px" src="/images/general/tik15.png" >}}
-3. Al presionar sobre cualquiera de los tickets del listado, se abrirá una pantalla con el detalle completo del mismo, mostrando en primer lugar la pregunta cuya calificación lo generó, si ese fuera el caso, o el comentario que enviaste al crear el ticket para los tickets genéricos no asociados a una pregunta.
+Cuando un ticket haya sido contestado o gestionado por nuestro equipo, te llegará una notificación que puedes visualizar en la sección notificaciones de la plataforma.
+3. Al presionar sobre cualquiera de los tickets del listado, se abrirá una pantalla con el detalle completo del mismo, mostrando en primer lugar la pregunta cuya calificación lo generó, si ese fuera el caso, o el primer comentario que se ingresó al crear el ticket (para los tickets genéricos no asociados a una pregunta).
 {{< figure width="700px" height="500px" src="/images/general/tik18.png" >}}
-4. Si consideras que tu sugerencia o consulta ya fue resuelta puedes presionar el botón CERRAR TICKET. El mismo pasará a estado cerrado. Puedes seguir visualizándolo desde el listado e, incluso, volver a abrirlo para continuarlo en caso de que lo consideres necesario.
+4. Si considerás que tu sugerencia o consulta ya fue resuelta puedes presionar el botón CERRAR TICKET. El mismo pasará a estado cerrado. Puedes seguir visualizándolo desde el listado e, incluso, volver a abrirlo para continuarlo en caso de que lo consideres necesario.
 {{< figure width="700px" height="500px" src="/images/general/tik16.png" >}}
-5. También tienes disponible la casilla para continuar la comunicación. Para ello ingresa el nuevo mensaje y luego presiona ENVIAR.
+5. También tienes disponible la casilla para continuar la comunicación. Para ello ingresa el nuevo mensaje (el cual puede incluir imágenes y links en caso que lo consideres necesario) y luego presiona ENVIAR.
 {{< figure width="700px" height="500px" src="/images/general/tik17.png" >}}
