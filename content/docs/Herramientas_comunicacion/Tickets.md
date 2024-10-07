@@ -26,12 +26,14 @@ Para conocer los tickets asociados a tu cuenta de Botmeni:
 {{< figure width="700px" height="500px" src="/images/general/tik4.png" >}}
 7. Si deseas borrar los filtros seleccionados, presiona el botón LIMPIAR.
 {{< figure width="700px" height="500px" src="/images/general/tik5.png" >}}
+8. Al presionar sobre cualquiera de los tickets del listado, se abrirá una pantalla con el detalle completo del mismo, mostrando en primer lugar la pregunta cuya calificación lo generó, si ese fuera el caso, o el primer comentario que se ingresó al crear el ticket (para los tickets genéricos no asociados a una pregunta).
+{{< figure width="700px" height="500px" src="/images/general/tik18.png" >}}
 
 ### Crear un nuevo ticket no asociado a una pregunta
 Para crear un nuevo ticket genérico no asociado a una pregunta, una vez que estás visualizando el módulo:
 1. Presiona el botón NUEVO TICKET, ubicado debajo de la sección de filtros.
 {{< figure width="700px" height="500px" src="/images/general/tik6.png" >}}
-2. Ingresa en el recuadro disponible el mensaje que necesitas comunicarnos (consultas, sugerencias, etc.).
+2. Ingresa en el recuadro disponible el mensaje que necesitas comunicarnos (consultas, sugerencias, etc.). Puedes incluir imágenes o links si lo consideras conveniente.
 {{< figure width="700px" height="500px" src="/images/general/tik7.png" >}}
 3. Califica tu consulta seleccionando el círculo amarillo o rojo según lo consideres.
 {{< figure width="700px" height="500px" src="/images/general/tik8.png" >}}
