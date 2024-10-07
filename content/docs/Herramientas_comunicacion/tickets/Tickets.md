@@ -1,5 +1,5 @@
 ---
-weight: 1080
+weight: 1720
 title: "Tickets"
 description: "Comunícate con soporte y/o califica las respuestas"
 icon: "category"

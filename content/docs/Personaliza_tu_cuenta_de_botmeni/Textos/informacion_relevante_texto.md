@@ -21,7 +21,5 @@ Si deseas ingresar información sobre alguna de estas áreas:
 4. Posiciónate, presionando o haciendo clic sobre el texto sugerido, y modifícalo según consideres conveniente.
 {{< figure width="700px" height="500px" src="/images/general/texto9.png" >}}
 5. Al presionar fuera de la sección, automáticamente los cambios que realizaste quedarán guardados.
-6. Para agregar un nuevo texto, presiona el botón + ubicado al final de la sección.
-{{< figure width="700px" height="500px" src="/images/general/texto10.png" >}}
-7. Si deseas eliminar alguna de las opciones disponibles, presiona el ícono papelera ubicado a la derecha de la opción que deseas eliminar.
+6. Si deseas eliminar alguna de las opciones disponibles, presiona el ícono papelera ubicado a la derecha de la opción que deseas eliminar.
 {{< figure width="700px" height="500px" src="/images/general/texto11.png" >}}
