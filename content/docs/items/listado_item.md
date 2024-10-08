@@ -6,7 +6,7 @@ icon: "deployed_code"
 color: "primary"
 date: "2024-04-08T23:13:49-05:00"
 lastmod: "2024-04-08T23:13:49-05:00"
-draft: false
+draft: true
 toc: true
 ---
 Una gran herramienta para la gestión de tu tienda disponible en nuestra plataforma es el módulo Ítems, donde se encuentran detalladas todas las publicaciones asociadas a tu cuenta de Mercado Libre. 

@@ -19,7 +19,7 @@ Para visualizar el listado de notificaciones:
 {{< figure width="140px" height="100px" src="/images/general/notificacion1.png" >}}
 3. La primer sección del módulo contiene los filtros disponibles que se pueden aplicar en el listado. Al seleccionarlos, definirás las notificaciones que se visualizan en función de la o las características que selecciones en los mismos. 
 {{< figure width="700px" height="500px" src="/images/general/notificacion2.png" >}}
-4. Por ejemplo, si quisieras filtrar por la clase de notificación para visualizar sólo aquellas son de un tipo determinado, debes desplegar las opciones disponibles para el filtro Tipo y seleccionar el correspondiente.
+4. Por ejemplo, si quisieras filtrar por la clase de notificación para visualizar sólo aquellas que son de un tipo determinado, debes desplegar las opciones disponibles para el filtro Tipo y seleccionar el correspondiente.
 {{< figure width="700px" height="500px" src="/images/general/notificacion3.png" >}}
 6. Una vez definido el o los filtros que deseas aplicar, presiona el botón FILTRAR. Las notificaciones visibles en el listado serán aquellas que cumplen con todas las condiciones establecidas en los filtros.
 {{< figure width="700px" height="500px" src="/images/general/notificacion4.png" >}}

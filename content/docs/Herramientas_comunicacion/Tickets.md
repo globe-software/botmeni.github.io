@@ -9,7 +9,7 @@ lastmod: "2024-04-08T23:13:49-05:00"
 draft: false
 toc: true
 ---
-El ticket es uno de los mecanismos de comunicación que existen entre Botmeni y sus usuarios. Los mismos pueden crearse independientes de una pregunta, para comunicarnos una duda, consulta o comentario. O pueden surgir asociados a una calificación de una respuesta generada como Mejorable o Incorrecta, y que por lo tanto requiere de nuestra evaluación para aplicar las mejoras que correspondan.<br></br>
+El ticket es un importante mecanismo de comunicación que existe entre Botmeni y sus usuarios. Los mismos pueden crearse independientes de una pregunta, para comunicarnos una duda, consulta o sugerencia. O pueden generarse asociados a una calificación de una respuesta generada como Mejorable o Incorrecta, y que por lo tanto requiere de nuestra evaluación para aplicar las mejoras que correspondan.<br></br>
 El módulo tickets está disponible para aquellos usuarios que tengan asociados los roles Gestionar Tickets o Administrador.<br></br>
 En la sección Necesitas Ayuda detallamos nuestras otras vías de contacto.
 
@@ -63,7 +63,7 @@ Para visualizar o tomar acción sobre un ticket, luego de ingresar al módulo Ti
 Cuando un ticket haya sido contestado o gestionado por nuestro equipo, te llegará una notificación que puedes visualizar en la sección notificaciones de la plataforma.
 3. Al presionar sobre cualquiera de los tickets del listado, se abrirá una pantalla con el detalle completo del mismo, mostrando en primer lugar la pregunta cuya calificación lo generó, si ese fuera el caso, o el primer comentario que se ingresó al crear el ticket (para los tickets genéricos no asociados a una pregunta).
 {{< figure width="700px" height="500px" src="/images/general/tik18.png" >}}
-4. Si considerás que tu sugerencia o consulta ya fue resuelta puedes presionar el botón CERRAR TICKET. El mismo pasará a estado cerrado. Puedes seguir visualizándolo desde el listado e, incluso, volver a abrirlo para continuarlo en caso de que lo consideres necesario.
-{{< figure width="700px" height="500px" src="/images/general/tik16.png" >}}
-5. También tienes disponible la casilla para continuar la comunicación. Para ello ingresa el nuevo mensaje (el cual puede incluir imágenes y links en caso que lo consideres necesario) y luego presiona ENVIAR.
+4. Tienes disponible la casilla para continuar la comunicación. Para ello ingresa el nuevo mensaje (el cual puede incluir imágenes y links en caso que lo consideres necesario) y luego presiona ENVIAR.
 {{< figure width="700px" height="500px" src="/images/general/tik17.png" >}}
+5. Si considerás que tu sugerencia o consulta ya fue resuelta puedes presionar el botón CERRAR TICKET. El mismo pasará a estado cerrado. Puedes seguir visualizándolo desde el listado e, incluso, volver a abrirlo para continuarlo en caso de que lo consideres necesario.
+{{< figure width="700px" height="500px" src="/images/general/tik16.png" >}}
