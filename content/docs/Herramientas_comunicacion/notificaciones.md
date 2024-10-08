@@ -25,5 +25,5 @@ Para visualizar el listado de notificaciones:
 {{< figure width="700px" height="500px" src="/images/general/notificacion4.png" >}}
 7. Si deseas borrar los filtros seleccionados, presiona el botón LIMPIAR.
 {{< figure width="700px" height="500px" src="/images/general/notificacion5.png" >}}
-8. Al presionar sobre cualquiera de las notificaciones del listado, se abrirá la notificación. Por ejemplo, a continuación se muestra cómo se visualiza una notificación que se generó a partir del mail de aviso correspondiente a que se registró una pregunta pendiente.
+8. Al presionar sobre cualquiera de las notificaciones del listado, se abrirá la notificación. Por ejemplo, a continuación se muestra cómo se visualiza una notificación que se generó a partir del mail de aviso correspondiente a que se registró una nueva suscripción.
 {{< figure width="700px" height="500px" src="/images/general/notificacion6.png" >}}
