@@ -10,7 +10,7 @@ draft: false
 toc: true
 ---
 <br></br>
-El comportamiento de respuesta establecido para una categoría tiene prioridad por sobre el que esté seleccionado para la vertical de negocios a la que pertenece la categoría o para la tienda en general. 
+El comportamiento de respuesta establecido para una categoría tiene prioridad por sobre el que esté seleccionado para la vertical de negocios a la que pertenece la categoría y sobre el definido para la tienda en general. 
 
 Para establecer el comportamiento de respuesta para una categoría específica:
 1. Inicia sesión con un usuario con tipo de rol ADMINISTRADOR, en nuestra página de login <https://prod.botmeni.com/login>.

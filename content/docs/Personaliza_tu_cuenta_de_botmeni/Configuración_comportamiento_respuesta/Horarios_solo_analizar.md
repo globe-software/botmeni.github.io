@@ -18,7 +18,7 @@ Para personalizar los horarios:
 {{< figure width="140px" height="100px" src="/images/general/configuracion.png" >}}
 3. Posiciónate en la sección Horario
 {{< figure width="700px" height="500px" src="/images/general/horario1.png" >}}
-4. Selecciona los días para los que vas a establecer el horario en este primer grupo de configuración.
+4. Selecciona los días para los que vas a establecer el horario.
 {{< figure width="700px" height="500px" src="/images/general/horario2.png" >}}
 5. Presiona el botón Agregar Horario
 {{< figure width="700px" height="500px" src="/images/general/horario3.png" >}}
@@ -30,7 +30,7 @@ Para personalizar los horarios:
 {{< figure width="700px" height="500px" src="/images/general/horario6.png" >}}
 9. Una vez que has definido el o los días y las horas, debes seleccionar el comportamiento de respuesta deseado para el horario definido.
 {{< figure width="700px" height="500px" src="/images/general/horario10.png" >}}
-10. A su vez, puedas definir dentro de dicho horario comportamientos de respuesta específicos para preguntas o respuestas con características particulares. Esta configuración tendrá prioridad sobre el comportamiento definido para el horario en el paso anterior (paso 9).
+10. A su vez, puedas definir dentro de dicho horario comportamientos de respuesta específicos para preguntas o respuestas con características particulares. Esta configuración tendrá prioridad sobre el comportamiento definido para el horario en el paso anterior (paso 9), excepto que selecciones la opción APAGADO, según se explica en los siguientes pasos.
 {{< figure width="700px" height="500px" src="/images/general/horario11.png" >}}
 11. Para ello selecciona el tipo de comportamiento que debe aplicarse.
 {{< figure width="700px" height="500px" src="/images/general/horario21.png" >}}
@@ -74,7 +74,7 @@ Para establecer la respuesta automática fija, luego de que ya has configurado e
 4. A continuación, se muestra un ejemplo de una configuración de Respuesta automática fija.
 {{< figure width="700px" height="500px" src="/images/general/horario14.png" >}}
 <br></br>
-Esta configuración tendrá prioridad sobre el modo de respuesta establecido para el horario, y también sobre las configuraciones definidas en la sección Configuraciones Particulares, y para producto, categoría y vertical de negocio.
+Esta configuración tendrá prioridad sobre el modo de respuesta establecido en la sección Configuraciones Particulares, y para producto, categoría y vertical de negocio.
 
 ### Establecer respuesta automática fija por horario según características particulares de la pregunta o respuesta
 

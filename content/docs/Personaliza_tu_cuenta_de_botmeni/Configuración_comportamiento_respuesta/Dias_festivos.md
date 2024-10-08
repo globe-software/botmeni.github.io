@@ -47,8 +47,8 @@ Para establecer el comportamiento de respuesta para fechas específicas:
 ### Establecer respuesta automática fija para fechas específicas
 
 Dentro de nuestra plataforma es posible establecer una Respuesta automática fija que se enviará sólo para las fechas que definas.<br></br>
-La misma puede establecerse para todas las preguntas que ingresen en una franja horaria, o sólo para un tipo particular de pregunta o respuesta.<br></br>
-Para utilizar la Respuesta Automática fija en una fecha específica debes en primer lugar configurar el comportamiento general en Automático y las fechas, siguiendo los pasos 1 a 9 detallados en la sección anterior. A cotinuación:
+La misma puede establecerse para todas las preguntas que ingresen en las fechas seleccionadas, o sólo para un tipo particular de pregunta o respuesta.<br></br>
+Para utilizar la Respuesta Automática fija en una fecha específica debes en primer lugar configurar el comportamiento general en Automático y definir las fechas, siguiendo los pasos 1 a 9 detallados en la sección anterior. A continuación:
 1. Selecciona el check box: Ignorar configuración anterior y utilizar solo esta respuesta fija.
 {{< figure width="700px" height="500px" src="/images/general/nolaborables12.png" >}}
 2. En el campo Respuesta fija ingresa la respuesta que deseas que se envíe.

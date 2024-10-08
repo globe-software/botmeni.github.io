@@ -22,7 +22,7 @@ Para realizar preguntas de prueba:
 {{< figure width="140px" height="100px" src="/images/general/test.png" >}}
 3. En la parte superior de la pantalla tendrás disponible en primer lugar el recuadro donde ingresar el ID o URL de la publicación sobre la que deseas realizar la pregunta. Te explicamos cómo conocer dicho dato en la sección [Conocer el ID o la URL de una publicación](../Prueba_botmeni/ID_URL_del_producto.md).
 {{< figure width="840px" height="600px" src="/images/general/test2.png" >}}
-4. Otra forma de ingresar el ID o URL del ítem, es presionando la lupa ubicada a la derecha del campo.
+4. Otra forma de ingresar la publicación, es presionando la lupa ubicada a la derecha del campo.
 {{< figure width="840px" height="600px" src="/images/general/buscador_ìtems_prueba1.png" >}}
 5. Al presionar la lupa aparecerá el modal Busca un ítem. Ingresa el título de la publicación deseada. El buscador desplegará el listado de ítems de tu tienda que concuerdan con las palabras ingresadas. Selecciona el que corresponda.
 {{< figure width="840px" height="600px" src="/images/general/buscador_ìtems_prueba2.png" >}}
@@ -38,10 +38,11 @@ A continuación se describirá la información que puedes visualizar para cada p
 1. En la sección superior se detallan:
 {{< figure width="840px" height="600px" src="/images/general/test6.png" >}}
     1. Título de la publicación. Presionando sobre la misma se abrirá en una nueva ventada la publicación en Mercado Libre.
-    2. Usuario: detalla TEST dado que la pregunta se realizó desde la sección Test. 
-    3. Id: ID y URL de la publicación asociada a la pregunta. En caso de que corresponda también se mostrará el SKU y/o el GTIN asociado a la publicación.
+    2. Información sobre la publicación: Precio, stock y estado. 
+    3. Id: id ítem corresponde al id de la publicación asociada a la pregunta (en caso de que corresponda también se mostrará el SKU y/o el GTIN) y debajo el ID de la pregunta.
     4. Estado: Hace referencia al estado de la pregunta. Los estados posibles son: Procesada, No procesada, Recibida, Eliminada y Error.
-    5. Subestado: Cada pregunta tiene un subestado. En el subestado se detalla, por ejemplo, si la respuesta se envió en modo Automático o fue generada la respuesta y quedó pendiente para revisión y envío manual. Además, brinda información relacionada a cuál fue la configuración establecida para tu tienda que derivó en que la respuesta se enviara en modo Manual (por ejemplo, Manual por horario, Manual por stock, etc)
+    5. Subestado: Cada pregunta tiene un subestado. En el caso de la imagen, el subestado señala que la respuesta fue procesada y hubiera quedado pendiente para que la revises y envías a Mercado Libre (manual) dado que así estaba definido el comportamiento para las preguntas relacionadas con stock.
+    6. Indica la configuración que definió el comportamiento de respuesta. Por ejemplo, para el caso de la imagen, La respuesta quedó con estado Procesada y Subestado Manual por stock (es decir, se generó la respuesta pero no se enviará en forma automática), dado que la tienda tiene definido ese comportamiento en la sección Configuraciones Particulares, para las preguntas relacionadas con stock
 2. En la sección central se visualiza la pregunta de prueba ingresada, con su fecha y hora, y la respuesta generada por nuestro modelo, con la fecha y hora en que fue generada, si el comportamiento de respuesta está configurado para que la misma se genere.
 {{< figure width="840px" height="600px" src="/images/general/test7.png" >}}
 3.  A continuación tienes la posibilidad de calificar la calidad de nuestra respuesta presionando los círculos de color verde, amarillo y rojo en función de tu evaluación: Respuesta excelente, Respuesta mejorable y Respuesta incorrecta. Y en el espacio Calificación puedes ingresar un comentario asociado a la calificación que acabas de realizar, que nos ayudará a implementar las mejoras que sean necesarias.

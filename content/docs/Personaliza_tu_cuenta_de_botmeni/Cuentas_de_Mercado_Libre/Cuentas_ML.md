@@ -34,7 +34,7 @@ Si la nueva cuenta recién asociada no figura en la pantalla de Botmeni, presion
 Si deseas vincular más cuentas (y no has llegado al límite de cantidad de cuentas de Mercado Libre que puedes vincular según el plan contratado) presiona nuevamente AGREGAR y repite los pasos recién detallados. Todas las cuentas de Mercado Libre vinculadas a una cuenta de Botmeni deben pertenecer al mismo país. <br></br>
 Si al completar los pasos la plataforma te devuelve un mensaje de error referido a que la cuenta ya está asociada, y esto no es así, ingresa a Mercado Libre y cierra sesión presionando SALIR. A continuación realiza nuevamente los pasos para ASOCIAR la cuenta. <br></br>
 Otra opción para ASOCIAR la nueva cuenta si el sistema te devuelve el mensaje de error referido a que la cuenta ya está asociada, y no es así, es abrir el navegador en modo incógnito, y a continuación repetir todos los pasos recién detallados.<br></br>
-Recuerda que también puedes contactarte con nosotros, estamos disponibles para ayudarte en lo que necesites.
+Recuerda que también puedes [contactarte con nosotros](../../Ayuda.md), estamos disponibles para ayudarte en lo que necesites. 
 
 ### Desvincular una cuenta de Mercado Libre
 Si necesitas desvincular una cuenta de Mercado Libre de tu cuenta de Botmeni:

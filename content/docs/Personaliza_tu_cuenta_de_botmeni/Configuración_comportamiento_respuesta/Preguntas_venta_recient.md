@@ -10,12 +10,12 @@ draft: false
 toc: true
 ---
 
-Botmeni te brinda la posibilidad de personalizar el comportamiento de respuesta para las preguntas que se realizan los 7 días posteriores a una venta.
+Botmeni te brinda la posibilidad de personalizar el comportamiento de respuesta para las preguntas que se realizan sobre un ítem los 7 días posteriores a una venta.
 Existen cuatro opciones de comportamiento que puedes definir:
 - Apagado: no se personaliza el comportamiento para las preguntas asociadas a una venta reciente, se procesarán según la configuración que esté definida. 
 - Manual con respuesta: Botmeni generará la respuesta y quedará pendiente para que tu la revises y la envíes (si la configuración de producto, categoría o vertical que le corresponde está definida en modo Automático o Solo analizar)
-- Manual sin respuesta: Botmeni no generará ni enviará respuesta al detectar que se trata de una pregunta de stock.
-- Respuesta fija: se enviará como respuesta automática el mensaje definido por el usuario en el campo respuesta fija, si el comportamiento definido es Automático..
+- Manual sin respuesta: Botmeni no generará ni enviará respuesta al detectar que se trata de una pregunta de stock (si la configuración de producto, categoría o vertical que le corresponde está definida en modo Automático o Solo analizar).
+- Respuesta fija: se enviará como respuesta automática el mensaje definido por el usuario en el campo respuesta fija (si la configuración de producto, categoría o vertical que le corresponde está definida en modo Automático).
 <br></br>
 Para configurar el comportamiento para preguntas que el usuario realiza los 7 días posteriores a su compra:
 1. Inicia sesión con un usuario con tipo de rol ADMINISTRADOR, en nuestra página de login <https://prod.botmeni.com/login>.

@@ -16,6 +16,8 @@ Si deseas conocer cuántas preguntas quedan disponibles para procesar de tu plan
 2. En la esquina superior derecha visualizarás la cantidad de preguntas que ya fueron procesadas y el total que tienes contratado para el periodo mensual vigente.
 {{< figure width="700px" height="500px" src="/images/general/preguntas_procesadas.png" >}}
 
+El dato de cantidad de preguntas procesadas también está detallado en el módulo [Estadísticas](../../Estadisticas/estadisticas.md).
+
 
 
 

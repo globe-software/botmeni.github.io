@@ -19,7 +19,7 @@ Para conocer el precio de tu plan para una cantidad de preguntas distinta de la 
 3. El plan contratado está resaltado con la leyenda: Plan actual. Podrás conocer el precio asociado a distintas cantidades de preguntas seleccionando las opciones disponibles en el recuadro Cantidad de preguntas.
 {{< figure width="700px" height="500px" src="/images/general/cotizar_preguntas.png" >}}
 <br></br>
-Si deseas consultar por una cantidad superior de preguntas de las detalladas en el listado, selecciona la opción "Por planes más grandes, haga click aquí". Se desplegará un formulario donde podrás enviarnos tu consulta. 
+Si deseas consultar por una cantidad superior de preguntas de las detalladas en el listado, selecciona la opción "Por planes más grandes, click aquí". Se desplegará un formulario donde podrás enviarnos tu consulta. 
 {{< figure width="700px" height="500px" src="/images/general/cotizar_preguntas2.png" >}}
 <br></br>
 

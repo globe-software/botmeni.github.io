@@ -1,7 +1,7 @@
 ---
 weight: 430
-title: "Descargar recibo"
-description: "Descargar recibo"
+title: "Descargar recibo de tu suscripción activa"
+description: "Descargar recibo de tu suscripción activa"
 icon: "inventory_2"
 color: "primary"
 date: "2024-04-08T23:13:49-05:00"
@@ -19,4 +19,5 @@ Para descargar tu recibo:
 {{< figure width="700px" height="500px" src="/images/general/factura.png" >}} 
 4. Haz clic en el botón Descargar Recibo
 {{< figure width="420px" height="300px" src="/images/general/recibo.png" >}} 
+<br></br>
 
