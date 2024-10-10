@@ -24,6 +24,6 @@ Para agregar información adicional a tu publicación de Mercado Libre:
 {{< figure width="700px" height="500px" src="/images/general/item11.png" >}}
 5. Ingrese la información deseada en el recuadro Información Adicional
 {{< figure width="700px" height="500px" src="/images/general/item12.png" >}}
-6. Para que la información quede guardada asociada a la publicación, presione GUARDAR.
+6. Para que la información ingresada quede guardada, presione GUARDAR.
 {{< figure width="700px" height="500px" src="/images/general/item13.png" >}}
 
