@@ -11,7 +11,7 @@ toc: true
 ---
 El ticket es un importante mecanismo de comunicación que existe entre Botmeni y sus usuarios. Los mismos pueden crearse independientes de una pregunta, para comunicarnos una duda, consulta o sugerencia. O pueden generarse asociados a una calificación de una respuesta generada como Mejorable o Incorrecta, y que por lo tanto requiere de nuestra evaluación para aplicar las mejoras que correspondan.<br></br>
 El módulo tickets está disponible para aquellos usuarios que tengan asociados los roles Gestionar Tickets o Administrador.<br></br>
-En la sección Necesitas Ayuda detallamos nuestras otras vías de contacto.
+En la sección [Necesitas Ayuda](../Ayuda.md) encontrarás otras vías de contacto.
 
 ### Visualizar los Tickets 
 Para conocer los tickets asociados a tu cuenta de Botmeni:
