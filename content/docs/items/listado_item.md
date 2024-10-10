@@ -36,7 +36,7 @@ Para visualizar el listado de publicaciones:
 {{< figure width="700px" height="500px" src="/images/general/item14.png" >}}
 10. Al presionar sobre el título de cualquiera de las publicaciones del listado, se desplegará en una nueva pestaña la publicación en Mercado Libre.
 {{< figure width="700px" height="500px" src="/images/general/item8.png" >}}
-11. Al presionar sobre cualquiera de las publicaciones del listado (excepto sobre el título de la misma), se desplegará el detalle de la publicación.
+11. Al presionar sobre un ítem (excepto sobre el título de publicación), se desplegará el detalle completo que figura en la publicación de ML.
 {{< figure width="700px" height="500px" src="/images/general/item9.png" >}}
 
 

@@ -9,8 +9,8 @@ lastmod: "2024-04-08T23:13:49-05:00"
 draft: false
 toc: true
 ---
-Con el objetivo de contar con toda la información necesaria para lograr una óptima respuesta a tu cliente, sin que se sature de datos la publicación de Mercado Libre, dentro del módulo Ítems, incorporamos dentro de la visualización de cada publicación la sección Información adicional.
-En dicha sección podrás agregar toda la información asociada a la publicación que consideres se debe tener en cuenta al momento de responder las preguntas. La información de la sección Información adicional quedará en nuestra plataforma, y no será visible en la publicación de Mercado Libre.
+Con el objetivo de contar con toda la información necesaria para poder generar las mejores respuestas para tus clientes, sin que se sature de datos la publicación de Mercado Libre, dentro del módulo Ítems incorporamos para cada publicación la sección Información adicional.<br></br>
+En dicha sección podrás agregar toda la información asociada a la publicación que consideres se debe tener en cuenta al momento de responder las preguntas. La información de la sección Información adicional quedará en nuestra plataforma, y no será visible en la publicación de Mercado Libre.<br></br>
 
 ### Agregar Información Adicional
 
