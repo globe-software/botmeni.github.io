@@ -6,7 +6,7 @@ icon: "pie_chart"
 color: "primary"
 date: "2024-04-08T23:13:49-05:00"
 lastmod: "2024-04-08T23:13:49-05:00"
-draft: true
+draft: false
 toc: true
 ---
 En el módulo Estadísticas de nuestra plataforma encontrarás información detallada del comportamiento de las preguntas y órdenes de tu tienda. Contar con dicha información permite, por ejemplo, facilitar la detección de áreas de mejora que ayuden incrementar las ventas. En ese sentido, un tiempo de respuesta rápido mejora la experiencia del cliente y aumenta la probabilidad de compra. Al analizar el tiempo promedio de respuesta, diferenciándolo por días y horarios, puedes identificar segmentos donde establecer nuevas configuraciones que te permitan acortar los tiempos de respuesta.
