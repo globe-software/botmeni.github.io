@@ -9,13 +9,13 @@ lastmod: "2024-04-08T23:13:49-05:00"
 draft: false
 toc: true
 ---
-En el módulo Estadísticas de nuestra plataforma encontrarás información detallada del comportamiento de las preguntas y órdenes de tu tienda. Contar con dicha información permite, por ejemplo, facilitar la detección de áreas de mejora que ayuden incrementar las ventas. En ese sentido, un tiempo de respuesta rápido mejora la experiencia del cliente y aumenta la probabilidad de compra. Al analizar el tiempo promedio de respuesta, diferenciándolo por días y horarios, puedes identificar segmentos donde establecer nuevas configuraciones que te permitan acortar los tiempos de respuesta.
+En el módulo Estadísticas de nuestra plataforma encontrarás información detallada relacionada con el comportamiento de las preguntas y respuestas realizadas sobre tus publicaciones, y también referida a las órdenes que ingresan en tu tienda. Contar con dicha información ayuda a conocer cómo tus clientes se relacionan con la tienda, facilitando por ejemplo la detección de áreas de mejora que ayuden incrementar las ventas. En ese sentido, un tiempo de respuesta rápido mejora la experiencia del cliente y aumenta la probabilidad de compra. Al analizar el tiempo promedio de respuesta, diferenciándolo por días y horarios, puedes identificar segmentos donde establecer nuevas configuraciones que te permitan acortar los tiempos de respuesta.<br></br>
 Para visualizar el módulo estadísticas:
 1. Inicia sesión en nuestra página <https://prod.botmeni.com/login> con un usuario con rol administrador.
 2. Selecciona el módulo Estadísticas en el menú.
 {{< figure width="140px" height="100px" src="/images/general/estadistica1.png" >}}
-3. Despliega el primer filtro y selecciona el periodo a aplicar
-{{< figure width="700px" height="500px" src="/images/general/estadistica3.png" >}}
+3. Despliega el primer filtro y selecciona el periodo a analizar
+{{< figure width="140px" height="100px" src="/images/general/estadistica3.png" >}}
 4. En caso de tener más de una cuenta de Mercado Libre vinculada a Botmeni, selecciona si quieres visualizar la información global de todas tus cuentas de Mercado Libre (todas), o para una cuenta en particular.
 {{< figure width="700px" height="500px" src="/images/general/estadistica4.png" >}}
 5. A continuación se presentan los 3 gráficos generales asociados al comportamiento de respuesta para las preguntas ingresadas en el periodo y para la cuenta o cuentas seleccionados en los filtros. El primer gráfico muestra la distribución general del total de preguntas ingresadas. El segúndo gráfico informa la distribución de las preguntas procesadas según el comportamiento de respuesta de las mismas. Finalmente, el tercer gráfico detalla las preguntas que no fueron procesadas por la plataforma, y la razón por la que no se procesaron (por ej, estaba configurado dicho comportamiento para preguntas asociadas a ventas recientes)
