@@ -32,7 +32,7 @@ Para visualizar el módulo estadísticas:
  {{< figure width="700px" height="500px" src="/images/general/estadistica10.png" >}}
  11. En la sección Órdenes en franjas horarias, puede verse la distribución horaria de las órdenes ingresadas en el periodo seleccionado, diferenciadas en función de si las mismas tuvieron o no una pregunta previa. 
  {{< figure width="700px" height="500px" src="/images/general/estadistica11.png" >}}
- 12. El gráfico Órdenes por día detalla las órdenes ingresadas por día, para el periodo y cuenta de ML seleccionados en los filtros superiores, diferenciándolas en 3 curvas: las cantidad de órdenes totales (total), las órdenes que tuvieron una pregunta previa (Con pregunta), y las órdenes donde la pregunta se contestó de forma automática (Resp. automática).
+ 12. El gráfico Órdenes por día detalla las órdenes ingresadas por día, para el periodo y cuenta de ML seleccionados en los filtros superiores, diferenciándolas en 3 curvas: la cantidad de órdenes totales (total), las órdenes que tuvieron una pregunta previa (Con pregunta), y las órdenes donde la pregunta previa se contestó de forma automática (Resp. automática).
  {{< figure width="700px" height="500px" src="/images/general/estadistica12.png" >}}
  13. Las órdenes pueden visualizarse por CANTIDAD o MONTO, seleccionando en el gráfico la opción deseada. Si se selecciona MONTO, puede señalarse si el valor se expresa en la moneda local de la tienda o en dólares estadounidenses.
  {{< figure width="700px" height="500px" src="/images/general/estadistica13.png" >}}
