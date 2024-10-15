@@ -77,7 +77,7 @@ Los datos ingresados en este momento pueden actualizarse desde la sección LOCAL
 ### Listo!
 
 ¡Este es el paso final! <br>
-Selecciona cómo desdeas que Botmeni comience gestionar las preguntas de las cuentas vinculadas de Mercado Libre, presionanado sobre el botón RESPONDER AUTOMÁTICO o el botón SOLO ANALIZAR.
+Selecciona cómo desdeas que Botmeni comience gestionar las preguntas de las cuentas vinculadas de Mercado Libre, presionando sobre el botón RESPONDER AUTOMÁTICO o el botón SOLO ANALIZAR.
 <br>
     {{< figure width="700px" height="500px" src="/images/general/onboarding_3_12.png" >}}
 Si seleccionas Responder Automático, las preguntas que los clientes realicen en las publicaciones de Mercado libre ingresarán a Botmeni, se procesarán y se enviarán automáticamente a Mercado Libre (si nuestra plataforma evalúa que la calidad de la respuesta es adecuada). La respuesta se genera teniendo en cuenta la información que has registrado en tu cuenta de Botmeni y la que está detallada en la publicación de Mercado Libre.<br>
