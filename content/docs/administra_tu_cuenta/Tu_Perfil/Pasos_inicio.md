@@ -30,7 +30,7 @@ Para comenzar con la prueba gratuita de 15 días:
 {{< figure width="560px" height="400px" src="/images/general/inicio7.png" >}}
 7. Se desplegará un formulario de registro, para crear tu usuario principal de Botmeni. 
 {{< figure width="560px" height="400px" src="/images/general/inicio8.png" >}}
-8. Ingresa los datos requeridos, confirma que has leído los Términos y condiciones de uso, y presiona CREAR CUENTA para finalizar la carga del formulario. Puedes conocer el paso a paso detallado para completar el formulario en la sección [Registrar una cuenta](../Tu_Perfil/registrar_cuenta.md).
+8. Ingresa los datos requeridos, confirma que aceptas los Términos y condiciones de uso, y presiona CREAR CUENTA para finalizar la carga del formulario. Puedes conocer el paso a paso detallado para completar el formulario en la sección [Registrar una cuenta](../Tu_Perfil/registrar_cuenta.md).
 {{< figure width="560px" height="400px" src="/images/general/inicio9.png" >}}
 8. Una vez completado  el formulario y confirmado tu correo electrónico, ya puedes [Iniciar sesión](../Tu_Perfil/Iniciar_sesión.md) en la página <https://prod.botmeni.com/login> con el usuario recién creado.
 {{< figure width="560px" height="400px" src="/images/general/iniciosesion1.png" >}}
