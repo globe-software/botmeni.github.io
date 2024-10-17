@@ -10,7 +10,7 @@ draft: false
 toc: true
 ---
 <br></br>
-Para crear la cuenta de Botmeni, debes completar el formulario de registro, que nos permite crear el usuario principal de la cuenta.<br></br>
+Para crear la cuenta de Botmeni, debes completar el formulario de registro, con el que se creará el usuario principal de la cuenta.<br></br>
 Puedes ingresar al formulario desde el siguiente link: <https://prod.botmeni.com/suscripciones/register>.<br></br>
 También accedes al  mismo desde la sección PRECIOS de nuestro sitio web <https://botmeni.com>, al presionar CONTRATAR luego de seleccionar país y cantidad de preguntas al que deseas suscribirte para tu prueba gratis. <br></br>
 Luego de visualizar el formulario:
