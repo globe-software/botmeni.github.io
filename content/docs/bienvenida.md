@@ -23,7 +23,7 @@ Esta guía te ayudará a aprovechar al máximo nuestra plataforma, obteniendo re
 - **Personaliza tu cuenta**: Comprende cómo establecer la configuración del bot para que las respuestas se ajusten exactamente a lo que tu negocio requiere.
 - **Preguntas de Mercado Libre:** Descubre las distintas secciones que tiene la plataforma que te permitirán responder fácilmente las preguntas pendientes y visualizar el registro histórico de consultas.
 - **Prueba a Botmeni:** Te explicamos cómo hacer preguntas de prueba como si lo hicieran tus clientes, para conocer el modo en que responderá y así hacer los ajustes que creas necesarios.
--**Estadísticas**: obtén información detallada sobre el comportamiento de las preguntas y órdenes que ingresan a tu tienda, que te permitirán identificar, por ejemplo, posibles áres de mejora. 
+- **Estadísticas**: obtén información detallada sobre el comportamiento de las preguntas y órdenes que ingresan a tu tienda, y utilízalos, por ejemplo, para identificar potenciales áreas de mejora. 
 - **Herramientas de comunicación**: conoce cómo gestionar tus sugerencias, dudas o inquietudes, y siempre estar al tanto de las novedades de la plataforma.
 
 ### ¿Necesitas ayuda?
