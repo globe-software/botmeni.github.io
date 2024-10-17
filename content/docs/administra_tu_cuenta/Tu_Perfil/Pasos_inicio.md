@@ -11,7 +11,7 @@ toc: true
 ---
 <br></br>
 ¡Bienvenido a Botmeni!
-A continuación te contaremos los sencillos pasos que debes seguir para comenzar a disfrutar de todos los beneficios que nuestra plataforma tiene para sumar a tu tienda. <br></br>
+A continuación te contaremos los sencillos pasos que debes seguir para comenzar a disfrutar de todos los beneficios que nuestra plataforma tiene para aportar a tu tienda. <br></br>
 Para comenzar con la prueba gratuita de 15 días:
 1. Visita nuestra página web <https://botmeni.com>:
 {{< figure width="560px" height="400px" src="/images/general/inicio0.png" >}}
