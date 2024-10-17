@@ -36,5 +36,5 @@ Para comenzar con la prueba gratuita de 15 días:
 {{< figure width="560px" height="400px" src="/images/general/iniciosesion1.png" >}}
 11. La plataforma te llevará a la sección Suscripciones, donde podrás finalizar el proceso de suscripción. Si tienes alguna duda, puedes ver el detalle completo con el paso a paso en la sección [Contratar un plan por primera vez](../Tu_Perfil/Contratar_primer_plan.md).  
 {{< figure width="560px" height="400px" src="/images/general/inicio11.png" >}}
-12. Finalizada la suscripción, la plataforma te guiará para que realices los 6 sencillos pasos de la [Configuración inicial - Onboarding](../Tu_Perfil/Onboarding.md), y tu tienda de Mercado libre quedará vinculada a nuestra plataforma. 
+12. Finalizada la suscripción, la plataforma te guiará para que realices los 6 sencillos pasos de la [Configuración inicial - Onboarding](../Tu_Perfil/Onboarding.md), y ¡tu tienda de Mercado libre quedará vinculada a nuestra plataforma! 
 {{< figure width="700px" height="500px" src="/images/general/onboarding_1.png" >}}
