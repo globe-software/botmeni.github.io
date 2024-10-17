@@ -16,7 +16,7 @@ También accedes al  mismo desde la sección PRECIOS de nuestro sitio web <https
 Luego de visualizar el formulario:
 1. Completa los datos requeridos. Ten en cuenta que el Tipo y número de documento a ingresar corresponden al documento de identificación fiscal de tu negocio (por ej, el RUT en Uruguay, el CNPJ en Brasil o el NIT en Colombia).
 {{< figure width="560px" height="400px" src="/images/general/registro1.png" >}}
-2. Si estás de acuerdo, marca la casilla He leído los términos y condiciones. Para visualizar los Términos y condiciones presiona la leyenda Términos y condiciones (ubicada en el formulario debajo de la casilla), o ingresan a <https://botmeni.com/terminos-y-condiciones/index.html>.
+2. Si estás de acuerdo, marca la casilla He leído los términos y condiciones. Para visualizar los Términos y condiciones presiona la leyenda Términos y condiciones (ubicada en el formulario debajo de la casilla), o ingresa a <https://botmeni.com/terminos-y-condiciones/index.html>.
 {{< figure width="560px" height="400px" src="/images/general/registro2.png" >}}
 3. Presiona el botón CREAR CUENTA. Te aparecerá un mensaje confirmando que tu cuenta fue creada correctamente.
 {{< figure width="560px" height="400px" src="/images/general/registro3.png" >}}

@@ -11,7 +11,7 @@ toc: true
 ---
 <br></br>
 ¡Bienvenido a Botmeni!
-A continuación te contaremos los sencillos pasos que debes seguir para comenzar a disfrutar de todos los beneficios que nuestra plataforma tiene para aportar a tu tienda. <br></br>
+A continuación te contaremos los sencillos pasos que debes seguir para comenzar a disfrutar de todos los beneficios que nuestra plataforma tiene para sumar a tu tienda. <br></br>
 Para comenzar con la prueba gratuita de 15 días:
 1. Visita nuestra página web <https://botmeni.com>:
 {{< figure width="560px" height="400px" src="/images/general/inicio0.png" >}}
@@ -30,11 +30,11 @@ Para comenzar con la prueba gratuita de 15 días:
 {{< figure width="560px" height="400px" src="/images/general/inicio7.png" >}}
 7. Se desplegará un formulario de registro, para crear tu usuario principal de Botmeni. 
 {{< figure width="560px" height="400px" src="/images/general/inicio8.png" >}}
-8. Ingresa los datos requeridos, confirma que has leído los términos y condiciones de uso, y presiona CREAR CUENTA para finalizar la carga del formulario. Puedes conocer el paso a paso detallado para completar el formulario en la sección [Registrar una cuenta](../Tu_Perfil/registrar_cuenta.md).
+8. Ingresa los datos requeridos, confirma que has leído los Términos y condiciones de uso, y presiona CREAR CUENTA para finalizar la carga del formulario. Puedes conocer el paso a paso detallado para completar el formulario en la sección [Registrar una cuenta](../Tu_Perfil/registrar_cuenta.md).
 {{< figure width="560px" height="400px" src="/images/general/inicio9.png" >}}
 8. Una vez completado  el formulario y confirmado tu correo electrónico, ya puedes [Iniciar sesión](../Tu_Perfil/Iniciar_sesión.md) en la página <https://prod.botmeni.com/login> con el usuario recién creado.
 {{< figure width="560px" height="400px" src="/images/general/iniciosesion1.png" >}}
-9. La plataforma te llevará a la sección Suscripciones, donde podrás finalizar el proceso de suscripción. Si tienes alguna duda, puedes ver el detalle ompleto en la sección [Contratar un plan por primera vez](../Tu_Perfil/Contratar_primer_plan.md).  
+9. La plataforma te llevará a la sección Suscripciones, donde podrás finalizar el proceso de suscripción. Si tienes alguna duda, puedes ver el detalle completo con el paso a paso en la sección [Contratar un plan por primera vez](../Tu_Perfil/Contratar_primer_plan.md).  
 {{< figure width="560px" height="400px" src="/images/general/inicio10.png" >}}
-10. Finalizada la suscripción, solo falta que completes los 6 sencillos pasos de la [Configuración inicial - Onboarding](../Tu_Perfil/Onboarding.md), y tu tienda de Mercado libre quedará vinculada a nuestra plataforma. 
+10. Finalizada la suscripción, la plataforma te guiará para que realices los 6 sencillos pasos de la [Configuración inicial - Onboarding](../Tu_Perfil/Onboarding.md), y tu tienda de Mercado libre quedará vinculada a nuestra plataforma. 
 {{< figure width="700px" height="500px" src="/images/general/onboarding_1.png" >}}
