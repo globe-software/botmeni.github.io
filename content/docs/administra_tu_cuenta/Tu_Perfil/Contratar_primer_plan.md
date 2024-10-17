@@ -13,13 +13,14 @@ toc: true
 Para contratar un plan por primera vez, luego de registrar tu cuenta:
 
 1. Inicia Sesión con el usuario principal de la cuenta desde <https://prod.botmeni.com/login>. 
-2. Si aún no tienes un plan contratado, se abrirá una pantalla con la descripción de los planes disponibles.
+2. Si aún no tienes un plan y cantidad de preguntas seleccionados, al iniciar sesión se abrirá una pantalla con la descripción de los planes disponibles. Si ya habías seleccionaste el plan y la cantidad de preguntas al momento de suscribirte, directamente llegarás a la pantalla de contratación (paso 4 de esta sección) 
 {{< figure width="700px" height="500px" src="/images/general/registrarme_1.png" >}}
 3. Selecciona la cantidad de preguntas que deseas contratar. Al hacerlo se detallará en cada plan el precio correspondiente.
 {{< figure width="700px" height="500px" src="/images/general/cotizar_preguntas.png" >}}
 3. Presiona CONTRATAR en el plan al que deseas adherirte. 
 {{< figure width="700px" height="500px" src="/images/general/registrarme_contratar.png" >}}
 4. Se presentará la pantalla de contratación. En la misma estarán detallados en la parte superior los beneficios y funciones del plan que has seleccionado.
+{{< figure width="630px" height="450px" src="/images/general/inicio11.png" >}}
 5. Si cuentas con un cupón de descuento, ingrésalo en el campo Cupón de descuento y presiona APLICAR.
 {{< figure width="630px" height="450px" src="/images/general/cupon_botmeni.png" >}}
 6. Ingresa los datos de la tarjeta que vincularás a la suscripción (número de tarjeta, fecha de vencimiento, código de seguridad CVC y país de emisión) y presiona AGREGAR TARJETA.
