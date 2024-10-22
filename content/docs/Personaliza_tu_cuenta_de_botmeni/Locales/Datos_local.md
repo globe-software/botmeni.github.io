@@ -23,6 +23,10 @@ Para especificar los datos de un Local:
 {{< figure width="700px" height="500px" src="/images/general/locales_1.png" >}}
 2. A continuación, responde Si o No según corresponda para ampliar la información relacionada con las características de atención al cliente y retiro de productos del local.
 {{< figure width="700px" height="500px" src="/images/general/locales_2.png" >}}
+¿Se pueden probar los productos?: se utiliza usualmente para distinguir aquellos locales donde solo pueden verse los productos (por ej, existe un showroom y los productos están exhibidos allí) de otros donde además de verse los mismos pueden probarse.<br></br>
+¿Se pueden ver los productos?: los productos están exhibidos en el local.<br></br>
+¿Tiene atención presencial?: hace referencia a que el local cuenta con personal para atención al público (podría ser para preventa o posventa)<br></br>
+¿Es pickup?: si el local ofrece retiros, el campo debe estar seleccionado en SI.<br></br>
 3. Ubica en el mapa dónde se encuentra el local. Con los signos + y -, que se muestran a la izquierda del mapa, puedes acercarte o alejarte para que te sea más sencillo encontrar la ciudad donde el local está instalado. Una vez que visualices la ciudad que deseas, para llevar el ícono del local hasta la posición deseada presiónalo, y manteniéndolo presionado muévelo hasta la ubicación correcta.
 {{< figure width="700px" height="500px" src="/images/general/locales_3.png" >}}
 4. Una vez que has terminado de ingresar la información, presiona el botón GUARDAR.
