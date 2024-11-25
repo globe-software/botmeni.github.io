@@ -16,9 +16,9 @@ Para contratar un plan por primera vez, luego de registrar tu cuenta:
 2. Si aún no tienes un plan y cantidad de preguntas seleccionados, al iniciar sesión se abrirá una pantalla con la descripción de los planes disponibles. Si ya habías seleccionaste el plan y la cantidad de preguntas al momento de suscribirte, directamente llegarás a la pantalla de contratación (paso 4 de esta sección) 
 {{< figure width="700px" height="500px" src="/images/general/contratar_plan4.png" >}}
 3. Selecciona la cantidad de preguntas en el campo Cantidad de preguntas. 
-{{< figure width="560px" height="400px" src="/images/general/inicio5.png" >}}
+{{< figure width="560px" height="400px" src="/images/general/12.png" >}}
 4. Si necesitas que te ayudemos para conocer la cantidad de preguntas de tu cuenta en Mercado libre en los últimos meses, presiona el recuadro ¿Cuántas preguntas necesito?
-{{< figure width="560px" height="400px" src="/images/general/cuantaspreguntas1.png" >}}
+{{< figure width="560px" height="400px" src="/images/general/cuantaspreguntas3.png" >}}
 5. Ingresa tu email, el nickname de la o las cuentas de Mercado Libre sobre las que deseas consultar, y escribe tu consulta en el recuadro Aclaraciones. Luego presiona ENVIAR. Nuestro equipo de soporte enviará la información a tu correo electrónico.
 {{< figure width="560px" height="400px" src="/images/general/cuantaspreguntas2.png" >}}
 6. Para consultar por una cantidad de preguntas mayor a las detalladas en el listado, presiona sobre la leyenda Por planes más grandes, click aquí. 
