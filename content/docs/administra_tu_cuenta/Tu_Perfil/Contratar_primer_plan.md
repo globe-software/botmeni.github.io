@@ -26,15 +26,17 @@ Para contratar un plan por primera vez, luego de registrar tu cuenta:
 7. Ingresa los campos del formulario y presiona ENVIAR. Nuestro equipo de ventas se contactará para brindarte el asesoramiento que necesites.
 {{< figure width="560px" height="400px" src="/images/general/preguntasmasgrandes1.png" >}}
 
-8. Cuando hayas seleccionado la cantidad de preguntas, presiona el botón SELECCIONAR en el plan al que deseas adherirte. 
+8. Una vez elegidos el país y la cantidad de preguntas, se detallará el precio correspondiente en cada uno de los planes disponibles. Puedes modificar la cantidad de preguntas para conocer los precios para cada combinación de cantidad de preguntas y tipo de plan, y así identificar aquella que se ajusta mejor a las necesidades de tu tienda. 
+{{< figure width="560px" height="400px" src="/images/general/inicio6.png" >}}
+9. Cuando hayas definido la cantidad de preguntas, presiona el botón SELECCIONAR en el plan al que deseas adherirte. 
 {{< figure width="560px" height="400px" src="/images/general/inicio7.png" >}}
-9. Se presentará la pantalla de contratación. En la misma estarán detallados en la parte superior los beneficios y funciones del plan que has seleccionado.
+10. Se presentará la pantalla de contratación. En la misma estarán detallados en la parte superior los beneficios y funciones del plan que has seleccionado.
 {{< figure width="630px" height="450px" src="/images/general/inicio11.png" >}}
-10. Si cuentas con un cupón de descuento, ingrésalo en el campo Cupón de descuento y presiona APLICAR.
+11. Si cuentas con un cupón de descuento, ingrésalo en el campo Cupón de descuento y presiona APLICAR.
 {{< figure width="630px" height="450px" src="/images/general/cupon_botmeni.png" >}}
-11. Ingresa los datos de la tarjeta que vincularás a la suscripción (número de tarjeta, fecha de vencimiento, código de seguridad CVC y país de emisión) y presiona AGREGAR TARJETA.
+12. Ingresa los datos de la tarjeta que vincularás a la suscripción (número de tarjeta, fecha de vencimiento, código de seguridad CVC y país de emisión) y presiona AGREGAR TARJETA.
 {{< figure width="630px" height="450px" src="/images/general/agregar_tarjeta_primer_plan.png" >}}
-12. Haz clic en CONFIRMAR para crear la suscripción. Se desplegará un mensaje de confirmación de Suscripción Completada.
+13. Haz clic en CONFIRMAR para crear la suscripción. Se desplegará un mensaje de confirmación de Suscripción Completada.
 {{< figure width="630px" height="450px" src="/images/general/registrarme_confirmar_tarjeta.png" >}}
 ¡Los primeros 15 días son gratis!. Por lo tanto, la fecha de pago figurará recién a los 15 días a partir de que se has confirmado esta primera suscripción de tu cuenta. <br></br>
 Llegará un mail a la casilla de correo asociada a la cuenta de Botmeni, confirmando la suscripción al plan seleccionado.<br></br>

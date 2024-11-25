@@ -19,7 +19,7 @@ Si deseas modificar la cantidad de preguntas que tienes contratada:
 {{< figure width="280px" height="200px" src="/images/general/aplicaciones.png" >}}
 3. Selecciona la nueva cantidad de preguntas que deseas contratar. El plan contratado está resaltado con la leyenda: Plan actual.
 {{< figure width="700px" height="500px" src="/images/general/cotizar_preguntas.png" >}}
-4. Presiona CONTRATAR. Se desplegará una nueva pantalla.
+4. Presiona SELECCIONAR. Se desplegará una nueva pantalla.
 {{< figure width="700px" height="500px" src="/images/general/contratar4.png" >}}
 5. Si tienes un cupón de descuento, ingresa el código y presiona APLICAR.
 {{< figure width="630px" height="450px" src="/images/general/cupon_botmeni.png" >}}

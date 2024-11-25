@@ -19,7 +19,7 @@ Para renovar el plan:
 {{< figure width="280px" height="200px" src="/images/general/aplicaciones.png" >}}
 4. Selecciona la cantidad de preguntas que deseas contratar (verás señalada la cantidad actualmente contratada). Puedes seleccionar la misma cantidad o una nueva
 {{< figure width="700px" height="500px" src="/images/general/preguntas_actuales.png" >}}
-4. El plan contratado está resaltado con la leyenda: Plan actual. Presiona CONTRATAR.
+4. El plan contratado está resaltado con la leyenda: Plan actual. Presiona SELECCIONAR.
 {{< figure width="700px" height="500px" src="/images/general/contratar_plan.png" >}}
 5. Se deslpegará la pantalla de contratación, con las características del plan a contratar descriptas en la parte superior.
 6. Si tienes un cupón de descuento, ingresa el código y presiona APLICAR.

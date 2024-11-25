@@ -27,3 +27,5 @@ Cuando todas las suscripciones de tu cuenta se encuentran Canceladas, y deseas v
 {{< figure width="630px" height="450px" src="/images/general/seleciona_tarjeta2.png" >}}
 
 Llegará un mail a la casilla de correo asociada a la cuenta de Botmeni, confirmando la suscripción al plan seleccionado.<br></br>
+Una vez que hayas confirmado la nueva suscripción, te recomendamos que verifiques en la sección Cuentas las cuentas de Mercado Libre vinculadas a tu cuenta de Botmeni. En la sección [Cuentas de Mercado Libre vinculadas a Botmeni](../../Personaliza_tu_cuenta_de_botmeni/Cuentas_de_Mercado_Libre/Cuentas_ML.md) están detallados los pasos tanto para conocer las cuentas vinculadas, como para vincularlas en caso de ser necesario.<br></br>
+<br></br>

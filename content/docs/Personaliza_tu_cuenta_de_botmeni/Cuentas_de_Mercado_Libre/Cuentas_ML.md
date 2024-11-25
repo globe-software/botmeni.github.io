@@ -12,20 +12,20 @@ toc: true
 Dentro de la plataforma puedes gestionar las cuentas de Mercado Libre asociadas a tu cuenta de Botmeni. 
 Para conocer la cantidad de cuentas que tienes disponible vincular según el plan de suscripción, puedes ingresar a la sección Aplicaciones de la plataforma, siguiendo los pasos descriptos en la guía en la sección [Funcionalidades y beneficios incluidos en cada plan](../../Suscripcíon_y_Pagos/Tu_Suscripcion/Conocer_beneficios_planes.md).<br></br>
 ### Vincular una nueva cuenta de Mercado Libre
-Si necesitas asociar una nueva cuenta de Mercado Libre a tu cuenta de Botmeni:
+Si necesitas asociar una cuenta de Mercado Libre a tu cuenta de Botmeni:
 1. Inicia sesión con un usuario con tipo de rol ADMINISTRADOR, en nuestra página de login <https://prod.botmeni.com/login>.
 2. Selecciona el módulo Cuentas del menú.
 {{< figure width="140px" height="100px" src="/images/general/cuentas.png" >}}
 3. Presiona AGREGAR.
 {{< figure width="630px" height="450px" src="/images/general/cuentas2.png" >}}
-3. Selecciona el país al que pertenece la cuenta que deseas asociar y presiona CONFIRMAR.
+4. Selecciona el país al que pertenece la cuenta que deseas asociar y presiona CONFIRMAR.
 {{< figure width="630px" height="450px" src="/images/general/onboarding_3_1.png" >}}
-3. Ingresa el e-mail, teléfono o usuario de la cuenta de Mercado Libre que deseas vincular, y selecciona CONTINUAR.
+5. Ingresa el e-mail, teléfono o usuario de la cuenta de Mercado Libre que deseas vincular, y selecciona CONTINUAR.
 {{< figure width="630px" height="450px" src="/images/general/onboarding_3_2.png" >}}
-4. Ingresa la contraseña de Mercado Libre correspondiente a dicha cuenta y presionar INICIAR SESIÓN.
-5. Selecciona la casilla para autorizar a botmeni a conectarse a Mercado libre si estás de acuerdo, y presiona CONTINUAR.
+6. Ingresa la contraseña de Mercado Libre correspondiente a dicha cuenta y presionar INICIAR SESIÓN.
+7. Selecciona la casilla para autorizar a botmeni a conectarse a Mercado libre si estás de acuerdo, y presiona CONTINUAR.
 {{< figure width="630px" height="450px" src="/images/general/onboarding_3_4_1.png" >}}
-6. Se desplegará una nueva pantalla, lee la descripción y presiona AUTORIZAR ESTA APLICACIÓN para autorizar a Botmeni.
+8. Se desplegará una nueva pantalla, lee la descripción y presiona AUTORIZAR ESTA APLICACIÓN para autorizar a Botmeni.
 {{< figure width="630px" height="450px" src="/images/general/onboarding_3_5_1.png" >}}
 Al visualizar nuevamente la pantalla, la misma mostrará el número de la nueva cuenta de Mercado Libre que quedó vinculada.<br></br>
 Si la nueva cuenta recién asociada no figura en la pantalla de Botmeni, presiona el botón ACTUALIZAR.
