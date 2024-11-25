@@ -28,7 +28,7 @@ Para comenzar con la prueba gratuita de 15 días:
 {{< figure width="560px" height="400px" src="/images/general/inicio5.png" >}}
 7. Si necesitas que te ayudemos para conocer la cantidad de preguntas de tu cuenta en Mercado libre en los últimos meses, presiona el recuadro ¿Cuántas preguntas necesito?
 {{< figure width="560px" height="400px" src="/images/general/cuantaspreguntas1.png" >}}
-8. Ingresa tu email, el nickname de la o las cuentas de Mercado Libre sobre las que deseas consultar, y escribe tu consulta en el recuadro Aclaraciones. Luego presiona ENVIAR. Nuestro equipo de soporte te enviará la información al correo electrónico.
+8. Ingresa tu email, el nickname de la o las cuentas de Mercado Libre sobre las que deseas consultar, y escribe tu consulta en el recuadro Aclaraciones. Luego presiona ENVIAR. Nuestro equipo de soporte enviará la información a tu correo electrónico.
 {{< figure width="560px" height="400px" src="/images/general/cuantaspreguntas2.png" >}}
 9. Para consultar por una cantidad de preguntas mayor a las detalladas en el listado, presiona sobre la leyenda Por planes más grandes, click aquí. 
 {{< figure width="560px" height="400px" src="/images/general/planesgrandes.png" >}}
