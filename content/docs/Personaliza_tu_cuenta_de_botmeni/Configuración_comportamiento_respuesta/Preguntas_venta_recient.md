@@ -31,7 +31,7 @@ Para configurar el comportamiento para preguntas que el usuario realiza los 7 d�
 6. En caso de que el comportamiento seleccionado sea Respuesta Fija, ingresa en el campo Respuesta fija el mensaje de debe enviarse como respuesta automática.
 {{< figure width="840px" height="600px" src="/images/general/particular16.png" >}}
 <br></br>
-Si se selecciona el comportamiento Manual con respuesta o Respuesta fija, las preguntas se consideran procesadas cuando la configuración por producto, categoría, vertical u horario que corresponda esté definida en modo Automático o Solo responder. Esto se debe a que implementar el comportamiento definido en esta sección requiere de análisis previo para identificar el tipo de pregunta del cual se trata.<br></br>
+Si se selecciona el comportamiento Manual con respuesta o Respuesta fija, las preguntas se consideran procesadas cuando la configuración por producto, categoría, vertical u horario que corresponda esté definida en modo Automático o Solo responder.<br></br>
 El comportamiento recién descripto puede variar en caso de que hayas definido comportamientos específicos para Horarios o fechas.<br></br>
 Para conocer cómo configurar el comportamiento de respuesta en horarios específicos para preguntas asociadas a una venta reciente, dirígete a la sección [Comportamiento según horarios](../Configuración_comportamiento_respuesta/Horarios_solo_analizar.md) disponible en la guía.<br></br>
 Los pasos para definir para una fecha específica el comportamiento de respuesta de preguntas realizadas luego de una venta reciente, están detallados en la sección [Comportamiento según fecha](../Configuración_comportamiento_respuesta/Dias_festivos.md).<br></br>

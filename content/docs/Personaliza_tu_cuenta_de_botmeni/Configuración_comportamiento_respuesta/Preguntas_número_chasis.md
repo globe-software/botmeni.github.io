@@ -24,7 +24,7 @@ Para configurar el comportamiento para preguntas que contienen número de chasis
 3. Posiciónate en la sección Configuraciones Particulares
 {{< figure width="840px" height="600px" src="/images/general/particular1.png" >}}
 4. Despliega el listado de comportamientos presionando el ícono triángulo invertido.
-{{< figure width="840px" height="600px" src="/images/general/particulares9.png" >}}
+{{< figure width="840px" height="600px" src="/images/general/particular9.png" >}}
 5. Selecciona el comportamiento deseado.
 {{< figure width="840px" height="600px" src="/images/general/particular10.png" >}}	
 6. En caso de que el comportamiento seleccionado sea Respuesta Fija, ingresa en el campo Respuesta fija el mensaje de debe enviarse como respuesta automática.

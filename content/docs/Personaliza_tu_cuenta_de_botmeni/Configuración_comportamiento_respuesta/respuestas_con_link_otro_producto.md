@@ -22,11 +22,11 @@ Para configurar el comportamiento para respuestas que contienen link a otros pro
 3. Posiciónate en la sección Configuraciones Particulares
 {{< figure width="840px" height="600px" src="/images/general/particular1.png" >}}
 4. Despliega el listado de comportamientos presionando el ícono triángulo invertido. 
-{{< figure width="840px" height="600px" src="/images/general/particulares12.png" >}}
+{{< figure width="840px" height="600px" src="/images/general/particular12.png" >}}
 5. Selecciona el comportamiento deseado.
-{{< figure width="840px" height="600px" src="/images/general/particulares13.png" >}}	
+{{< figure width="840px" height="600px" src="/images/general/particular13.png" >}}	
 <br></br>
 Independientemente de la selección recién mencionada, las preguntas se consideran procesadas cuando la configuración por producto, categoría, vertical u horario que corresponda esté definida en modo Automático o Solo responder. Esto se debe a que implementar el comportamiento definido en esta sección requiere de análisis previo para identificar el tipo de pregunta del cual se trata.<br></br>
 Para conocer cómo configurar el comportamiento de respuesta en horarios específicos para respuestas que contienen links a otros productos, dirígete a la sección [Comportamiento según horarios](../Configuración_comportamiento_respuesta/Horarios_solo_analizar.md) disponible en la guía.<br></br>
 Los pasos para definir el comportamiento de respuesta para fechas específicas cuando las respuestas tienen links a otros ítems, están detallados en la sección [Comportamiento según fecha](../Configuración_comportamiento_respuesta/Dias_festivos.md).<br></br>
-En la sección [Caracteríticas generales de la cuenta](../Configuración_comportamiento_respuesta/Caracteristicas_generales.md) de esta guía de usuario, se detalla cómo personalizar cuáles son los ítems que se utilizarán en respuestas que contengan recomendaciones a otros ítems.
+En la sección [Características generales de la cuenta](../Configuración_comportamiento_respuesta/Caracteristicas_generales.md) de esta guía de usuario, se detalla cómo personalizar cuáles son los ítems que se utilizarán en respuestas que contengan recomendaciones a otros ítems.
