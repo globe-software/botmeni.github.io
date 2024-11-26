@@ -25,7 +25,7 @@ Para visualizar el módulo estadísticas:
 7. La conversión puede visualizarse por cantidad o por monto de ventas, seleccionando MONTO O CANTIDAD según se desee. Si se selecciona MONTO, el mismo puede verse expresado en la moneda local de la tienda o en dólares estadounidenses, presionando sobre la moneda deseada.
  {{< figure width="700px" height="500px" src="/images/general/estadistica7.png" >}}
 8. El gráfico Tiempo de respuesta promedio detalla el tiempo de respuesta promedio para el periodo y cuenta de Mercado libre seleccionados en los filtros superiores, separados por franjas horarias. Permite detectar si existen periodos donde los tiempos de respuesta no son los óptimos, y se requiere una revisión de, por ej, las configuraciones establecidas para lograr menores tiempos.
- {{< figure width="700px" height="500px" src="/images/general/estadistica8.png" >}}
+ {{< figure width="700px" height="500px" src="/images/general/estadistica16.png" >}}
 9. Los valores corresponden al periodo seleccionado en los filtros. Y también es posible cambiarlo para tener el detalle de los últimos 14 días presionando sobre dicho recuadro.
  {{< figure width="700px" height="500px" src="/images/general/estadistica9.png" >}}
 10. El gráfico Preguntas en franjas horarias muestra la distribución de las preguntas,  para el periodo seleccionado en el filtro superior, en función de los días y horarios en que se reciben, diferenciados por la forma automática o no automática en que se respondieron las mismas.
