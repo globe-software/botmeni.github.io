@@ -39,7 +39,7 @@ Para establecer el comportamiento de respuesta para fechas específicas:
 {{< figure width="700px" height="500px" src="/images/general/nolaborables8.png" >}}
 11. Selecciona el tipo de comportamiento que debe aplicarse.
 {{< figure width="700px" height="500px" src="/images/general/nolaborables9.png" >}}
-12. En la imagen a continuación se muestra una configuración donde para las fechas 25/12/2024 y 01/01/2025 la configuración de respuesta es automática, excepto para las respuestas que contienen links a otros ítems, para las cuales la plataforma generará la respuesta pero la misma no se enviará (quedará pendiente para que el usuario la envíe manualmente). Las respuestas se enviarán de modo automático cuando su calidad sea 3 o superior.
+12. En la imagen a continuación se muestra una configuración donde para las fechas 25/12/2024 y 01/01/2025 la configuración de respuesta es automática. Las respuestas se enviarán de modo automático cuando su calidad sea 3 o superior, excepto para las respuestas que contienen links a otros ítems, para las cuales la plataforma generará la respuesta pero la misma no se enviará (quedará pendiente para que el usuario la envíe manualmente). 
 {{< figure width="700px" height="500px" src="/images/general/nolaborables10.png" >}}
 13. En caso de no seleccionar comportamientos específicos por tipo de pregunta/respuesta, se aplicará la configuración establecida en la sección Configuración Particular, tal cual se detalla en naranja debajo de cada categoría.
 {{< figure width="700px" height="500px" src="/images/general/nolaborables11.png" >}}
