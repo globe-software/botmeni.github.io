@@ -33,15 +33,17 @@ Para establecer el comportamiento de respuesta para fechas específicas:
 {{< figure width="700px" height="500px" src="/images/general/nolaborables6.png" >}}
 9. Para eliminar la configuración completamente, puedes presionar el ícono x a la derecha del campo de fechas.
 {{< figure width="700px" height="500px" src="/images/general/nolaborables7.png" >}}
+10. Si el comportamiento de respuesta está definido en Automático, en el recuadro Calidad de respuestas automáticas podrás establecer la calidad mínima que deben tener las respuestas para que sean enviadas de modo automático a Mercado Libre.
+{{< figure width="700px" height="500px" src="/images/general/nolaborables20.png" >}}
 10. Una vez seleccionadas las fechas y el comportamiento general, se pueden también especificar comportamientos particulares de respuesta en función de las características de las preguntas o respuestas. Para ello, presiona el ícono triángulo invertido en el tipo de pregunta/respuesta que deseas personalizar.
 {{< figure width="700px" height="500px" src="/images/general/nolaborables8.png" >}}
 11. Selecciona el tipo de comportamiento que debe aplicarse.
 {{< figure width="700px" height="500px" src="/images/general/nolaborables9.png" >}}
-12. En la imagen a continuación se muestra una configuración donde para las fechas 11/10/2024, 25/12/2024 y 01/01/2025 la configuración de respuesta es automática, excepto para las preguntas relacionadas con stock, para las cuales la plataforma generará la respuesta pero la misma no se enviará (quedará pendiente para que el usuario la envíe manualmente).
+12. En la imagen a continuación se muestra una configuración donde para las fechas 25/12/2024 y 01/01/2025 la configuración de respuesta es automática, excepto para las respuestas que contienen links a otros ítems, para las cuales la plataforma generará la respuesta pero la misma no se enviará (quedará pendiente para que el usuario la envíe manualmente). Las respuestas se enviarán de modo automático cuando su calidad sea 3 o superior.
 {{< figure width="700px" height="500px" src="/images/general/nolaborables10.png" >}}
 13. En caso de no seleccionar comportamientos específicos por tipo de pregunta/respuesta, se aplicará la configuración establecida en la sección Configuración Particular, tal cual se detalla en naranja debajo de cada categoría.
 {{< figure width="700px" height="500px" src="/images/general/nolaborables11.png" >}}
-14. Si deseas que las preguntas/respuestas con características particulares no tomen la configuración establecida en la sección Configuraciones Particulares, sino que se comporten según el comportamiento general seleccionado para las fechas, selecciona el modo de comportamiento APAGADO. Se muestra un ejemplo a continuación.
+14. Si deseas que las preguntas/respuestas con características particulares no tomen la configuración establecida en la sección Configuraciones Particulares, sino que se comporten según el comportamiento general seleccionado para las fechas, selecciona el modo de comportamiento NO APLICA. Se muestra un ejemplo a continuación.
 {{< figure width="700px" height="500px" src="/images/general/nolaborables19.png" >}}
 
 ### Establecer respuesta automática fija para fechas específicas
@@ -64,7 +66,7 @@ Si lo que deseas es establecer una respuesta automática fija, para determinadas
 {{< figure width="700px" height="500px" src="/images/general/nolaborables15.png" >}}
 2. Despliega las opciones de comportamiento presionando sobre el ícono triángulo invertido, en el tipo de pregunta o respuesta que desesas configurar.
 {{< figure width="700px" height="500px" src="/images/general/nolaborables16.png" >}}
-4. Selecciona Respuesta fija. Por ejemplo, en la imagen siguiente se configura Respuesta fija para las preguntas que ingresen en las fechas definidas y que sean del tipo Preguntas por stock.
+4. Selecciona Respuesta fija. Por ejemplo, en la imagen siguiente se configura Respuesta fija para las preguntas que ingresen en las fechas definidas y que sean sobre la comptabilidad entre el producto publicado y otro producto/accesorio que mencione el cliente.
 {{< figure width="700px" height="500px" src="/images/general/nolaborables17.png" >}}
 5. Ingresa el mensaje que deseas se envíe como respuesta automática.
 {{< figure width="700px" height="500px" src="/images/general/nolaborables18.png" >}}
