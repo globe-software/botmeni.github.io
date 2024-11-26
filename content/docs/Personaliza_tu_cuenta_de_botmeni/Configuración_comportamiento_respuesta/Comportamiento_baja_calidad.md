@@ -20,11 +20,13 @@ Para configurar el comportamiento para respuestas calificadas como baja calidad:
 2. Haz clic en CONFIGURACIÓN.
 {{< figure width="140px" height="100px" src="/images/general/configuracion.png" >}}
 3. Posiciónate en la sección Configuraciones Particulares
-{{< figure width="840px" height="600px" src="/images/general/particulares.png" >}}
+{{< figure width="840px" height="600px" src="/images/general/particular1.png" >}}
 4. Despliega el listado de comportamientos presionando el ícono triángulo invertido. 
-{{< figure width="840px" height="600px" src="/images/general/particulares16.png" >}}
+{{< figure width="840px" height="600px" src="/images/general/particular17.png" >}}
 5. Selecciona el comportamiento deseado.
-{{< figure width="840px" height="600px" src="/images/general/particulares17.png" >}}	
+{{< figure width="840px" height="600px" src="/images/general/particular18.png" >}}	
+6. En caso de que el comportamiento seleccionado sea Respuesta Fija, ingresa en el campo Respuesta fija el mensaje de debe enviarse como respuesta automática.
+{{< figure width="840px" height="600px" src="/images/general/particular19.png" >}}
 <br></br>
 Independientemente de la selección recién mencionada, las preguntas se consideran procesadas cuando la configuración por producto, categoría, vertical u horario que corresponda esté definida en modo Automático o Solo responder. Esto se debe a que implementar el comportamiento definido en esta sección requiere de análisis previo para identificar el tipo de pregunta del cual se trata.<br></br>
 Para conocer cómo configurar el comportamiento de respuesta en horarios específicos para respuestas son calificadas como de baja calidad, dirígete a la sección [Comportamiento según horarios](../Configuración_comportamiento_respuesta/Horarios_solo_analizar.md) disponible en la guía.<br></br>

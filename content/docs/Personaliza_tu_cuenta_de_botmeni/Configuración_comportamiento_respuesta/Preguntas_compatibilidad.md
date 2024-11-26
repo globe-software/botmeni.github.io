@@ -12,7 +12,7 @@ toc: true
 
 Botmeni te brinda la posibilidad de personalizar el comportamiento de respuesta para las preguntas que estén relacionadas con la compatibilidad del artículo de la publicación con un producto consultado por el cliente. 
 Existen cuatro opciones de comportamiento:
-- Apagado: no se personaliza el comportamiento para las preguntas sobre compatibilidad, se procesarán según la configuración que esté definida. 
+- No aplica: no se personaliza el comportamiento para las preguntas sobre compatibilidad, se procesarán según la configuración que esté definida. 
 - Manual con respuesta: Botmeni generará la respuesta y quedará pendiente para que tu la revises y la envíes (si la configuración de producto, categoría o vertical que le corresponde está definida en modo Automático o Solo analizar)
 - Manual sin respuesta: Botmeni no generará ni enviará respuesta al detectar que se trata de una pregunta sobre compatibilidad (si la configuración de producto, categoría o vertical que le corresponde está definida en modo Automático o Solo analizar).
 - Respuesta fija: se enviará como respuesta automática el mensaje definido por el usuario en el campo respuesta fija (si la configuración de producto, categoría o vertical que le corresponde está definida en modo Automático).
@@ -22,13 +22,13 @@ Para configurar el comportamiento para preguntas asociadas a compatibilidad:
 2. Haz clic en CONFIGURACIÓN.
 {{< figure width="140px" height="100px" src="/images/general/configuracion.png" >}}
 3. Posiciónate en la sección Configuraciones Particulares
-{{< figure width="840px" height="600px" src="/images/general/particulares.png" >}}
+{{< figure width="840px" height="600px" src="/images/general/particular1.png" >}}
 4. Despliega el listado de comportamientos presionando el ícono triángulo invertido. 
-{{< figure width="840px" height="600px" src="/images/general/particulares4.png" >}}
+{{< figure width="840px" height="600px" src="/images/general/particular6.png" >}}
 5. Selecciona el comportamiento deseado.
-{{< figure width="840px" height="600px" src="/images/general/particulares5.png" >}}	
+{{< figure width="840px" height="600px" src="/images/general/particular7.png" >}}	
 6. En caso de que el comportamiento seleccionado sea Respuesta Fija, ingresa en el campo Respuesta fija el mensaje de debe enviarse como respuesta automática.
-{{< figure width="840px" height="600px" src="/images/general/particulares13.png" >}}
+{{< figure width="840px" height="600px" src="/images/general/particular8.png" >}}
 <br></br>
 Independientemente de la selección recién mencionada, las preguntas se consideran procesadas cuando la configuración por producto, categoría, vertical u horario que corresponda esté definida en modo Automático o Solo responder. Esto se debe a que implementar el comportamiento definido en esta sección requiere de análisis previo para identificar el tipo de pregunta del cual se trata.<br></br>
 El comportamiento recién descripto puede variar en caso de que hayas definido comportamientos específicos para Horarios o fechas.<br></br>
