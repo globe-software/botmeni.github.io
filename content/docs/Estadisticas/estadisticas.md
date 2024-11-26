@@ -27,13 +27,13 @@ Para visualizar el módulo estadísticas:
 8. El gráfico Tiempo de respuesta promedio detalla el tiempo de respuesta promedio para el periodo y cuenta de Mercado libre seleccionados en los filtros superiores, separados por franjas horarias. Permite detectar si existen periodos donde los tiempos de respuesta no son los óptimos, y se requiere una revisión de, por ej, las configuraciones establecidas para lograr menores tiempos.
  {{< figure width="700px" height="500px" src="/images/general/estadistica16.png" >}}
 9. Los valores corresponden al periodo seleccionado en los filtros. Y también es posible cambiarlo para tener el detalle de los últimos 14 días presionando sobre dicho recuadro.
- {{< figure width="700px" height="500px" src="/images/general/estadistica9.png" >}}
+ {{< figure width="700px" height="500px" src="/images/general/estadistica17.png" >}}
 10. El gráfico Preguntas en franjas horarias muestra la distribución de las preguntas,  para el periodo seleccionado en el filtro superior, en función de los días y horarios en que se reciben, diferenciados por la forma automática o no automática en que se respondieron las mismas.
  {{< figure width="700px" height="500px" src="/images/general/estadistica15.png" >}}
 11. El gráfico Preguntas por día presenta la evolución diaria de las preguntas, para el periodo seleccionado en el filtro superior. La curva superior, de color gris, corresponde al total de preguntas, y las curvas verde y amarilla muestran por separado las preguntas según su comportamiento: automáticas y no automáticas respectivamente.
  {{< figure width="700px" height="500px" src="/images/general/estadistica10.png" >}}
  11. En la sección Órdenes en franjas horarias, puede verse la distribución horaria de las órdenes ingresadas en el periodo seleccionado, diferenciadas en función de si las mismas tuvieron o no una pregunta previa. 
- {{< figure width="700px" height="500px" src="/images/general/estadistica15.png" >}}
+ {{< figure width="700px" height="500px" src="/images/general/estadistica14.png" >}}
  12. El gráfico Órdenes por día detalla las órdenes ingresadas por día, para el periodo y cuenta de ML seleccionados en los filtros superiores, diferenciándolas en 3 curvas: la cantidad de órdenes totales (total), las órdenes que tuvieron una pregunta previa (Con pregunta), y las órdenes donde la pregunta previa se contestó de forma automática (Resp. automática).
  {{< figure width="700px" height="500px" src="/images/general/estadistica12.png" >}}
  13. Las órdenes pueden visualizarse por CANTIDAD o MONTO, seleccionando en el gráfico la opción deseada. Si se selecciona MONTO, puedes elegir si el valor se expresa en la moneda local de la tienda o en dólares estadounidenses.
