@@ -10,7 +10,7 @@ draft: false
 toc: true
 ---
 <br></br>
-Para establecer el comportamiento de respuesta del bot de modo general para tu tienda:
+Para establecer el comportamiento de respuesta de modo general para tu tienda:
 1. Inicia sesión con un usuario con tipo de rol ADMINISTRADOR, en nuestra página de login <https://prod.botmeni.com/login>.
 2. Haz clic en CONFIGURACIÓN.
 {{< figure width="140px" height="100px" src="/images/general/configuracion.png" >}}
