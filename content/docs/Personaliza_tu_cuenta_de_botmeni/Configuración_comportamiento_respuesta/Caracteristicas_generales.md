@@ -21,16 +21,16 @@ Dentro de la sección CONFIGURACIÓN de la cuenta, se pueden establecer caracter
 
 Dentro de la sección CONFIGURACIÓN puedes detallar si la empresa realiza todos los envíos a través de Mercado Envío, o utiliza otras formas de distribución (de forma complementaria con Mercado envío o sin utilizar Mercado envío).<br></br>
 Para detallar el modo de distribución, una vez que has realizado los pasos recién descriptos y estás visualizando la sección CONFIGURACIÓN:<br></br>
-En la pregunta referida a Modos de distribución, si todos los envíos de la empresa se realizan a través de Mercado Envíos selecciona SI. Caso contrario selecciona No.
+En la pregunta referida a Modos de distribución, si todos los envíos de la empresa se realizan a través de Mercado Envíos selecciona SI.
 {{< figure width="840px" height="600px" src="/images/general/general2.png" >}}
 
-Si has seleccionado NO se habilitará en el menú la sección Envíos, para aquellos planes que lo incluyan dentro de sus funcionalidades. 
+Por el contrario, si utilizas otros modos de distribución además de Mercado envío, presiona NO. Al seleccionar NO, se habilitará en el menú la sección Envíos, para aquellos planes que lo incluyan dentro de sus funcionalidades. 
 {{< figure width="840px" height="600px" src="/images/general/general3.png" >}}
 En dicha sección, podrás detallar las datos de envío de los centros de distribución utlizados por la empresa, especificando por ejemplo para una dada región, e incluso una categoría o producto en específico, los costos y tiempos de envío. Toda esa información será tomada en cuenta a la hora de procesar las consultas de los clientes en Mercado Libre. En la sección [Envíos](../Modulo_envíos/Envíos.md) de esta guía puedes ver el paso a paso para configurarlos.
      
 ### Recomendación de otros ítems relacionados
 
-Dentro de la sección CONFIGURACIÓN puedes establecer qué ítems deben utilizarse en las respuestas al recomendar otros ítems relacionados a la publicación. Para ello, una vez que has realizado los pasos detallados al comienzo de esta página y estás visualizando la sección CONFIGURACIÓN, despliega la lista disponible de comportamientos presionanado el triángulo invertido:
+Dentro de la sección CONFIGURACIÓN puedes establecer qué ítems deben utilizarse en las respuestas al recomendar otros ítems relacionados a la publicación. Para ello, una vez que has realizado los pasos detallados al comienzo de esta página y estás visualizando la sección CONFIGURACIÓN, despliega la lista disponible de comportamientos presionando el triángulo invertido:
 {{< figure width="840px" height="600px" src="/images/general/general4.png" >}}
 1. Si seleccionas Recomendar todos, se utilizarán dentro de la respuesta de recomendación todos los ítems pertenecientes a la cuenta de Mercado Libre.
 {{< figure width="840px" height="600px" src="/images/general/general5.png" >}}
