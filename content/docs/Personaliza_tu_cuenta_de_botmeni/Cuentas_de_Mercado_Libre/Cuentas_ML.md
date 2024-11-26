@@ -42,7 +42,7 @@ Si necesitas desvincular una cuenta de Mercado Libre de tu cuenta de Botmeni:
 2. Selecciona el módulo Cuentas del menú.
 {{< figure width="140px" height="100px" src="/images/general/cuentas.png" >}}
 3. Presiona el ícono papelera a la derecha de la cuenta que deseas desasociar.
-{{< figure width="630px" height="450px" src="/images/general/cuentas5.png" >}}
+{{< figure width="560px" height="400px" src="/images/general/cuentas5.png" >}}
 4. Presiona Desvincular en el mensaje que requiere tu confirmación.
-{{< figure width="630px" height="450px" src="/images/general/cuentas6.png" >}}
+{{< figure width="560px" height="400px" src="/images/general/cuentas6.png" >}}
 La cuenta quedará desvinculada de tu cuenta de Botmeni.
