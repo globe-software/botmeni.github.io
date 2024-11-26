@@ -1,5 +1,5 @@
 ---
-weight: 598
+weight: 565
 title: "Comportamiento de respuesta para respuestas con baja calidad"
 description: "Comportamiento de respuesta para respuestas con baja calidad"
 icon: "category"
@@ -10,7 +10,7 @@ draft: false
 toc: true
 ---
 
-Botmeni te brinda la posibilidad de personalizar el comportamiento de respuesta para respuestas que la plataforma evalúa que son de baja calidad, y por lo tanto no envía de modo automático a Mercado Libre. 
+Botmeni te brinda la posibilidad de personalizar el comportamiento de respuesta para respuestas que la plataforma evalúa que son de baja calidad, y por lo tanto no envía de modo automático a Mercado Libre. El nivel de calidad mínimo requerido es de 3, y es posible personalizar niveles superiores de calidad mínima, según se detalla en la sección [Calidad mínima para envío de respuestas automáticas](../../Personaliza_tu_cuenta_de_botmeni/Configuración_comportamiento_respuesta/Calidad_minima.md). <br></br>
 Existen dos opciones de comportamiento que puedes seleccionar:
 - Revisión manual: la pregunta queda pendiente para que tu la revises y luego la envíes (si la configuración de producto, categoría o vertical que le corresponde está definida en modo Automático o Solo analizar)
 - Respuesta Fija: si la pregunta generada es calificada como de baja calidad y el comportamiento establecido es Automático, se enviará la respuesta Fija que tu definas.

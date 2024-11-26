@@ -1,5 +1,5 @@
 ---
-weight: 550
+weight: 542
 title: "Características generales de la cuenta"
 description: "Establece características generales"
 icon: "category"

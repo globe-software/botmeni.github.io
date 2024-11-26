@@ -1,5 +1,5 @@
 ---
-weight: 575
+weight: 548
 title: "Establecer el comportamiento de respuesta para preguntas relacionadas con el stock"
 description: "Establecer el comportamiento de respuesta para preguntas relacionadas con el stock"
 icon: "category"

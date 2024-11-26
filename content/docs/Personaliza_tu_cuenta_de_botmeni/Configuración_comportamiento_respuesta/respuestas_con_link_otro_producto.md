@@ -1,5 +1,5 @@
 ---
-weight: 590
+weight: 555
 title: "Comportamiento de respuesta para respuestas con link a otros ítems"
 description: "Comportamiento de respuesta para respuestas con link a otros ítems"
 icon: "category"

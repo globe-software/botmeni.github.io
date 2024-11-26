@@ -1,5 +1,5 @@
 ---
-weight: 595
+weight: 560
 title: "Comportamiento de respuesta para preguntas posteriores a una venta reciente"
 description: "Comportamiento de respuesta para preguntas posteriores a una venta reciente"
 icon: "category"

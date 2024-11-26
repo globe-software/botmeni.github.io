@@ -1,5 +1,5 @@
 ---
-weight: 580
+weight: 550
 title: "Comportamiento de respuesta para preguntas relacionadas con compatibilidad"
 description: "Comportamiento de respuesta para preguntas relacionadas con compatibilidad"
 icon: "category"
