@@ -10,8 +10,9 @@ draft: false
 toc: true
 ---
 En caso de figurar que el pago fue Rechazado, para volver a intentar el pago:
-1. Ingresa a Mi perfil presionando el ícono triángulo invertido a la derecha de tu nombre y seleccionanado Ver perfil.
-{{< figure width="420px" height="300px" src="/images/general/ver_pefil.png" >}}
+1. Inicia sesión desde la página de login  <https://prod.botmeni.com/login>.
+2. Presiona el ícono triángulo invertido ubicado a la derecha de tu nombre. Se desplegará un menú de opciones. Presiona Suscripciones
+{{< figure width="420px" height="300px" src="/images/general/suscripciones.png" >}} 
 2. Presiona, dentro del listado Mis suscripciones, sobre la suscripción vigente. 
 {{< figure width="700px" height="500px" src="/images/general/pago_rechazado.png" >}}
 3. Presiona el botón REINTENTAR 
