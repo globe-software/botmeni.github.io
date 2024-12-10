@@ -27,23 +27,25 @@ En caso de figurar que el pago de la suscripción a quedado en estado Rechazado,
 {{< figure width="420px" height="300px" src="/images/general/pago_rechazado5.png" >}}
 5. Visualizarás un mensaje que te confirmará que el pago fue exitoso o te avisará que quedó en estado rechazado nuevamente. Si lo deseas, puedas presionar sobre los botones DESCARGAR FACTURA o DESCARGAR RECIBO.
 {{< figure width="420px" height="300px" src="/images/general/pago_rechazado6.png" >}}
-6. Al visualizar nuevamente la sección Suscripciones, verás el nuevo estado resultante del pago. Si no ves el estado del pago actualizado, sólo debes presionar el botón refrescar.
-{{< figure width="420px" height="300px" src="/images/general/pago_rechazado9.png" >}}
-7. A continuación se detallará el nuevo estado de tu suscripción.
-{{< figure width="420px" height="300px" src="/images/general/pago_rechazado10.png" >}}
+6. Al visualizar nuevamente la sección Suscripciones, verás el nuevo estado resultante del pago. Si el mismo no está actualizado, sólo debes presionar el botón refrescar.
+{{< figure width="700px" height="500px" src="/images/general/pago_rechazado9.png" >}}
+7. A continuación se detallará el nuevo estado actualizado de tu suscripción.
+{{< figure width="700px" height="500px" src="/images/general/pago_rechazado10.png" >}}
 <br></br>
 
-### Pago rechazado al crear una suscripción nueva. Reintentar el pago desde el mensaje de PAGO RECHAZADO.
+### Pago rechazado al crear una suscripción nueva. Reintentar el pago desde el mensaje de Pago Rechazado.
 
-Si al momento de crear una nueva suscripción, la plataforma devuelve un mensaje de que el Pago fue rechazado:
-1. Presiona REINTENTAR.
+Si al momento de crear una nueva suscripción, la plataforma devuelve un mensaje relacionado a que hubo un error con el pago:
+1. Presiona REINTENTAR, se abrirá nuevamente la pantalla para confirmar la suscripción. 
 {{< figure width="420px" height="300px" src="/images/general/pago_rechazado11.png" >}}
 2. En caso de contar con un cupón de descuento, ingresa el mismo y presiona APLICAR
 {{< figure width="420px" height="300px" src="/images/general/pago_rechazado13.png" >}}
+3. A continuación se detalla el listado de tarjetas disponibles para seleccionar.
+{{< figure width="420px" height="300px" src="/images/general/pago_rechazado20.png" >}}
 4. Si deseas ingresar una nueva tarjeta que no figura en el listado, presiona VER MÉTODOS DE PAGO. 
 {{< figure width="420px" height="300px" src="/images/general/pago_rechazado14.png" >}}
 5. Presiona NUEVA TARJETA
-{{< figure width="420px" height="300px" src="/images/general/pago_rechazado15.png" >}}
+{{< figure width="630px" height="450px" src="/images/general/pago_rechazado15.png" >}}
 6. Ingresa los datos y presiona AGREGAR TARJETA.
 {{< figure width="420px" height="300px" src="/images/general/pago_rechazado16.png" >}}
 7. Presiona VOLVER.
@@ -55,4 +57,4 @@ Si al momento de crear una nueva suscripción, la plataforma devuelve un mensaje
 
 <br></br>
 
-Recuerda que estamos para ayudarte en lo que necesites. Por favor, si el problema presiste contáctanos de inmediato por email a soporte@botmeni.com y nuestro equipo te brindará el asesoramiento necesario. 
+Estamos para ayudarte en lo que necesites. Por favor, si el problema persiste contáctanos de inmediato a nuestro correo electrónico soporte@botmeni.com y nuestro equipo te brindará el asesoramiento necesario. 

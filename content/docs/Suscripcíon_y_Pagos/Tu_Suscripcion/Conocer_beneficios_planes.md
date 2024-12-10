@@ -10,7 +10,9 @@ draft: false
 toc: true
 ---
 <br></br>
+
 ### Características del plan contratado
+
 
 Si deseas conocer las funcionalidades y beneficios incluidos en tu plan:
 1. Presiona el ícono triángulo invertido ubicado a la derecha de tu nombre. Se desplegará el menú que se muestra en la imagen. Selecciona Ver perfil.
