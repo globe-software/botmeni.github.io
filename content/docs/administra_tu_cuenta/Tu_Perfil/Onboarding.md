@@ -42,7 +42,7 @@ Antes de comenzar la vinculación de cuentas, por favor verifica que está cerra
 {{< figure width="630px" height="450px" src="/images/general/onboarding_3_5_1.png" >}}
 Al visualizar nuevamente la pantalla de onboarding, la misma mostrará el número de cuenta de Mercado Libre que quedó vinculada. Puedes presionar el botón Actualizar en caso de que no esté detallada aún la cuenta de Mercado Libre asociada. <br></br>
 Si deseas vincular más cuentas (y no has llegado al límite de cantidad de cuentas de Mercado Libre que puedes vincular según el plan contratado) ingresa nuevamente a Mercado Libre y cierra sesión, luego repite los pasos recién detallados. Todas las cuentas de Mercado Libre vinculadas a una cuenta de Botmeni deben pertenecer al mismo país. <br></br>
-Si al completar los pasos te figura un mensaje de error referido a que la cuenta ya está asociada, y esto no es así, ingresa a Mercado Libre y cierra sesión presionando SALIR. A continuación realiza nuevamente los pasos para ASOCIAR la cuenta.
+Si al completar los pasos te figura un mensaje de error referido a que la cuenta ya está asociada, y esto no es así, ingresa a Mercado Libre y cierra sesión presionando SALIR. A continuación realiza nuevamente los pasos para ASOCIAR la cuenta.<br></br>
 Otra opción para ASOCIAR la nueva cuenta si el sistema te devuelve el mensaje de error referido a que la cuenta ya está asociada, y no es así, es abrir el navegador en modo incógnito, iniciar sesión en Botmeni y continuar el onboarding desde esa nueva ventana. <br></br>
 Recuerda que también puedes [contactarte con nosotros](../../Ayuda.md), estamos disponibles para ayudarte en lo que necesites. 
 
