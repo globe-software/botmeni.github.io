@@ -11,8 +11,9 @@ toc: true
 ---
 Dentro de la plataforma puedes gestionar las cuentas de Mercado Libre asociadas a tu cuenta de Botmeni. 
 Para conocer la cantidad de cuentas que tienes disponible vincular según el plan de suscripción, puedes ingresar a la sección Aplicaciones de la plataforma, siguiendo los pasos descriptos en la guía en la sección [Funcionalidades y beneficios incluidos en cada plan](../../Suscripcíon_y_Pagos/Tu_Suscripcion/Conocer_beneficios_planes.md).<br></br>
+
 ### Vincular una nueva cuenta de Mercado Libre
-Si necesitas asociar una cuenta de Mercado Libre a tu cuenta de Botmeni:
+Si necesitas asociar una cuenta de Mercado Libre a tu cuenta de Botmeni, es conveniente que en primer lugar cierres tu sesión en Mercado Libre. A continuación:
 1. Inicia sesión con un usuario con tipo de rol ADMINISTRADOR, en nuestra página de login <https://prod.botmeni.com/login>.
 2. Selecciona el módulo Cuentas del menú.
 {{< figure width="140px" height="100px" src="/images/general/cuentas.png" >}}
@@ -31,8 +32,8 @@ Al visualizar nuevamente la pantalla, la misma mostrará el número de la nueva 
 Si la nueva cuenta recién asociada no figura en la pantalla de Botmeni, presiona el botón ACTUALIZAR.
 {{< figure width="630px" height="450px" src="/images/general/cuentas4.png" >}}
 
-Si deseas vincular más cuentas (y no has llegado al límite de cantidad de cuentas de Mercado Libre que puedes vincular según el plan contratado) presiona nuevamente AGREGAR y repite los pasos recién detallados. Todas las cuentas de Mercado Libre vinculadas a una cuenta de Botmeni deben pertenecer al mismo país. <br></br>
-Si al completar los pasos la plataforma te devuelve un mensaje de error referido a que la cuenta ya está asociada, y esto no es así, ingresa a Mercado Libre y cierra sesión presionando SALIR. A continuación realiza nuevamente los pasos para ASOCIAR la cuenta. <br></br>
+Si deseas vincular más cuentas (y no has llegado al límite de cantidad de cuentas de Mercado Libre que puedes vincular según el plan contratado) ingresa nuevamente a Mercado Libre y cierra sesión, luego repite los pasos recién detallados. Todas las cuentas de Mercado Libre vinculadas a una cuenta de Botmeni deben pertenecer al mismo país. <br></br>
+Si al completar los pasos la plataforma te devuelve un mensaje de error referido a que la cuenta ya está asociada, y esto no es así, verifica que está cerrada tu sesión en Mercado Libre, y de no ser así cierra la sesión presionando SALIR. A continuación realiza nuevamente los pasos para ASOCIAR la cuenta. <br></br>
 Otra opción para ASOCIAR la nueva cuenta si el sistema te devuelve el mensaje de error referido a que la cuenta ya está asociada, y no es así, es abrir el navegador en modo incógnito, y a continuación repetir todos los pasos recién detallados.<br></br>
 Recuerda que también puedes [contactarte con nosotros](../../Ayuda.md), estamos disponibles para ayudarte en lo que necesites. 
 
